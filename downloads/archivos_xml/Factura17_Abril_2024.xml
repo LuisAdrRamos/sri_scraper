@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2804202401179071031900120420370000152465658032311</numeroAutorizacion>
+<fechaAutorizacion>2024-04-28T19:04:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>FARMACIAS Y COMISARIATOS DE MEDICINAS S.A. FARCOMED</razonSocial>
+        <nombreComercial>FYBECA SAN LUIS SHOPPING</nombreComercial>
+        <ruc>1790710319001</ruc>
+        <claveAcceso>2804202401179071031900120420370000152465658032311</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>042</estab>
+        <ptoEmi>037</ptoEmi>
+        <secuencial>000015246</secuencial>
+        <dirMatriz>KM CINCO Y MEDIO AV DE LOS SHYRIS N SN Y SECUNDARIA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>28/04/2024</fechaEmision>
+        <dirEstablecimiento>ISLA SANTA CLARA SN Y AV. SAN LUISCC. SAN LUIS</dirEstablecimiento>
+        <contribuyenteEspecial>5368</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>LUIS EDISON RAMOS CHAGAY</razonSocialComprador>
+        <identificacionComprador>1712961562</identificacionComprador>
+        <totalSinImpuestos>1.47</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>0.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1.47</baseImponible>
+                <tarifa>15</tarifa>
+                <valor>0.22</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>1.69</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>1.69</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>17008</codigoPrincipal>
+            <descripcion>GASEOSA SPRITE 500 ML</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0.51</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0.51</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.51</baseImponible>
+                    <valor>0.08</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>100067314</codigoPrincipal>
+            <descripcion>AGUA SABORIZADA FRUTARIS MANZANA 355 ML</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0.3</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0.3</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.30</baseImponible>
+                    <valor>0.05</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>100191332</codigoPrincipal>
+            <descripcion>JUGOS ORANGINE MORA NATURAL 400 ML</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0.66</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.66</baseImponible>
+                    <valor>0.10</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="DIRECCION">CALLE B 719</campoAdicional>
+        <campoAdicional nombre="DESCUENTO">0.1035</campoAdicional>
+        <campoAdicional nombre="DEDUCIBLE ALIMENTOS">1.47</campoAdicional>
+        <campoAdicional nombre="GRAN CONTRIBUYENTE">NAC-GCFOIOC21-00001018-E</campoAdicional>
+        <campoAdicional nombre="DOCUMENTO INTERNO">226240430</campoAdicional>
+        <campoAdicional nombre="EMAIL">alexa_guz@hotmail.es</campoAdicional>
+        <campoAdicional nombre="FOLIO">jqeo3gb3</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature790376"><ds:SignedInfo Id="Signature-SignedInfo374691"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID136068" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature790376-SignedProperties680649"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>O6cwRn+v6KV0a3mat0ijjaBSI/g=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1901638"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ipDStsVBEjUv7ftCwSMsXV85vKs=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-208174" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>8ISV0S3Ii5/X8jejRgXpkyNL3LY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue471601">J30Ddmcvvp441p1zcrL0q9+qf+p5SRN6gcJXHtsmHLh4Kf3hBWMfl6bZjVrjYdhA7aKbQzur3LPNC+aHgjtLUXxWWcH9sKrXoPAAsHoZ+jy9o9JQjJl4foxXnR7qpkhu2OQwPj8tX+MihrZIUUnChyvTBBBcZOs1Fy0embCimkSraXUqP9Zc9cE/f9u3fV54Sh24GXc0yU5watbGBiRiuMmzNLa50myhSYu48snl889RsO5eB02QEBm9WSGozRfXb6yu9v4jNdrTOoKsdNWBGKkocrdodJKiHVo84gaFRGc1n0Gt0uV2R8f07TQzkVqIVJBJrcxSsYATmIr5phFsww==</ds:SignatureValue><ds:KeyInfo Id="Certificate1901638"><ds:X509Data><ds:X509Certificate>MIIMOjCCCiKgAwIBAgIEcIs+tTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA2MDYxNjE5MjRaFw0yNTA2MDUxNjE5MjRaMIGdMSYwJAYDVQQDDB1NSUdVRUwgQU5HRUwgQ0VMRURPTiBHT05aQUxFWjEVMBMGA1UEBRMMMDYwNjIzMTEyODU3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAItWzeE70FkPBPLQwgonAnpaaVd9bUTJj6VIr/NOZGcjc0bOwAbeUE8v4r32/K/WmMSDwY5Xv8RCKy41+wCi0QW9wY8hiFmJRDqXfZoiYXH3hQ+vlPBODRzw9RKn12YMw3LOFCc2Sr0Z1dG6y0SLBuwsyyBe65Z40S8Kt18AlJ47MskBZ23QNQFRGjrWUJn4kt22+c1FDYurWzf8WlciVToPqE1pzq0V0aeYgdGLvZvFA9SctWXUv7MiSbkxydy4uuE6CaUjcBc0DMclrz4Eiu4s/OPdkwI8H1jZ6KFCO7kuEitilNRmalz2kmkZWtWLv5ecvSXfz+PKO+4RMpywam8CAwEAAaOCB4Iwggd+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMDIGA1UdEQQrMCmBJ2dfcmVwcmVzZW50YW50ZWxlZ2FsQGNvcnBvcmFjaW9uZ3BmLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTQrh2rS43gnCqRy22UStK9kE2TjzArBgNVHRAEJDAigA8yMDIzMDYwNjE2MTkyNFqBDzIwMjUwNjA1MTYxOTI0WjALBgNVHQ8EBAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRQUkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjE3NTk3MDk4MzMwGgYKKwYBBAGCpnIDCQQMDApSVU1JTklBSFVJMBEGCisGAQQBgqZyAyIEAwwBLjAwBgorBgEEAYKmcgMHBCIMIEFWIERFIExPUyBTSFlSSVMgU04gWSBTRUNVTkRBUklBMBwGCisGAQQBgqZyAwIEDgwMTUlHVUVMIEFOR0VMMB8GCisGAQQBgqZyAyAEEQwPMDAxMDE5MDAwMTQxOTg4MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0NFTEVET04wQgYKKwYBBAGCpnIDCgQ0DDJGQVJNQUNJQVMgWSBDT01JU0FSSUFUT1MgREUgTUVESUNJTkFTIFMgQSBGQVJDT01FRDAdBgorBgEEAYKmcgMLBA8MDTE3OTA3MTAzMTkwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAYBgorBgEEAYKmcgMEBAoMCEdPTlpBTEVaMBoGCisGAQQBgqZyAwgEDAwKMDkyMzgyOTgwMDANBgkqhkiG9w0BAQsFAAOCAgEAplHCw93pqfc4NnHmlrvk+D2yDJgz8n6kYFx0kq7vXTu5jBtMHhD25TAnu1sWDWfzdGIzH0h1OzBn8ZaQ0/L8cs2UamaJPrXR1RMBi9qMRzSobv0aj5gQ2VRUHNDY9pOLCXMBMBF6wFZUzJqSPWYWxce+2U/E2MJqSOTHLaRf8UdVQcFXYrt/rcFzu20NYtCyBljkzg8Sqgw7Gi7MNqbbOx7ADuE7EfeQv/ClGpzDo/c4gMh7vjPi39FBYTxLDMeDg1MKWMgDwOh9FuU3b6iFvNBD/72ouO1WnShivACv1g4a6kXaP7mdC/5Z8lxVc8c0cekWTQ+IJyq8goFLUna4N78f3AFDt0i6updm4z9UxUa1LuBflGB+36Tv+cJaJoEvFH0U4WrmfUoEtyACgWZqHyP0v3tDuzC05bjPkCYVA65BGI8v+q2OwlNvLl15+Bmtn/Bb00otmq+m2G04P2t7cLZm1CeLGVTuewpjFAeoiZZ2fXi0wO3C0JrM7wYhI1zzurFxYp5cQrs4BxJbMr+ZYjb4M4NBYzNSTY0+r+nQCzXVG90kJDpMax+ZDBJbP04Q/REOmC1yIK5vezghKoa1OmBDpJawZwlDL/AD2kxa4t7GtubvmB/2u7uxXzUf7BmztUKjMNLuI0WoaZFiGKWQsA6ikDiSRlHyNpWFqLoJ3Pk=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+i1bN4TvQWQ8E8tDCCicCelppV31tRMmPpUiv805kZyNzRs7ABt5QTy/ivfb8r9aYxIPBjle/xEIrLjX7AKLRBb3BjyGIWYlEOpd9miJhcfeFD6+U8E4NHPD1EqfXZgzDcs4UJzZKvRnV0brLRIsG7CzLIF7rlnjRLwq3XwCUnjsyyQFnbdA1AVEaOtZQmfiS3bb5zUUNi6tbN/xaVyJVOg+oTWnOrRXRp5iB0Yu9m8UD1Jy1ZdS/syJJuTHJ3Li64ToJpSNwFzQMxyWvPgSK7iz8492TAjwfWNnooUI7uS4SK2KU1GZqXPaSaRla1Yu/l5y9Jd/P48o77hEynLBqbw==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature790376-Object773113"><etsi:QualifyingProperties Target="#Signature790376"><etsi:SignedProperties Id="Signature790376-SignedProperties680649"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-04-28T19:04:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>MnifWv4est1B2pY7R6e19iQv04c=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1888173749</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-208174"><etsi:Description>Contenido Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
