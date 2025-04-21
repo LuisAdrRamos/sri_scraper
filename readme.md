@@ -44,19 +44,32 @@ git clone https://github.com/tu-usuario/sri-scraper.git
 cd sri-scraper
 ```
 
-2. **Crear un entorno virtual (opcional pero recomendado)**
+### 2. **Configurar variables de entorno**
 
-```bash
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+Crea un archivo `.env` con tus credenciales del SRI:
+
+```env
+SRI_USER=tu_usuario
+SRI_PASS=tu_contraseña
 ```
 
-3. **Instalar dependencias**
+### 3. **Instalación de dependencias**
+
+Este proyecto usa Python 3.8 o superior. A continuación se listan las librerías necesarias y su propósito:
+
+| Librería         | Instalación                      | Descripción |
+|------------------|----------------------------------|-------------|
+| `playwright`     | `pip install playwright`         | Automatiza la navegación en el portal del SRI (simula un navegador, similar a Selenium pero más moderno). |
+| `python-dotenv`  | `pip install python-dotenv`      | Permite cargar variables de entorno desde un archivo `.env` (por ejemplo, usuario y contraseña del contribuyente). |
+
+Una vez instaladas, ejecuta también:
 
 ```bash
-pip install -r requirements.txt
 playwright install
 ```
+
+Este comando descarga los navegadores necesarios (Chromium, Firefox, WebKit) para que Playwright pueda funcionar correctamente.
+
 
 ## 🚀 Uso
 
@@ -68,8 +81,19 @@ python main.py
 
 Luego, sigue las instrucciones en consola para ingresar tus credenciales y seleccionar los comprobantes a descargar. El navegador se mantendrá abierto hasta que se completen las descargas.
 
+---
+
 ## 🛡️ Consideraciones
 
-- El sistema requiere interacción manual para resolver el CAPTCHA de ingreso.
 - Asegúrate de tener conexión estable a internet.
-- El proyecto está diseñado con fines educativos y de automatización legal autorizada por el contribuyente.
+- Asegúrate de tener un RUC y constraseña en el .env
+- Puedes modificar el flujo desde `main.py` para controlar el bucle de descargas.
+- El proyecto está pensado para uso interno de automatización empresarial.
+
+---
+
+## 🔐 Licencia
+
+Este proyecto ha sido desarrollado exclusivamente para uso interno dentro de la empresa Planit como parte de un sistema privado. Su distribución o reutilización fuera de este contexto no está permitida sin autorización expresa.
+
+---
