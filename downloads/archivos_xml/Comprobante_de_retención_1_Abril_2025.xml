@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <autorizacion>
 <estado>AUTORIZADO</estado>
-<numeroAutorizacion>3004202407179086608400120280010001068016381018311</numeroAutorizacion>
-<fechaAutorizacion>2024-05-09T10:33:10-05:00</fechaAutorizacion>
+<numeroAutorizacion>1004202507179086608400120010010025758622890451713</numeroAutorizacion>
+<fechaAutorizacion>2025-04-14T15:56:58-05:00</fechaAutorizacion>
 <ambiente>PRODUCCIÓN</ambiente>
 <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
-<comprobanteRetencion id="comprobante" version="2.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL LTDA</razonSocial><ruc>1790866084001</ruc><claveAcceso>3004202407179086608400120280010001068016381018311</claveAcceso><codDoc>07</codDoc><estab>028</estab><ptoEmi>001</ptoEmi><secuencial>000106801</secuencial><dirMatriz>AV 10 DE AGOSTO N31-232 Y MARIANA DE JESUS,  BARRIO LA PRADERA, EDIFICIO COOPERATIVA POLICIA NACIONAL,  TELF 02 398 84999</dirMatriz></infoTributaria><infoCompRetencion><fechaEmision>30/04/2024</fechaEmision><dirEstablecimiento>AV 10 DE AGOSTO N31-232 Y MARIANA DE JESUS,  BARRIO LA PRADERA, EDIFICIO COOPERATIVA POLICIA NACIONAL,  TELF 02 398 84999</dirEstablecimiento><contribuyenteEspecial>00571</contribuyenteEspecial><tipoIdentificacionSujetoRetenido>05</tipoIdentificacionSujetoRetenido><parteRel>NO</parteRel><razonSocialSujetoRetenido>RAMOS CHAG�AY LUIS EDISON</razonSocialSujetoRetenido><identificacionSujetoRetenido>1712961562</identificacionSujetoRetenido><periodoFiscal>04/2024</periodoFiscal></infoCompRetencion><docsSustento><docSustento><codSustento>15</codSustento><codDocSustento>12</codDocSustento><numDocSustento>028001000106801</numDocSustento><fechaEmisionDocSustento>30/04/2024</fechaEmisionDocSustento><fechaRegistroContable>30/04/2024</fechaRegistroContable><pagoLocExt>01</pagoLocExt><totalSinImpuestos>0</totalSinImpuestos><importeTotal>1.81</importeTotal><impuestosDocSustento><impuestoDocSustento><codImpuestoDocSustento>2</codImpuestoDocSustento><codigoPorcentaje>0</codigoPorcentaje><baseImponible>1.81</baseImponible><tarifa>0</tarifa><valorImpuesto>0</valorImpuesto></impuestoDocSustento></impuestosDocSustento><retenciones><retencion><codigo>1</codigo><codigoRetencion>323R</codigoRetencion><baseImponible>1.81</baseImponible><porcentajeRetener>0.0</porcentajeRetener><valorRetenido>0.00</valorRetenido></retencion></retenciones><pagos><pago><formaPago>20</formaPago><total>1.81</total></pago></pagos></docSustento></docsSustento><infoAdicional><campoAdicional nombre="EMAIL">luis_ramos@hotmail.es</campoAdicional><campoAdicional nombre="Direccion">AV 10 DE AGOSTO N31-232 Y MARIANA DE JESUS, BARRIO LA PRADERA, EDIFICIO COOPERATIVA POLICIA NACIONAL</campoAdicional><campoAdicional nombre="Gran Contribuyente">NAC-GCFOIOC21-00001106-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature673304">
-<ds:SignedInfo Id="Signature-SignedInfo205082">
+<comprobanteRetencion id="comprobante" version="2.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL LTDA</razonSocial><ruc>1790866084001</ruc><claveAcceso>1004202507179086608400120010010025758622890451713</claveAcceso><codDoc>07</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>002575862</secuencial><dirMatriz>AV 10 DE AGOSTO N31-232 Y MARIANA DE JESUS,  BARRIO LA PRADERA, EDIFICIO COOPERATIVA POLICIA NACIONAL,  TELF 02 398 84999</dirMatriz></infoTributaria><infoCompRetencion><fechaEmision>10/04/2025</fechaEmision><dirEstablecimiento>AV 10 DE AGOSTO N31-232 Y MARIANA DE JESUS,  BARRIO LA PRADERA, EDIFICIO COOPERATIVA POLICIA NACIONAL,  TELF 02 398 84999</dirEstablecimiento><contribuyenteEspecial>00571</contribuyenteEspecial><tipoIdentificacionSujetoRetenido>05</tipoIdentificacionSujetoRetenido><parteRel>NO</parteRel><razonSocialSujetoRetenido>RAMOS CHAGÑAY LUIS EDISON</razonSocialSujetoRetenido><identificacionSujetoRetenido>1712961562</identificacionSujetoRetenido><periodoFiscal>04/2025</periodoFiscal></infoCompRetencion><docsSustento><docSustento><codSustento>02</codSustento><codDocSustento>12</codDocSustento><numDocSustento>001001002575862</numDocSustento><fechaEmisionDocSustento>10/04/2025</fechaEmisionDocSustento><fechaRegistroContable>10/04/2025</fechaRegistroContable><pagoLocExt>01</pagoLocExt><totalSinImpuestos>0</totalSinImpuestos><importeTotal>26.44</importeTotal><impuestosDocSustento><impuestoDocSustento><codImpuestoDocSustento>2</codImpuestoDocSustento><codigoPorcentaje>0</codigoPorcentaje><baseImponible>26.44</baseImponible><tarifa>0</tarifa><valorImpuesto>0</valorImpuesto></impuestoDocSustento></impuestosDocSustento><retenciones><retencion><codigo>1</codigo><codigoRetencion>323E2</codigoRetencion><baseImponible>26.44</baseImponible><porcentajeRetener>0.0</porcentajeRetener><valorRetenido>0.00</valorRetenido></retencion></retenciones><pagos><pago><formaPago>20</formaPago><total>26.44</total></pago></pagos></docSustento></docsSustento><infoAdicional><campoAdicional nombre="EMAIL">luis_ramos@hotmail.es</campoAdicional><campoAdicional nombre="Direccion">DIEGO IBARRA N9 446 NICOLAS AGUILERA</campoAdicional><campoAdicional nombre="Gran Contribuyente">NAC-GCFOIOC21-00001106-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature639742">
+<ds:SignedInfo Id="Signature-SignedInfo22368">
 <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
 <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
-<ds:Reference Id="SignedPropertiesID253686" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature673304-SignedProperties987437">
+<ds:Reference Id="SignedPropertiesID538959" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature639742-SignedProperties214141">
 <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
-<ds:DigestValue>W33h7Xi+Cs2ULPwu8n3PkGIOHJ4=</ds:DigestValue>
+<ds:DigestValue>ltl/9W42oc2QPk8u4S3KVx3Bqec=</ds:DigestValue>
 </ds:Reference>
-<ds:Reference URI="#Certificate1847279">
+<ds:Reference URI="#Certificate1835148">
 <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
-<ds:DigestValue>MERU/PlSRVNve1Dq1AMwIWxd/9I=</ds:DigestValue>
+<ds:DigestValue>AJbZ4F53IvcN7pWZFSrsn6VBjkw=</ds:DigestValue>
 </ds:Reference>
-<ds:Reference Id="Reference-ID-700696" URI="#comprobante">
+<ds:Reference Id="Reference-ID-313782" URI="#comprobante">
 <ds:Transforms>
 <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
 </ds:Transforms>
 <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
-<ds:DigestValue>WNB/Z64zwQ4vcM6zZU2kyc95Vmw=</ds:DigestValue>
+<ds:DigestValue>4T54nJnE0+5eUsDaNppoqO6k2DM=</ds:DigestValue>
 </ds:Reference>
 </ds:SignedInfo>
-<ds:SignatureValue Id="SignatureValue703203">
-sCPohoOh3YmGMQxWA1NFzfF3KKumjNiiFul0oVVDmJVMst5gzW1dJngz0hJ1DjMpUcyKvi0ueBdM
-c12ylWcKefGBccP0zwWR/xpr/xJhwk9INydP+UKDZLm/bDl1nvYUCV4DIKQxZnO0ORGSJVgN2A+6
-BRONQCW8JFN3t48kniF9XUSusIUsTGoPQ2NGQIrTGbGtRqTfkr1PGxnY0EbNJEm5IMSV1Zdo5ZOe
-OIhUWnH/U1epDh9uUffNOVILlL4EDWpB8v4pWzy6j5YLnlVrheKgxrpPpc+nBkDl2r9W2tR6cGkA
-rtIBeFVfHZ9mlVymPcKl2SlENaOtG4Kb8FJKbQ==
+<ds:SignatureValue Id="SignatureValue1019909">
+GiOINxG2zFpmIzmoLmBTw3Qh7LAW8kE2mvswoZKt8TJj3RBV2nKnigbHAXlTywLyrtzFJejM4QHF
+rORqjLVzDJ08zOjezJ6JilQW32Y/UiTjCbu1SXsDlZSJEZi91rtJaSKUu9oKXS1x/JWrPJF5c8WB
+OmGUKbehRmSMkTiAVYR0FiPeOwU56ZbmDdTJtqsF9iyQuGmA0mEUF6aHJRPwl17gTrJOY/oQsa2Q
+3pDQ7SPSxTwNu+Y/i1xU4FTWwjgKzULw1eiDu1dFLOcMGacTaQySQXrlkXlSxKByRmcJ6YXiZW3o
+DeQJDMZxDY6xBs199AAOgEFALIW0dXrGZomZNw==
 </ds:SignatureValue>
-<ds:KeyInfo Id="Certificate1847279">
+<ds:KeyInfo Id="Certificate1835148">
 <ds:X509Data>
 <ds:X509Certificate>
 MIIKGzCCCAOgAwIBAgIEW3RDqDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
@@ -96,7 +96,7 @@ RP/os5jSZOnt2G9GGsKm6+SUhOZF1AUdwQ+kDw==
 </ds:RSAKeyValue>
 </ds:KeyValue>
 </ds:KeyInfo>
-<ds:Object Id="Signature673304-Object390226"><etsi:QualifyingProperties Target="#Signature673304"><etsi:SignedProperties Id="Signature673304-SignedProperties987437"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-05-09T10:33:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>PR41bG2Sm1eXWTi4E21XW0HG9FE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534346152</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-700696"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>]]></comprobante>
+<ds:Object Id="Signature639742-Object224970"><etsi:QualifyingProperties Target="#Signature639742"><etsi:SignedProperties Id="Signature639742-SignedProperties214141"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-04-14T15:56:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>PR41bG2Sm1eXWTi4E21XW0HG9FE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534346152</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-313782"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>]]></comprobante>
 <mensajes/>
 </autorizacion>
 
