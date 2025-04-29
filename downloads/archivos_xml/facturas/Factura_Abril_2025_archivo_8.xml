@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202501179005388100120019991130931130055186912</numeroAutorizacion>
+<fechaAutorizacion>2025-04-23T00:51:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Empresa Eléctrica Quito S.A.E.E.Q.</razonSocial><nombreComercial>Empresa Eléctrica Quito S.A.E.E.Q.</nombreComercial><ruc>1790053881001</ruc><claveAcceso>2104202501179005388100120019991130931130055186912</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>999</ptoEmi><secuencial>113093113</secuencial><dirMatriz>Bartolome de las Casas E1-24 y Av. 10 de Agosto</dirMatriz></infoTributaria><infoFactura><fechaEmision>21/04/2025</fechaEmision><dirEstablecimiento>Bartolome de las Casas E1-24 y Av. 10 de Agosto</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>RAMOS CHAGÑAY LUIS EDISON</razonSocialComprador><identificacionComprador>1712961562</identificacionComprador><direccionComprador>DIEGO IBARRA N9-446 DIEGO IBARRA / CIUDADELA HOSPITALAR / CONOCOTO - QUITO</direccionComprador><totalSinImpuestos>1.52</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>1.52</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>1.52</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>1.52</total><plazo>15</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>ZAPUGE</codigoPrincipal><descripcion>Serv. Alum. Públic. General</descripcion><cantidad>1.00</cantidad><precioUnitario>0.11</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.11</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.11</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ZCOMER</codigoPrincipal><descripcion>Comercialización</descripcion><cantidad>1.00</cantidad><precioUnitario>1.41</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.41</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.41</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ZENERG</codigoPrincipal><descripcion>Energía total</descripcion><cantidad>1.00</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CODIGO UNICO ELECTRICO NACIONAL">1401607821</campoAdicional><campoAdicional nombre="CONTRIBUCION BOMBEROS">2.35</campoAdicional><campoAdicional nombre="TASA RECOLECCION BASURA">0.34</campoAdicional><campoAdicional nombre="FORMA DE PAGO TERCEROS BASURA Y BOMBEROS">SIN UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional><campoAdicional nombre="TOTAL FORMA DE PAGO TERCEROS BASURA Y BOMBEROS">2.69</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature191271">
+<ds:SignedInfo Id="Signature-SignedInfo521248">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID130710" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature191271-SignedProperties487188">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>gj/8ZY/lX5ktB8AykA0C1kCg9Ko=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1227916">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>nwsAWALcmDOQ1L885OWEfRK61QU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-734061" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>I4wHX/n33kx2hSwzWmmHkj3GUJ8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue697063">
+ksCHFQYb3VjEHo1Ye6dFn7pPbDaTed1u8gmB8/SS/yMukSJ0aEtn6LeCkZI6+wyfwD+jvZYukdIM
+AFleuoOKMfDelOsSrKH1pTueyZ2mVXNDzJijOFU+JvXUx4GKAP52spHeWQDOOl1XbcXkW8qUTj7/
+FYSqHfJLjkHN5Ey2vlblyMqViJF+bPEZR9l4pfxrU3ZZarp+d04XsKiGuiSe/Ew7Vq5UnaInyyOc
+fc67F11gIJ+STbGwXp7NT6w/rE3whkY2wAadu0ejapT6bA7tQyvOsrICkEzgT9sk8Gz7x8qwNPCb
+71/hTvbVZNg1qKnJ1s6ePa2yqBQG1ha/WKZUoQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1227916">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKCzCCB/OgAwIBAgIEZTRq4TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMTEyMDIxMDIyMVoXDTI1MTEyMDIxMzIz
+OVowgbwxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzFAMBEGA1UEBRMKMDIwMDAyMDU5OTArBgNVBAMTJE1ZUklBTSBHQUJSSUVM
+QSBWSUxMQVJSRUFMIEhFUk5BTkRFWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ/0
+PtY79fdA7elkj5BBWgjwrX7wgPIKUcWWeP+g3G+JIgB5agdNER0J8il5xsZ+CvmrBdsRTcmok6/g
+7m10e8aRe44gi+ka3xob19uFmVKFK/m5GGCAcOaUZNRqWiNc/6ydjk/A/AaJi6ZtwLuJW/GA4d5o
+xc8ChLzbKoutN4NsnDtuo5t6vqXgYov5eM+OOxxygBwrUqLiKQlqcXiWk9eRU3Gj5ZMAHJUaWwK8
+lNfg5sK8zGpOZRnylWYekT1DRgi3VG6IJRlgpe58BZsoiEijxjoZsvSwiMfEIMK8bcwsvizjrQzT
++lQEme+aTDI1PyX52OE+XE8KP/aSwfIriL0CAwEAAaOCBSwwggUoMAsGA1UdDwQEAwIHgDBnBgNV
+HSAEYDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5l
+Yy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEE
+gYQwgYEwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3AwMwYKKwYBBAGCqDsDCgQlEyNFTVBSRVNBIEVMRUNUUklDQSBR
+VUlUTyBTLkEuIEUuRS5RLjAdBgorBgEEAYKoOwMLBA8TDTE3OTAwNTM4ODEwMDEwGgYKKwYBBAGC
+qDsDAQQMEwoxNzE2Nzg3OTE0MB8GCisGAQQBgqg7AwIEERMPTVlSSUFNIEdBQlJJRUxBMBoGCisG
+AQQBgqg7AwMEDBMKVklMTEFSUkVBTDAZBgorBgEEAYKoOwMEBAsTCUhFUk5BTkRFWjAgBgorBgEE
+AYKoOwMFBBITEEplZmUgZGUgU2VjY2nDs24wJAYKKwYBBAGCqDsDBwQWExRBVi4gVEVMTU8gUEFa
+IFkgTUlOTzAZBgorBgEEAYKoOwMIBAsTCTAyMjUyNzA2MDAVBgorBgEEAYKoOwMJBAcTBVFVSVRP
+MBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJ
+Vk8wJwYDVR0RBCAwHoEcZ2FieXZpbGxhcnJlYWwyMzMxQGdtYWlsLmNvbTCCAeEGA1UdHwSCAdgw
+ggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDE5MjIs
+Y249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURB
+RCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08l
+MjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/
+YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNy
+bKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1Ix
+NzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0Ux
+DjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAw
+DgYDVQQDEwdDUkwxOTIyMCsGA1UdEAQkMCKADzIwMjMxMTIwMjEwMjIxWoEPMjAyNTExMjAyMTMy
+MzlaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBTQKakRdsvm1Kkl
+F7zhtKlF3pw0qDAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjMDAgQwMA0GCSqGSIb3
+DQEBCwUAA4ICAQC13gcYONWCMD8BUpQi4e7seknWVg1kTtNd2M7WgQ6rdooi9SN44HWl8w6sCMwi
+vJd3/4w9IlTVQjvivgyPT/hfUxUxtiwZcn06pu0QeC3g4h+nd/MpR+5sFS32v1A1loHto+LvOhAQ
+Mc5+e1+3mN8RdCYd4wjl+bPPyw/FZNC4ylJ/b9jR8f/+ltG5IrAvYWRpXoevz8TOLQALwpySvc0w
++vpf7OYFdNBpx8cy8pRiehDPULIBS3nL9GWRDWmb0lWIZX33POd6BivuGGxGeho7GdiDCgE95cir
+hUQJ0PF+TtpX5/vJlVclTW3xxOSrc1/AkXXaN5fSI7xyWXy8nIU0rMNE3QNs55kgL22u80/GRi1/
+7wXOc9dKi0bymLsY81MvO6DL+G01MuyBjunA6Yq7IdTJ91gJ1VTTIUF+rEPa30vf4uhK0Tmeg82i
+lXAUkDYMv/UotCnwmsVr5TF3tEFwL0n6GrvrOJqqEb2G4xHiiZmVoocYwnuJxaLEY1C/oMriHAAX
+bYAYG3YXyXgEhbh1FZTdvXvdMA3ITH3dQXis9Fng3hp4Ir4vXkYHh6Rj9oPMIJdDaNaT4EFB4BgG
+N8zqjns02aX+JdPzUaUPhdoIZiz3A8OIwAZixabDq2C9fuOXZ9ZrskqXKgPlhZ4dtBjSzprrKSsi
+8iUfpDEsBAEXkg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+n/Q+1jv190Dt6WSPkEFaCPCtfvCA8gpRxZZ4/6Dcb4kiAHlqB00RHQnyKXnGxn4K+asF2xFNyaiT
+r+DubXR7xpF7jiCL6RrfGhvX24WZUoUr+bkYYIBw5pRk1GpaI1z/rJ2OT8D8BomLpm3Au4lb8YDh
+3mjFzwKEvNsqi603g2ycO26jm3q+peBii/l4z447HHKAHCtSouIpCWpxeJaT15FTcaPlkwAclRpb
+AryU1+DmwrzMak5lGfKVZh6RPUNGCLdUboglGWCl7nwFmyiISKPGOhmy9LCIx8QgwrxtzCy+LOOt
+DNP6VASZ75pMMjU/JfnY4T5cTwo/9pLB8iuIvQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature191271-Object1048269"><etsi:QualifyingProperties Target="#Signature191271"><etsi:SignedProperties Id="Signature191271-SignedProperties487188"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-04-22T23:03:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>j/6gUR2kDBQtedO61HGGILKavB8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1697934049</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-734061"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
