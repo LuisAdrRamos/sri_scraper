@@ -3,8 +3,6 @@ from scraper.navigate import navegar_comprobantes
 from scraper.menu_usuario import seleccionar_fecha, seleccionar_comprobante, automatizar_seleccion
 from scraper.downloader import descargar_comprobantes_txt, descargar_xml
 
-import time
-
 def descargar_comprobantes(pagina):
     try:
         if navegar_comprobantes(pagina):
