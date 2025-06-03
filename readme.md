@@ -26,14 +26,39 @@ La aplicación utiliza **Python** y la biblioteca **Playwright** para controlar 
 ## 📦 Estructura del proyecto
 
 ```
+SRI_SCRAPER/
+├── auth/
+│ └── login.py
+├── config/
+│ └── settings.py
+├── db/
+│ ├── connection.py
+│ └── insert_data.py
+├── downloads/
+│ ├── archivos_xml/
+│ ├── comprobante_txt/
+│ ├── detalles_liquidaciones/
+│ ├── detalles_notas_credito/
+│ ├── detalles_productos/
+│ └── detalles_retenciones/
+├── logs/
+├── processor/
+│ ├── proceso_creditos_xml.py
+│ ├── proceso_facturas_xml.py
+│ ├── proceso_liquidaciones_xml.py
+│ └── proceso_retencion_xml.py
+├── scraper/
+│ ├── downloader.py
+│ ├── menu_usuario.py
+│ └── navigate.py
+├── utils/
+│ ├── .env
+│ ├── .env.example
+├── .gitattributes
+├── .gitignore
+├── facturacion.py
 ├── main.py
-├── login.py
-├── navigate.py
-├── downloader.py
-├── proceso_facturas_xml.py
-├── proceso_retencion_xml.py
-├── proceso_creditos_xml.py
-└── proceso_liquidaciones_xml.py
+└── readme.md
 ```
 
 ## 🛠️ Instalación
