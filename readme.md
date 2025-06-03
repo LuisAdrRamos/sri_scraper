@@ -26,13 +26,14 @@ La aplicación utiliza **Python** y la biblioteca **Playwright** para controlar 
 ## 📦 Estructura del proyecto
 
 ```
-├── auth/
-│   └── login.py
-├── scraper/
-│   ├── menu_usuario.py
-│   └── navigate.py
 ├── main.py
-├── requirements.txt
+├── login.py
+├── navigate.py
+├── downloader.py
+├── proceso_facturas_xml.py
+├── proceso_retencion_xml.py
+├── proceso_creditos_xml.py
+└── proceso_liquidaciones_xml.py
 ```
 
 ## 🛠️ Instalación
@@ -68,8 +69,40 @@ python main.py
 
 Luego, sigue las instrucciones en consola para ingresar tus credenciales y seleccionar los comprobantes a descargar. El navegador se mantendrá abierto hasta que se completen las descargas.
 
+## 📂 Archivos y Funcionalidad
+
+### `main.py`
+Archivo principal que ejecuta el flujo de trabajo del sistema.
+
+### `login.py`
+Automatiza el inicio de sesión con Playwright.
+
+### `navigate.py`
+Realiza la navegación por el menú del SRI hasta llegar a la sección de comprobantes.
+
+### `downloader.py`
+Controla la descarga de comprobantes XML y TXT, y gestiona la navegación paginada.
+
+### `proceso_facturas_xml.py`
+Procesa y estructura la información de facturas electrónicas.
+
+### `proceso_retencion_xml.py`
+Procesa comprobantes de retención.
+
+### `proceso_creditos_xml.py`
+Procesa notas de crédito electrónicas.
+
+### `proceso_liquidaciones_xml.py`
+Procesa comprobantes de liquidaciones.
+
 ## 🛡️ Consideraciones
 
-- El sistema requiere interacción manual para resolver el CAPTCHA de ingreso.
-- Asegúrate de tener conexión estable a internet.
-- El proyecto está diseñado con fines educativos y de automatización legal autorizada por el contribuyente.
+- **Limitaciones Actuales:** El sistema se ve afectado por el uso de reCAPTCHA en el login del SRI.
+- **Pendientes:** Implementar escritura a base de datos Oracle 12c.
+- **Archivos generados:** Todos los archivos de salida están en formato `.txt`, codificados en UTF-8 y organizados por tipo de comprobante.
+
+## 👤 Autor
+
+Luis Adrián Ramos Guzmán  
+Practicante de Desarrollo de Software  
+Empresa: Planit
