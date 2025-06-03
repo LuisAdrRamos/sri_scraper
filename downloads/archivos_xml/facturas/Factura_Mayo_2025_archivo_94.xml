@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1405202501019034820200120031010001080263899904115</numeroAutorizacion>
+<fechaAutorizacion>2025-05-14T17:29:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CORPORACION BP CIA LTDA</razonSocial><ruc>0190348202001</ruc><claveAcceso>1405202501019034820200120031010001080263899904115</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>101</ptoEmi><secuencial>000108026</secuencial><dirMatriz>CUENCA, AV GIL RAMIREZ DAVALOS 5-140 Y FRANCISCO PIZARRO</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/05/2025</fechaEmision><dirEstablecimiento>PANAMERICANA SUR KM 8</dirEstablecimiento><contribuyenteEspecial>22E</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ORTEGA PAREDES RUDTH ELENA</razonSocialComprador><identificacionComprador>1711063675001</identificacionComprador><totalSinImpuestos>313.32</totalSinImpuestos><totalDescuento>77.93</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>313.32</baseImponible><valor>47.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>360.32</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>360.32</total><plazo>90</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>BP03195</codigoPrincipal><codigoAuxiliar>BP03195</codigoAuxiliar><descripcion>* LUXURY PREMIUM UNDERMOUNT CALIFORNIA SATIN BLACK</descripcion><cantidad>5.00</cantidad><precioUnitario>78.2500</precioUnitario><descuento>77.93</descuento><precioTotalSinImpuesto>313.32</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>313.32</baseImponible><valor>47.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">AV MARISCAL SUCRE N62-268 Y JUAN DE FIGUEROA JUNTO A LA ESTACION DE GASOLINA DE PETROLEOS Y SERVICI</campoAdicional><campoAdicional nombre="Telefono">0234139411</campoAdicional><campoAdicional nombre="Vendedor">CEPEDA VELASTEGUI JOSE LUIS</campoAdicional><campoAdicional nombre="Ciudad">QUITO</campoAdicional><campoAdicional nombre="Fpago">Credito 3 pagos: C1) 120.11 13/06/2025; C2) 120.11 13/07/2025; C3) 120.10 12/08/2025; </campoAdicional><campoAdicional nombre="Clavecliente">7587</campoAdicional><campoAdicional nombre="Transporte">0</campoAdicional><campoAdicional nombre="Observacion">Los productos que inicial con * son los que tiene IVA FACTURACION DEL PEDIDO PED-003-101-0094275</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature749726">
+<ds:SignedInfo Id="Signature-SignedInfo829334">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID399043" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature749726-SignedProperties448189">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>c5aq23+II+PvkJ36r6KBt0rjucI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1611175">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>uos3/rA60q1Rz5w+W3BthIOurrs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-514966" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>kNH3XDvtETg96ESzWr1AE74Q0Q8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue316113">
+cn2PySFkzTgheTqpDuJNMJ6jNWXdReuid241Fq5ucfV1NyT6ou3v3bp+b5gs4WQCBlYD/zJrgZr0
+prXLqfeEo4W/ksrAq6jHxBudHkuxrm6ZwaSZj3QDboO+HstNTHl9oYCk5yg3rog8OH2j49KyAhA9
+uI8d8z0dER7Olklb423d8/hGCoGtfDLvqCj08CcNM4EAJvCvNZh2aR+7G9HthDSkN3YsJogYyEeZ
+gGscIbcbGhC24I6pz2IIGAiLx19nVL2tq9KfaMKpu5Pib28z0tz7km/abkyD7pGFieVfq91WHlGJ
++d4PckAy3A9CEOkNRWsJB9aZbuKdPsIGyg9tQg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1611175">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJZzCCB0+gAwIBAgIEZTQ+WjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMTAyNzE1MTU0NVoXDTI1MTAyNzE1NDU0
+NlowgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDAwMDY5MzM4NDAiBgNVBAMTG0JPUklTIElWQU4gUEFM
+QUNJT1MgTkFSQU5KTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKr3xpiDaVBCXaCJ
+Zpr3lM4KLvakoEt2ClQHfC904+w4l6dTxG0SVvJw4BnX3U7xu3Yls4psSm0fpByCzPHGi1luyC3W
+YehHrH36fx7/1BqwomBydZB6QNON+4elVfOqDHLDtbU+5XKSTTyrKzAGIknftSrvVWUuo4kPt2aM
+13B97NMidySIBovDcqYgOPQZnHrQzIUTAJ6+5ntoPp+jTggMzqlc2ALfjKmbKsU9T11EDw03EZDc
+/cQGVsuL3cUcMhzut8A9uMLZf2+F6tgEpDD0JJhJDGSNnq9QVZuzgNSbRDQLYq8Nnvia28eKpxW0
+RzTNEkSJvofB2goWYdyxz/0CAwEAAaOCBJEwggSNMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEF
+BQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Aw
+PwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDAoBgorBgEEAYKoOwMKBBoTGENPUlBPUkFDSU9OIEIgUCBDSUEgTFREQTAdBgorBgEE
+AYKoOwMLBA8TDTAxOTAzNDgyMDIwMDEwGgYKKwYBBAGCqDsDAQQMEwowMTAyNjM3Nzc0MBoGCisG
+AQQBgqg7AwIEDBMKQk9SSVMgSVZBTjAYBgorBgEEAYKoOwMDBAoTCFBBTEFDSU9TMBcGCisGAQQB
+gqg7AwQECRMHTkFSQU5KTzAXBgorBgEEAYKoOwMFBAkTB0dFUkVOVEUwPAYKKwYBBAGCqDsDBwQu
+EyxBViBHRU5FUkFMIEVTQ0FORE9OIFkgQ0FMTEUgREUgTEEgTUFOWkFOSUxMQTAZBgorBgEEAYKo
+OwMIBAsTCTA3Mjg2MDI1MDAWBgorBgEEAYKoOwMJBAgTBkNVRU5DQTAXBgorBgEEAYKoOwMMBAkT
+B0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCYGA1UdEQQfMB2BG2lt
+cG9ydGFjaW9uZXNAYnBlY3VhZG9yLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHW
+bGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDE5MTQsY249QUMlMjBCQU5DTyUyMENF
+TlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNB
+Q0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIw
+RUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5l
+Y2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMC
+RUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUw
+IwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwxOTE0MAsG
+A1UdDwQEAwIFIDAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUIiAa
++wbkl9Zqoeu8r9h2C8l2dHAwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEEDAN
+BgkqhkiG9w0BAQsFAAOCAgEAVh/tPRk+aiyx00RveGRp/qqo2EgAYn24N+MVKb/7SX+rnyVZdVRn
+cqps7vKidhvtyIfQQXsBYauNDAjH8QpeFsND3BjWe1v7ykASIAVu+ZnVh/qqx9jsOez004y5eBnj
+OVa3mlTJYPGOo2bOZbuXQFkecLYaT6Ffnxc98TweUulO/UNST07QjC2yEdP4GXyi6P32TsBEIStH
+YK9qlQY5itU99IU0uEr+AUodzNoLg1fQufvTnyed2aIS8qz37KMAXDGtNemt5dgSvIl3r4cf1YCL
+QOpuP8h12Y6uQaqHY/xlF6zb1V+sxPc3KYPkFtV0IMqgG1gHdwU05gBOoEuzhRyBsDBl74qGqt61
+mGQdMmazygV7VZHmelzsQoT4BIIQThWzPXfQG0zxLDGxGxxxjPfcfzitpP38qeTOoU8/Ul+BvVdH
+ShmQyyJ8OIY07rxz49VRIgVYraHlLaEpPs99+A3zH68Ta0aHokVKRci5797MBhC73QVICaoGND6u
+zjULo8ggTgeD5o29Im9IHQK1yL+X45R/Lv9rK91s9tOWBRUo+e09ZP3RfiPfGt1BHQ/azGKGpOXX
+7bbEJS0rp/CAzRA1fRtz1Bm0+9lnrMZ4cYqFgnun5VmJwH3oeHxYMBdOrpRN7ROqTNIwaJTubf3E
+guxa06bSdqSwIIGxZqaaT+U=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qvfGmINpUEJdoIlmmveUzgou9qSgS3YKVAd8L3Tj7DiXp1PEbRJW8nDgGdfdTvG7diWzimxKbR+k
+HILM8caLWW7ILdZh6Eesffp/Hv/UGrCiYHJ1kHpA0437h6VV86oMcsO1tT7lcpJNPKsrMAYiSd+1
+Ku9VZS6jiQ+3ZozXcH3s0yJ3JIgGi8NypiA49BmcetDMhRMAnr7me2g+n6NOCAzOqVzYAt+MqZsq
+xT1PXUQPDTcRkNz9xAZWy4vdxRwyHO63wD24wtl/b4Xq2ASkMPQkmEkMZI2er1BVm7OA1JtENAti
+rw2e+Jrbx4qnFbRHNM0SRIm+h8HaChZh3LHP/Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature749726-Object945037"><etsi:QualifyingProperties Target="#Signature749726"><etsi:SignedProperties Id="Signature749726-SignedProperties448189"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-14T17:29:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>7f/EI4OvlJlZ6X17BJM/OpVMeJQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1697922650</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyId><etsi:SigPolicyId><etsi:Identifier>http://www.facturae.es/politica_de_firma_formato_facturae/politica_de_firma_formato_facturae_v3_1.pdf</etsi:Identifier><etsi:Description>Política de Firma FacturaE v3.1</etsi:Description></etsi:SigPolicyId><etsi:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></etsi:SigPolicyHash></etsi:SignaturePolicyId></etsi:SignaturePolicyIdentifier><etsi:SignerRole><etsi:ClaimedRoles><etsi:ClaimedRole>Rol de firma</etsi:ClaimedRole></etsi:ClaimedRoles></etsi:SignerRole></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-514966"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

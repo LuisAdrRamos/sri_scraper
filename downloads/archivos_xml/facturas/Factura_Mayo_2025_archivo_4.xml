@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0105202501019006630400120011010001182880070780510</numeroAutorizacion>
+<fechaAutorizacion>2025-05-01T12:16:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ITALPISOS S.A.</razonSocial>
+        <nombreComercial>ITALPISOS S.A.</nombreComercial>
+        <ruc>0190066304001</ruc>
+        <claveAcceso>0105202501019006630400120011010001182880070780510</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>101</ptoEmi>
+        <secuencial>000118288</secuencial>
+        <dirMatriz>GIL RAMIREZ DAVALOS 5-32</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/05/2025</fechaEmision>
+        <dirEstablecimiento>GIL RAMIREZ DAVALOS 5-32</dirEstablecimiento>
+        <contribuyenteEspecial>3257</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+        <identificacionComprador>1711063675001</identificacionComprador>
+        <totalSinImpuestos>1701.29</totalSinImpuestos>
+        <totalDescuento>158.04</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1701.29</baseImponible>
+                <valor>255.19</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>1956.48</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>1956.48</total>
+                <plazo>60</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>113343B8200101</codigoPrincipal>
+            <codigoAuxiliar>113343B8200101 - 01</codigoAuxiliar>
+            <descripcion>30*60 RIZZATO CREMA* TRE</descripcion>
+            <cantidad>138.2400</cantidad>
+            <precioUnitario>5.380</precioUnitario>
+            <descuento>121.23</descuento>
+            <precioTotalSinImpuesto>622.50</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>622.50</baseImponible>
+                    <valor>93.37</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>113343B8200201</codigoPrincipal>
+            <codigoAuxiliar>113343B8200201 - 01</codigoAuxiliar>
+            <descripcion>30*60 RIZZATO GRIS* TRE</descripcion>
+            <cantidad>207.3600</cantidad>
+            <precioUnitario>5.380</precioUnitario>
+            <descuento>36.81</descuento>
+            <precioTotalSinImpuesto>1078.79</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1078.79</baseImponible>
+                    <valor>161.81</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Cliente:">1864</campoAdicional>
+        <campoAdicional nombre="Pedido:">PC-25768      FE118288</campoAdicional>
+        <campoAdicional nombre="Direccion:">AV. OCCIDENTAL Y LEGARDA N62-268</campoAdicional>
+        <campoAdicional nombre="Telefono:">023410653</campoAdicional>
+        <campoAdicional nombre="Ciudad:">QUITO</campoAdicional>
+        <campoAdicional nombre="Correo electronico:">hidroelectric2010@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Agente :">196 MAYRA CRIOLLO</campoAdicional>
+        <campoAdicional nombre="Forma de Pago:">003 CREDITO 30,60 DIAS</campoAdicional>
+        <campoAdicional nombre="2025/05/31        978.24">2025/06/30        978.24</campoAdicional>
+    </infoAdicional>
+<ds:Signature Id="Signature790028" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo750767">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID566080" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature790028-SignedProperties672890">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8tBXLZ5cC4QUbpo4mb8ITnlgIcE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1234021">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4x67lEXAcm29BXTTUH+lo6fsMbY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-540113" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rpy5EP+WBibAFQKuOwkTjCi0cO8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue869208">
+eMoOASJ0Ofi4xqGFWFWBxYFI55HkR+06eXNA3ay2N5jVbq+NQod8n+g6XVuT3y3b3dxAPHNu2ft8
+NdfZHuD8iSHW4NUqJ1xZ3ISoWNSdyFvzpLi4Y58sZctFKuvcgyUM14FGBy21f/IdNZincsBvfIow
+bW3bSafl1J3+5IEqbjSqdFljQYzlC7K8dXuhiB9sfL23wy/cb8ZlPnHrL8MKa019QzfU1uLcWAQ2
+KmWESfGw5hpxlX+LFdH3S9IJF7kK+j8/p8t1OUWTPvavHYiHqzzoAnABfGiG2NErKEWzZHS0Kk7w
+uqcQSo0WWEEyG8Rk04sUYzLSG7YzJeDq2WriNg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1234021">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ5TCCB82gAwIBAgIEZeSb0jANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MDkxOTIxMDczN1oXDTI2MDkxOTIxMzcz
+NlowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDIwMDAzNzE3ODAkBgNVBAMTHU1BUkNPUyBNQU5VRUwg
+QUxWQVJFWiBHQUxBUlpBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNRmJHpKIXHs
+WpqhFdjJhUxbZWaM0yPZT35vCDaCCceXTwcXkxM5FlbeNQK7JgolyKG5vBissQgbY3TKzXNsV1r9
+ZPpYoTUC1lbGY1SXpXPlW2Du7eCZY8K2asGG1pcRFoL39oLQyAzQZV2OowwD8EgOjuzJs9xXPIJg
+1xr6sDkZhl7/F+t3+pJ3HXD+hot/n5LNs1/rs8UgSLV39+okzul3lhZqHRkoi+MAdxSGj64SYw0b
+glAkAPQ9fULCFwQVb/6yEHV5WWWkZIIijtyqe1zzHgdCOtvNKI2eIbZ1j5BoIdrQAqFxRg4//aED
+d2WxsslewTzdAnI1oZIARUJt+wIDAQABo4IFDTCCBQkwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDAcBgorBgEEAYKoOwMKBA4TDElUQUxQSVNPUyBTQTAdBgorBgEEAYKoOwML
+BA8TDTAxOTAwNjYzMDQwMDEwGgYKKwYBBAGCqDsDAQQMEwowMTAzMDY2NzAwMB0GCisGAQQBgqg7
+AwIEDxMNTUFSQ09TIE1BTlVFTDAXBgorBgEEAYKoOwMDBAkTB0FMVkFSRVowFwYKKwYBBAGCqDsD
+BAQJEwdHQUxBUlpBMBgGCisGAQQBgqg7AwUEChMIQ09OVEFET1IwMAYKKwYBBAGCqDsDBwQiEyBB
+Vi4gREVMIFRFSkFSIFkgQ0FMTEUgU0FOIE1JR1VFTDAZBgorBgEEAYKoOwMIBAsTCTA3NDE4OTU3
+MTAWBgorBgEEAYKoOwMJBAgTBkNVRU5DQTAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYB
+BAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCEGA1UdEQQaMBiBFm1hbHZhcmV6eDFAaG90bWFp
+bC5jb20wggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAx
+LmJjZS5lYy9jbj1DUkwyMDgxLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURP
+UixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFD
+SU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2Jj
+ZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBD
+RU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VO
+VFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMjA4MTArBgNVHRAEJDAigA8yMDI0MDkxOTIx
+MDczN1qBDzIwMjYwOTE5MjEzNzM2WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAd
+BgNVHQ4EFgQUeMEI5W+ZwFjBkYDjmotPkZRKmKkwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4zAwIEMDANBgkqhkiG9w0BAQsFAAOCAgEAzG8QUB4HazAUNzXT4GD7og131gYWBq9KQqHx
+5G9opX51BZmP3vGrytx5+y0XrBf2iHTRAqVPkZF8STcmA0+kbYLR7MPzNLK3xgytEtQRaiapsow3
+/a7uRt82W/fY7MRGpQWPu0F7V8qURNAa7Jfil4fGT85HI+QJDO3kzabS2I/kfG7wInTG/+SaOU+c
+6qfd9yz6+A+NG+Wo8bMpdKtNeU/AZk+qOH/0E/AvmgVa3AWaeDYu334RFO/PgLPAd+lgvo/kpQXM
+EoNHnW4YTN403zvlPBJiL8kMY31swRVmD72NUCWhUQ4zqly3YFLuTGCvPIKddoBHar7BCia5x3jx
+cA6ZzjzDPZoeS8u40YpLw4ApJO9w0aLjhwe3URI/WcU78Q8pXLIgP/jmc0Al30B6eBl9g/O+nwhw
+InrxUBXJuPHWUIJzJtofEaCU06uBR0trzibqTfvmzwUmdr6HDi0/4SyPJaGQtaBj01ZZWwnUwQ6Y
+4QjuznCJXlWfqktOHZNjOCVSitzexDrtmK+85P8aVBqsS7uQJ6DS5nQOBGkkWRCGtFMGSguXrpC5
+dF0/rMHyF+q0wSRAlVnkwd/K9QHZM59V3GvJPvVYmACzduz+U1wY5rJZOHp03jc8nmr2uUMzMSBn
+iKcBcpwmrNextU9ND8jvvgcWaD8WL56CldmiEJU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oNRmJHpKIXHsWpqhFdjJhUxbZWaM0yPZT35vCDaCCceXTwcXkxM5FlbeNQK7JgolyKG5vBissQgb
+Y3TKzXNsV1r9ZPpYoTUC1lbGY1SXpXPlW2Du7eCZY8K2asGG1pcRFoL39oLQyAzQZV2OowwD8EgO
+juzJs9xXPIJg1xr6sDkZhl7/F+t3+pJ3HXD+hot/n5LNs1/rs8UgSLV39+okzul3lhZqHRkoi+MA
+dxSGj64SYw0bglAkAPQ9fULCFwQVb/6yEHV5WWWkZIIijtyqe1zzHgdCOtvNKI2eIbZ1j5BoIdrQ
+AqFxRg4//aEDd2WxsslewTzdAnI1oZIARUJt+w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature790028-Object662958"><etsi:QualifyingProperties Target="#Signature790028"><etsi:SignedProperties Id="Signature790028-SignedProperties672890"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-01T12:21:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SIz6AmoSMZUyghvQ6JnTNfps7d4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709480914</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-540113"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

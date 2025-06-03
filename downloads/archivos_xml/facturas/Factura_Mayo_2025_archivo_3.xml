@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0105202501179016065300120191010000189682032962114</numeroAutorizacion>
+<fechaAutorizacion>2025-05-01T13:32:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>EDESA S.A.</razonSocial><nombreComercial>EDESA</nombreComercial><ruc>1790160653001</ruc><claveAcceso>0105202501179016065300120191010000189682032962114</claveAcceso><codDoc>01</codDoc><estab>019</estab><ptoEmi>101</ptoEmi><secuencial>000018968</secuencial><dirMatriz>Av. Morán Valverde OE3-191 y Av. Teniente Hugo Ortiz Quito - Ecuador</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>01/05/2025</fechaEmision><dirEstablecimiento>Av. Morán Valverde OE3-191 y Av. Teniente Hugo Ortiz Quito - Ecuador</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>RUDHT ELENA ORTEGA PAREDES</razonSocialComprador><identificacionComprador>1711063675001</identificacionComprador><direccionComprador>AV. MARISCAL SUCRE  Y JOSE  FIGUEROA</direccionComprador><totalSinImpuestos>616.95</totalSinImpuestos><totalDescuento>452.71</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>616.95</baseImponible><valor>92.54</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>709.49</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>709.49</total><plazo>0</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>JS0022919552CE</codigoPrincipal><codigoAuxiliar>JS0022919552CE</codigoAuxiliar><descripcion>IND. EVOLUTION RF SEG. ORANGE-MONT. PLUS</descripcion><cantidad>6.00</cantidad><precioUnitario>76.03000</precioUnitario><descuento>228.17</descuento><precioTotalSinImpuesto>228.01</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>228.01</baseImponible><valor>34.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JS0055611302CE</codigoPrincipal><codigoAuxiliar>JS0055611302CE</codigoAuxiliar><descripcion>LAVAMANOS ANDES C/P SEG. BLANCO</descripcion><cantidad>6.00</cantidad><precioUnitario>22.70000</precioUnitario><descuento>27.24</descuento><precioTotalSinImpuesto>108.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>108.96</baseImponible><valor>16.34</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JS0066171302CE</codigoPrincipal><codigoAuxiliar>JS0066171302CE</codigoAuxiliar><descripcion>ONE PIECE VITTORIA RIMLESS SEGUNDA BLANCO</descripcion><cantidad>2.00</cantidad><precioUnitario>159.13000</precioUnitario><descuento>165.49</descuento><precioTotalSinImpuesto>152.77</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>152.77</baseImponible><valor>22.92</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CS0065921302CG</codigoPrincipal><codigoAuxiliar>CS0065921302CG</codigoAuxiliar><descripcion>URINARIO BROOKLYN IMPERIAL</descripcion><cantidad>3.00</cantidad><precioUnitario>46.06000</precioUnitario><descuento>27.64</descuento><precioTotalSinImpuesto>110.54</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>110.54</baseImponible><valor>16.58</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>SP2095811301BO</codigoPrincipal><codigoAuxiliar>SP2095811301BO</codigoAuxiliar><descripcion>ASIENTO UNIVERSAL STD. RF BLANCO</descripcion><cantidad>2.00</cantidad><precioUnitario>10.42000</precioUnitario><descuento>4.17</descuento><precioTotalSinImpuesto>16.67</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>16.67</baseImponible><valor>2.50</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Gran Contribuyente">Resolución No. NAC-GCFOIOC21-00001090-E</campoAdicional><campoAdicional nombre="Exportador">Exportador Habitual de Bienes y Servicios</campoAdicional><campoAdicional nombre="correo">hidroelectric2010@hotmail.com</campoAdicional><campoAdicional nombre="DESCRIPCIONDESTINATARIO">RUDHT ELENA ORTEGA PAREDES</campoAdicional><campoAdicional nombre="CODIGOCLIENTE|CIUDADCLIENTE">79614|PICHINCHA / QUITO / COTOCOLLAO</campoAdicional><campoAdicional nombre="CODIGODESTINATARIO|OFICINADEVENTA">79614|EC28   PV Calderon</campoAdicional><campoAdicional nombre="ORDENCOMPRA|CIUDADDESTINATARIO">TRANSFERENCIA|PICHINCHA/QUITO/COTOCOLLAO</campoAdicional><campoAdicional nombre="EXPORTACION|PEDIDO">NV|4179035</campoAdicional><campoAdicional nombre="PLAZO|VENCE">Pago efectivo, previo a despacho|01/05/2025</campoAdicional><campoAdicional nombre="NUMSAP|IDENTIFICACIONCOMPRADORPDF">93754751|1711063675001</campoAdicional><campoAdicional nombre="DIRECCIONDESTINATARIO|TITULOTOTALIMPORTE">AV. MARISCAL SUCRE  Y JOSE  FIGUEROA|NV</campoAdicional><campoAdicional nombre="NOTA|IDENTIFICACIONDESTINATARIO">nbsp|NV</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature147927">
+<ds:SignedInfo Id="Signature-SignedInfo397480">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID607755" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature147927-SignedProperties988549">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>WajhUDO/IOt22iRyVD+xhNw/HzM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1590605">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>AXV81tINIvZyPIOzzwcKtzir0c4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-341030" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mWnt8I5zBTResEvYP7YnkF8SIzQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue782242">
+QjCM78TRa/VW1/lEcxCyXYZwN2CSizs7rZSd+qT+KTgCpQaOT74HJlPXWvgnsqX8ia54ZvpG5oLw
+/E0rOY/uAzBCu5LjlkBNUXXyOy73SjPqi419OsedmNVhYWrGELN1aNniX/sz2aG/NtOq46yFx3Xh
+8BC3rDMU1MkElUgKQMo4BP+mETHaY/yk3fzH2Usc4LF14znhKzSowWFnPbfpIRdidnn+aNLTb39Q
+y+iUQJRkaGW22SjxDtRKBhHf1emb7M35H2WppxWk7WmCOkcL0xGL3XKPGHtagTRDc1nX2L8yhedO
+4+qtnf3Ix9dfVHcrKd0wG7HtP4Sv69wHzEYTLg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1590605">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMDjCCCfagAwIBAgIELrazlDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDAxMTAxNjA2MjJaFw0yNjAxMDkxNjA2MjJaMIGgMSkw
+JwYDVQQDDCBFTlJJUVVFIEZSQU5DSVNDTyBFR0FTIFZFTEFTUVVFWjEVMBMGA1UEBRMMMTAwMTI0
+MTExNjA5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMkbHkyL2KegrRtFQLcj/BbFAEo1dTHk+xmw3a2m0zv3SOfsfGju
+xqaX0nlwAwN17oD1VZ2ZFPn0l57okkrRKzYywmHBUutXTYmeR2iZacMAN8IMXt9DodgE9e+OG5gm
+sOFP20Ku4rBj7bIFAekgi8jWRmQA8oOGSEwD4Urtx1vAWrQHGF3hifNs2tB9Q6zupp6ackygjGtn
+yvu52JEPk1HS6WxbIERAB3VeoqfKh1VqI3KPmN+mxOe2z3eGpf11mLeHiKu+qxrfi88YP5GH17WL
+4B5E9ApNQ/LNHy439/8Yjj3NFcT2odwzv6rxrHHsq3sZQybgPv3GcFHAWklZvEsCAwEAAaOCB1Mw
+ggdPMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMB0GA1UdEQQWMBSBEmVlZ2FzQGVkZXNhLmNvbS5lYzCCARUGA1UdIASCAQwwggEI
+MGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+ZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnIC
+AzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRl
+IENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWg
+QaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFs
+LW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2Nl
+cnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQlJO7w+byA0kJzeIuCpG5e
+AI43RDArBgNVHRAEJDAigA8yMDI0MDExMDE2MDYyMlqBDzIwMjYwMTA5MTYwNjIyWjALBgNVHQ8E
+BAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRQUkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMB
+BAwMCjE3MDcyMDM5MjEwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+QgYKKwYBBAGCpnIDBwQ0DDJBViBNT1JBTiBWQUxWRVJERSBPRTMgMTkxIFkgQVYgVEVOSUVOVEUg
+SFVHTyBPUlRJWjAhBgorBgEEAYKmcgMCBBMMEUVOUklRVUUgRlJBTkNJU0NPMB8GCisGAQQBgqZy
+AyAEEQwPMDAyMDAxMDAwNzQ0MDgyMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwE
+CQwHRUNVQURPUjAUBgorBgEEAYKmcgMDBAYMBEVHQVMwGAYKKwYBBAGCpnIDCgQKDAhFREVTQSBT
+QTAdBgorBgEEAYKmcgMLBA8MDTE3OTAxNjA2NTMwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAZBgor
+BgEEAYKmcgMEBAsMCVZFTEFTUVVFWjAaBgorBgEEAYKmcgMIBAwMCjA5OTkyMzY0MDMwDQYJKoZI
+hvcNAQELBQADggIBAAwiCDRUIDfmyjcOvEupGBHN8QXHIqgmVFi3/la72G211Mwq6wA63MVr2JkY
+1UlwLZrNP7UQPHxZ4GgHvXVr0AVVd6KcMsRe60qX9TH/IMXpdWdpLuBAUZ5GWD9zGBj3jdBwCCHW
+kqh6dl9siZea42RDZ0sRnlYEJPVqj4lZ3pRfDbOO8VqswTmbMMCmj54ysTe4tZXZD9PGX0lhPj/G
+OMq6ytV0VaewhrtwyEw2HO+LFelwpWzsvndB5Tj+rugbZktAVZDOkhYcGK8GWxz4eBHJIUg9FpfM
+2ctbZcwgGchQKElU/l2NmHxjCai7zj99kuHYuD5OZj+3uZSoi1nCFSmZCWR8K/SUG4xuf4m+EHFF
+/Dc1vg7NOjn5GPZBvpKs0aHJh5wZhIlHBgCvUtqco4iVtfwsmNKoyZ5m4snxzQW85MGp6lW/DfQS
+5mNC7y7/MbvAFepO2w4SF8mLZziRlFqjB5M1EPth5MGDcpdc885uw/auBXw5fdFNcR+mjieQ4eoI
+E2hufgEZAtLU4a3FEDcd7DQ09uyrZtFeaK/IahvWeQ9Cvi/+J3Y9VuyGU2tROqXeG4zSKt3XCzoV
+IPcXlEw65IjeXi+GXxTcJp6MjDFfPSLQxX8s/zn50DC/4yDaJRarveX84U4uzyJ2M1y3yTG8BRqS
+e3KDJaBk7MC6PHxF
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yRseTIvYp6CtG0VAtyP8FsUASjV1MeT7GbDdrabTO/dI5+x8aO7GppfSeXADA3XugPVVnZkU+fSX
+nuiSStErNjLCYcFS61dNiZ5HaJlpwwA3wgxe30Oh2AT1744bmCaw4U/bQq7isGPtsgUB6SCLyNZG
+ZADyg4ZITAPhSu3HW8BatAcYXeGJ82za0H1DrO6mnppyTKCMa2fK+7nYkQ+TUdLpbFsgREAHdV6i
+p8qHVWojco+Y36bE57bPd4al/XWYt4eIq76rGt+Lzxg/kYfXtYvgHkT0Ck1D8s0fLjf3/xiOPc0V
+xPah3DO/qvGsceyrexlDJuA+/cZwUcBaSVm8Sw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature147927-Object956081"><etsi:QualifyingProperties Target="#Signature147927"><etsi:SignedProperties Id="Signature147927-SignedProperties988549"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-01T14:31:49-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Rp3d4XKW7gA6QNfO5Yc/0YjLLLY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>783725460</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-341030"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

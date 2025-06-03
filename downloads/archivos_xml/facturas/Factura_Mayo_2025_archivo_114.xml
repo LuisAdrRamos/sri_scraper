@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1605202501189175124500120011000000032932304201918</numeroAutorizacion>
+<fechaAutorizacion>2025-05-16T02:45:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COMPAÑIA DE TRANSPORTE PESADO FAJOAR S.A.</razonSocial>
+    <ruc>1891751245001</ruc>
+    <claveAcceso>1605202501189175124500120011000000032932304201918</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000003293</secuencial>
+    <dirMatriz>CARLOS RUBIRA INFANTE S/N BUSTAMANTE CELI</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/05/2025</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Ortega Paredes Rudth Elena</razonSocialComprador>
+    <identificacionComprador>1711063675001</identificacionComprador>
+    <direccionComprador>Av Mariscal Sucre N62-237</direccionComprador>
+    <totalSinImpuestos>76.02</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>76.02</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>76.02</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>76.02</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>72085</codigoAuxiliar>
+      <descripcion>qq de ceramica NE-00585</descripcion>
+      <cantidad>29.46</cantidad>
+      <precioUnitario>0.86</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>25.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>25.34</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>72085</codigoAuxiliar>
+      <descripcion>qq de ceramica NE-00652</descripcion>
+      <cantidad>29.46</cantidad>
+      <precioUnitario>0.86</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>25.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>25.34</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>72085</codigoAuxiliar>
+      <descripcion>qq de ceramica NE-00733</descripcion>
+      <cantidad>29.46</cantidad>
+      <precioUnitario>0.86</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>25.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>25.34</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Correo Electronico">hidroelectric2010@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Informacion adicional 1">Factura de Luis Barrera </campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature846354">
+<ds:SignedInfo Id="Signature-SignedInfo837641">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID487986" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature846354-SignedProperties701378">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>tmsvoj9d2xbZpjVFxbGuuXCXqNg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate294919">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>qUzoOFM9Heo3wwa+uHUVCzyEWho=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-154014" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YuNHiJ7xtH+oc8ikYKxCx96p2h0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue907444">
+Knl2m6gdaJdgVxcPMDPK4qPa+hZVMzLYX+9Amaqg/+yCMF/dWWmP7WV2Pn9cvDgq
+wCqVlYa3bllHPMMeioGXzqXnGsIG8IIAbeBX/zuMJDPDB43qPCgDHQShRFvBNA+j
+NFU2IYYX5nTgtdK4O3SoHc1aU4HRUMjtY0K6kJ0YwFrxmmM6erB2y3EPJ7thdrku
+50twpWGqPHEHxMlAR7/LUCM+yGzMBrsjsBqahPQfFu3ydg9n8fUIad1ofT0K/1aN
+3b6ZCS+QrmZ2UWbTwMLrPxR5CI6QH+Kb5T/Emj8kLdhAhvtShjpxMHgWLpi/hKTC
+JMLxTJf066i4yIqll5GKrQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate294919">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ7DCCB9SgAwIBAgIIOEXOQPZ8IvMwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNV
+BAYTAkVTMUQwQgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3Mg
+YXQgd3d3LnVhbmF0YWNhLmNvbS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0Eg
+Uy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNBMRowGAYDVQQDDBFVQU5BVEFDQSBD
+QTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4XDTIzMTAxMTIxMDUw
+MFoXDTI1MTAxMDIxMDUwMFowgekxCzAJBgNVBAYTAkVDMTMwMQYDVQQKDCpDT01Q
+QcORSUEgREUgVFJBTlNQT1JURSBQRVNBRE8gRkFKT0FSIFMuQS4xGDAWBgNVBAwM
+D0dFUkVOVEUgR0VORVJBTDEVMBMGA1UEBAwMVklURVJJIEJPUkpBMRYwFAYDVQQq
+DA1NQVJDTyBST0JFUlRPMRkwFwYDVQQFExBJRENFQy0xODAyNjM3MDk4MSMwIQYD
+VQQDDBpNQVJDTyBST0JFUlRPIFZJVEVSSSBCT1JKQTEcMBoGA1UEYQwTVkFURUMt
+MTg5MTc1MTI0NTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN6s
+Y0YKdjatVzAOc/bzJoFVM/Sftc6TUemt8ZPXkaNtT4uMPUW+VPZIaVfHGK2EA8mU
+GMuuHeZbRdrQS3/cFj4fDZlzhQJAgEw1TaXZR0/sZBNUsBHa46P3EBBEC+QNkQUa
+HBE/+s2iisoOPBCBDeNFVP8vr9G8jVdUHTQ/SDPvnqwkmgW1rtPRf9DGskuyeQ7Q
+of6RinRd10li4UAO8NlDlk6LqVTr3kmJyH4+d+dPQ4vZkzPw2o4SP2w55F77VWl4
+Fnc7C6oCqhJVbUstFaZqOVc0Ng6vwnQr8MQBOoNC/uBogui9RJJ4hIFfXV6yX+45
+IcFv6JNL49bEEYhm24cCAwEAAaOCBMUwggTBMBsGCysGAQQBgvE2ZgMBBAwMCjE4
+MDI2MzcwOTgwHgYLKwYBBAGC8TZmAwsEDwwNMTg5MTc1MTI0NTAwMTCB1wYIKwYB
+BQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29t
+L3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5j
+cnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQsaoCDilyHGpiPQvv5FqOWgogN
+UzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9
+MIGOBgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFito
+dHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsG
+AQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElW
+TzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8v
+Y3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUH
+AwQwggIGBgNVHREEggH9MIIB+YEWZmlybWFlY3VhZG9yQGdtYWlsLmNvbaAbBgsr
+BgEEAYLxNmYDAaAMDAoxODAyNjM3MDk4oB4GCysGAQQBgvE2ZgMCoA8MDU1BUkNP
+IFJPQkVSVE+gFwYLKwYBBAGC8TZmAwOgCAwGVklURVJJoBYGCysGAQQBgvE2ZgME
+oAcMBUJPUkpBoCAGCysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKBjBgsr
+BgEEAYLxNmYDB6BUDFJCQVJSSU86IFNPTElTIENBTExFOiBDQVJMT1MgUlVCSVJB
+IElORkFOVEUgTk1FUk86IFMgTiBJTlRFUlNFQ0NJTjogQlVTVEFNQU5URSBDRUxJ
+oB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTg0NTk0Nzk0oBcGCysGAQQBgvE2ZgMJ
+oAgMBkFNQkFUT6A7BgsrBgEEAYLxNmYDCqAsDCpDT01QQcORSUEgREUgVFJBTlNQ
+T1JURSBQRVNBRE8gRkFKT0FSIFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMTg5MTc1
+MTI0NTAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNS
+RVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJ
+KoZIhvcNAQELBQADggIBAMH556S68Fxs2wJb6JxlW+UAnnhX13B9m8PrL6zZvJIp
+dwr+ESX+qd5hRibTtk9amhRc9ouc/vQqqRfXktZ06J5nehiQwM5gRnVgfZiHr1x2
+Is6Da9cxhP9yMDuVPyeDOR44CC3H9nuv+INZRSvidsSlVyqXM5XK+UlKGNnNVb3y
+p8hy6Zv9XSpEqusOC7bwjUniRDq1xkrV442ZntjxDkuKC8l02ga0gvWEHWDT3STG
+lhdfXvqxU71ScNo6CL7WPem2mDGq7gUapxs3OczjP4AdZKN0sRuJhCOeP7Tz6N10
+2MBAL8I++LM97HkI2UP04MC+Qfbt787l+J1GrGZ50zCwho4yFjcoluniC+bqFLAC
+Q0VV9Ka0iq4obZsSrCXTpbtCyP9RHvmw8RHmaWwV6rFQSIV/RI7E9HTudNiShfU6
+uPkG69H0wl/JdgJuM0f/cBLnrNveZYA1mdeMWL1Fk7fZkteWD3E4k6mA2VZBNMLA
+h80jA5dboQrEmm3MvchkN5/zgGVgHfeXYKsRwzjWuhx4Jib9X0m1LtFDxS5DHp8o
+6UNZgS66Wm1IC2Jt1nZPXQjEho3JC2G4H+2lxuSgztBIIsu1kaW7aVi8mlxgXTkQ
+Uu0mUMFp65wSqePobRV/ijG5zQEr9k+4lB8ocDMLuK2X16g/+d0q1rNHynru9s+Z
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3qxjRgp2Nq1XMA5z9vMmgVUz9J+1zpNR6a3xk9eRo21Pi4w9Rb5U9khpV8cYrYQD
+yZQYy64d5ltF2tBLf9wWPh8NmXOFAkCATDVNpdlHT+xkE1SwEdrjo/cQEEQL5A2R
+BRocET/6zaKKyg48EIEN40VU/y+v0byNV1QdND9IM++erCSaBbWu09F/0MayS7J5
+DtCh/pGKdF3XSWLhQA7w2UOWToupVOveSYnIfj53509Di9mTM/DajhI/bDnkXvtV
+aXgWdzsLqgKqElVtSy0Vpmo5VzQ2Dq/CdCvwxAE6g0L+4GiC6L1EkniEgV9dXrJf
+7jkhwW/ok0vj1sQRiGbbhw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature846354-Object296746"><etsi:QualifyingProperties Target="#Signature846354"><etsi:SignedProperties Id="Signature846354-SignedProperties701378"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-16T02:40:11-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>lA0/sGmNTSxevW/sToDF2BW6W2M=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4054873817925559027</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-154014"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

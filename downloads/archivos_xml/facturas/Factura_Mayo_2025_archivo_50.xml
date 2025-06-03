@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0705202501171106367500120030100000166571234567818</numeroAutorizacion>
+<fechaAutorizacion>2025-05-07T13:50:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ORTEGA PAREDES RUDHT ELENA</razonSocial>
+        <nombreComercial>MATERIALES DE CONSTRUCCION HIDROELECTRIC</nombreComercial>
+        <ruc>1711063675001</ruc>
+        <claveAcceso>0705202501171106367500120030100000166571234567818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>010</ptoEmi>
+        <secuencial>000016657</secuencial>
+        <dirMatriz>AV.MARISCAL SUCRE N62-268 Y JUAN FIGUEROA</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>07/05/2025</fechaEmision>
+        <dirEstablecimiento>AV. MARISCAL SUCRE N62-268 Y JUAN FIGUEROA (QUITO)</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>RUDHT ELENA ORTEGA PAREDES</razonSocialComprador>
+        <identificacionComprador>1711063675001</identificacionComprador>
+        <direccionComprador>AV MARISCAL SUCRE N62-268 Y JUAN DE FIGUEROA</direccionComprador>
+        <totalSinImpuestos>71.56</totalSinImpuestos>
+        <totalDescuento>10.69</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>71.56</baseImponible>
+                <valor>10.73</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>82.29</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>82.29</total>
+                <plazo>0</plazo>
+                <unidadTiempo>Dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>SLAJNAD16CW</codigoPrincipal>
+            <descripcion>PISO/PARED LAJA NEGRA 31X60 1.68M SAN LORENZO</descripcion>
+            <cantidad>0.6000</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>0.55</descuento>
+            <precioTotalSinImpuesto>3.65</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>3.65</baseImponible>
+                    <valor>0.55</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>11334569700101</codigoPrincipal>
+            <descripcion>PISO FALETTI MARRON 42X42 2.M.ITALPISOS</descripcion>
+            <cantidad>1.3900</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>1.26</descuento>
+            <precioTotalSinImpuesto>8.47</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>8.47</baseImponible>
+                    <valor>1.27</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>CER310BOS45</codigoPrincipal>
+            <descripcion>PISO BOSTON PERLA 45X45 1.82M.ALFA</descripcion>
+            <cantidad>0.2200</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>0.20</descuento>
+            <precioTotalSinImpuesto>1.34</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.34</baseImponible>
+                    <valor>0.20</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>240616E</codigoPrincipal>
+            <descripcion>PARED DOMINICA GRIS 25X44 1.65M.GRAIMAN</descripcion>
+            <cantidad>1.4500</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>1.32</descuento>
+            <precioTotalSinImpuesto>8.83</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>8.83</baseImponible>
+                    <valor>1.32</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>GZD812633E</codigoPrincipal>
+            <descripcion>PISO MACERATO ALMENDRA 18.7X46.6 1.13M. CENYCA</descripcion>
+            <cantidad>1.1300</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>1.03</descuento>
+            <precioTotalSinImpuesto>6.88</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>6.88</baseImponible>
+                    <valor>1.03</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>812320E</codigoPrincipal>
+            <descripcion>PARED PERSIANA BLANCO 18.7X46.6 1.13M. GRAIMAN</descripcion>
+            <cantidad>3.4000</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>3.09</descuento>
+            <precioTotalSinImpuesto>20.71</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>20.71</baseImponible>
+                    <valor>3.11</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>225027700</codigoPrincipal>
+            <descripcion>PARED NEXO MULTICOLOR 30X45 1.51M. ALFA</descripcion>
+            <cantidad>3.5600</cantidad>
+            <precioUnitario>7.0000</precioUnitario>
+            <descuento>3.24</descuento>
+            <precioTotalSinImpuesto>21.68</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="UNIMED_UNIXITEM" valor="M2|1"></detAdicional>
+                <detAdicional nombre="BODEGA" valor="O"></detAdicional>
+                <detAdicional nombre="DESCUENTO" valor="13.00"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>21.68</baseImponible>
+                    <valor>3.25</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion">QUITO - AV MARISCAL SUCRE N62-268 Y JUAN DE FIGUEROA</campoAdicional>
+        <campoAdicional nombre="Telefono">3413944</campoAdicional>
+        <campoAdicional nombre="Vendedor">CATHME RODRIGUEZ RAFAEL ROLANDO</campoAdicional>
+        <campoAdicional nombre="Forma de Pago">CONTADO</campoAdicional>
+        <campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature692272">
+<ds:SignedInfo Id="Signature-SignedInfo1040969">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID633122" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature692272-SignedProperties407952">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>sCZd1eC9+xxxU4pHv6Smz9Qpo9E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1904132">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>PNPD6970bgEgACEs+HIk5MFf4/w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-991253" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>k/VAvooLTHCVSubZvzW7NeByQHw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue176290">
+PreN1PgwxuL2rky7dUWu9PHvoqOZZ5IWGam9gyy/IxiGFrmby/2ANb9JRomsxedWVrr9hX1qVnba
+Ft4NtmEd8/5KtdO5hVlHEqOdW9xMMm2isGKtgoybSBv0SQN45l+TYiiFEvei5CbKObGbLi/rUlc2
+jC3sOkE6iwlql+mj42Pr6YljxK1N0dMciAACIwyyHB0G8Vw/zTLRJz7JDRkwjlXCgtTGKFCvbuPX
+4f1uXmk5febrGL4hbU34OgrQvhuVKa0kusYm0KFdnlZOnhDbatMQWlWBE4v8dggsfJCr5nB93qtd
+LIFoaoZq3k+dKlOrcRaF3rNxpTxbUwW/uFABFA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1904132">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJnzCCB4egAwIBAgIEZeNU8TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MDMyNzE3MTQ0NVoXDTI2MDMyNjE3MjUx
+MFowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDAwMDI4MDA5NjAhBgNVBAMTGlJVREhUIEVMRU5BIE9S
+VEVHQSBQQVJFREVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs3Ei7ItdLe9b7Bm8
+cgtxZvaEnPLBDGnWhVN3rP19KsUYTRUFhyNUsRQfEl58iN+Dwyo300O7gr8WmsWFebxr2geyz1Fk
+aa1WTOrlIp66ISQhI58BD3l4T4I+vlSmQR6+TWHETSPNLDMktFFwo3uYYXzUBGBOqX4cWu7GD1Sj
+AuNEyupUkac55G3e0VEvGE45Qqmxo9OKb5RaCDT3BnUaqIeryadRG4Wsh2g3seRfshPZuRXAkacG
+/RHtDIym46SAl141JZWO8i03OlnGOoPfMMP+EadzVlW80CdygyYKwk4CmlTeSVOTY6FLdHI6RA92
+gD9WzU5CvechyxF+IxZYeQIDAQABo4IEyjCCBMYwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0wWwYL
+KwYBBAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNh
+LWNlcnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsG
+AQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTcxMTA2MzY3NTAbBgorBgEEAYKoOwMCBA0TC1JV
+REhUIEVMRU5BMBYGCisGAQQBgqg7AwMECBMGT1JURUdBMBcGCisGAQQBgqg7AwQECRMHUEFSRURF
+UzAjBgorBgEEAYKoOwMHBBUTE1ByYWRvcyBkZWwgQ29uZGFkbyAwGQYKKwYBBAGCqDsDCAQLEwkw
+MjM0MjM5NDQwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1Iw
+HQYKKwYBBAGCqDsDCwQPEw0xNzExMDYzNjc1MDAxMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUt
+QVJDSElWTzAoBgNVHREEITAfgR1oaWRyb2VsZWN0cmljMjAxMEBob3RtYWlsLmNvbTCCAeEGA1Ud
+HwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNS
+TDE5ODcsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9
+RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89
+QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlv
+bkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVj
+b21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVD
+VUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1F
+Q0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VB
+RE9SMRAwDgYDVQQDEwdDUkwxOTg3MCsGA1UdEAQkMCKADzIwMjQwMzI3MTcxNDQ1WoEPMjAyNjAz
+MjYxNzI1MTBaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBSknrdS
+R6h4r1SHOqzlSoMY0sZ0AjAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjMDAgQwMA0G
+CSqGSIb3DQEBCwUAA4ICAQBpRKdPYwxq0WbPXBVny6sh/Jsa4huUl3GQdI+cTibMX7KOEWjWwnEj
+IIfHLjZ/mcTVHDH+0DPL7Lpn9zX70CB7WY7RRTYueVH0OtQIPI1pBJIWw6o6bS0ry1VcbqVJZPfE
+YgjhrNHtjJqwOCxR+sSQkm/eV6Bn9XC8i+rSwkfTN4jzFm2XcJDLcvWHPXWh1SHUnLLIDuu1vr8Z
+8EPJe85OWjRTzgu2oQ7qLq9dJdevIhKJQnx0pdMEg0Ich0TdIGlfvieccXvkCaNt9JVX+O4MQREc
+a/XJOml3vubM2DA83RZTpGvdxXW68NZoxVixCsY/SDnFO+qoP1peorRZLfcBQeptGINBHUhpR2Dp
+fDs1/w9+UwK2xkVGe1c05Owwwi4OuBNFYmRC/MPoU0PSKyQeoJz2rr9iAp4kT7kkfPgDhjcDxubc
+FafEsXjun4XkcAHWajaOd4sxwxX2lrtnxWs22LTC0jiy+Mr1rKc89Oh8ySMrET0CAJATSzzomESe
+FgCS6qYKg1yfzhxHzaGugOkI/hIGHYePSEKs3gmJG1+tRLuq7lf7yAemElxAW5OI1rDiClKiX/TT
+lXRsuslZv7fJSMSYd1jaNzxAmdXOHFLEoaPkEN5g0/9rd1u9NXZmxqY5wwfEytNPZ6UXimMmYP7r
+wc8vhZZuzZrJStAVJzgE/A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+s3Ei7ItdLe9b7Bm8cgtxZvaEnPLBDGnWhVN3rP19KsUYTRUFhyNUsRQfEl58iN+Dwyo300O7gr8W
+msWFebxr2geyz1Fkaa1WTOrlIp66ISQhI58BD3l4T4I+vlSmQR6+TWHETSPNLDMktFFwo3uYYXzU
+BGBOqX4cWu7GD1SjAuNEyupUkac55G3e0VEvGE45Qqmxo9OKb5RaCDT3BnUaqIeryadRG4Wsh2g3
+seRfshPZuRXAkacG/RHtDIym46SAl141JZWO8i03OlnGOoPfMMP+EadzVlW80CdygyYKwk4CmlTe
+SVOTY6FLdHI6RA92gD9WzU5CvechyxF+IxZYeQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature692272-Object40893"><etsi:QualifyingProperties Target="#Signature692272"><etsi:SignedProperties Id="Signature692272-SignedProperties407952"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-07T13:43:20-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ypwvmI/Gxrb68oCcxYlJ0r67Pi8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709397233</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-991253"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

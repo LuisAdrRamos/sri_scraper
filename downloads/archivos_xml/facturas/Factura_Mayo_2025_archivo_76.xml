@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1205202501099337341200120030020000009250000082014</numeroAutorizacion>
+<fechaAutorizacion>2025-05-12T15:56:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SUPER GRES MARKETING S.A.</razonSocial><ruc>0993373412001</ruc><claveAcceso>1205202501099337341200120030020000009250000082014</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>002</ptoEmi><secuencial>000000925</secuencial><dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / AV CAMILO PONCE ENRIQUEZ 100 Y 9NA 10MA</dirMatriz></infoTributaria><infoFactura><fechaEmision>12/05/2025</fechaEmision><dirEstablecimiento>PICHINCHA / QUITO / COCHAPAMBA / MARISCAL ANTONIO JOSE DE SUCRE 62-221 N64 Y BERNARDO DE LEGARDA</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>RUDTH ELENA ORTEGA PAREDES</razonSocialComprador><identificacionComprador>1711063675001</identificacionComprador><direccionComprador>PICHINCHA_AV. MARISCAL SUCRE</direccionComprador><totalSinImpuestos>262.96</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>262.96</baseImponible><valor>39.44</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>302.40</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>302.40</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>5.50052.000111</codigoPrincipal><codigoAuxiliar>SCG79075*2</codigoAuxiliar><descripcion>PORCELANATO</descripcion><cantidad>10.00</cantidad><precioUnitario>26.295600</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>262.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>262.96</baseImponible><valor>39.44</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Dirección">PICHINCHA_AV. MARISCAL SUCRE</campoAdicional><campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional><campoAdicional nombre="FACT CHINO">SO20250512-5</campoAdicional><campoAdicional nombre="VENDEDOR/A">MAURICIO VILLARREAL GARCIA</campoAdicional><campoAdicional nombre="FECHA DESPACHO">12-05-2025</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature962735">
+<ds:SignedInfo Id="Signature-SignedInfo78774">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID807446" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature962735-SignedProperties91552">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>9W1D3oMhb2QafjOkVlshA/KKLAA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1159656">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vFLnjzG73xOhJw0CMKByMfD23n8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-540685" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yqkuFtazJqX5LmgwTvWzPOxLfwo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue769352">
+Hm+GMCLeBS/32UH9pQ2nvD1G6YZEiUT2LhvILy5Yx2Xu9Ic7b7VN9cuVVX9yz5SVOj1xc3j+xZdX
+BEO6PEc3B6NlayApcxN/kz13mqxOA9Uw039HwAMBHsoxOan5CxlIkpCw6OJGKPv2eJZUSPa6JwiV
+i/w5MFp4cADYcndSdQVML6y32eX+TSC6oHo5pIkMbDcFChh6KqawUWRIm2/EelPaRReqjY47Hq8L
+D+gA+IYySDt0VVjpldHJvJ/qruDjjlbkXhRHM6EL7x5VmV/O6iHjVnoEve4lY9W+AapvONNPKwYa
+RNyugOGO0SCXmcIH25FqnkQEvf4eyJ9JyuaJog==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1159656">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJiDCCB3CgAwIBAgIIG2V7uEL4Y6UwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTAwNjE5MzMwMFoXDTI4MTAwNDE5MzMwMFowgb4xCzAJBgNVBAYTAkVDMSIwIAYDVQQKDBlT
+VVBFUiBHUkVTIE1BUktFVElORyBTLkEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxDjAMBgNV
+BAQMBVpIQU5HMRAwDgYDVQQqDAdKSUFOSklOMRkwFwYDVQQFExBJRENFQy0wOTMzMDc5MTEzMRYw
+FAYDVQQDDA1KSUFOSklOIFpIQU5HMRwwGgYDVQRhDBNWQVRFQy0wOTkzMzczNDEyMDAxMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuFa8yVtF+A9zD563RwaVinkhKDNHMQyUuAq1BBm8
+H6B4VX00G6Ek4pIhuYdJdCwIz6Hl/3AM6PFhtAR1ihMv2zeM0k93Uy5XIj6n37H24cx7D68y/HHi
+nAoVAO2imfitHlLnIkQTFfk3uXBj0BRHGXQjYGcUZEbAfd4fGZG8excks3+2Q0ol/B6pC/gV/oin
+b86vw1lTiK8tbvrHU4FGiMC/ihWeF5aqMW0VJM1xoQV/Xvz2rcGw/HddDZOgTzgfMoQU1EOqPY0T
+TgX3/04W+1Rgb99Zwe35/IIy8K+l+yynCmbHr3blpqpe6pdNcXhJD5Ef87SJxHgnXLCDWkuK6wID
+AQABo4IEjDCCBIgwGwYLKwYBBAGC8TZmAwEEDAwKMDkzMzA3OTExMzAeBgsrBgEEAYLxNmYDCwQP
+DA0wOTkzMzczNDEyMDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3
+dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5h
+dGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+b2NzcC8wHQYDVR0OBBYEFF0L0KKtIME6s2vJqU+T639jB2HRMAwGA1UdEwEB/wQCMAAwHwYDVR0j
+BBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMB
+MHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1l
+Yy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZP
+MIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAc0GA1UdEQSCAcQwggHAgSNzdXBlcmdyZXNjY29udGFi
+aWxpZGFkLjIzQGdtYWlsLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAowOTMzMDc5MTEzoBgGCysGAQQB
+gvE2ZgMCoAkMB0pJQU5KSU6gFgYLKwYBBAGC8TZmAwOgBwwFWkhBTkegIAYLKwYBBAGC8TZmAwWg
+EQwPR0VSRU5URSBHRU5FUkFMoEoGCysGAQQBgvE2ZgMHoDsMOUFWIENBTUlMTyBQT05DRSBFTlJJ
+UVVFWiBOTUVSTzogMTAwIElOVEVSU0VDQ0lOOiA5TkEgMTBNQaAfBgsrBgEEAYLxNmYDCKAQDA4w
+MDU5Mzk4MDQ4Mjk5OaAaBgsrBgEEAYLxNmYDCaALDAlHVUFZQVFVSUygKgYLKwYBBAGC8TZmAwqg
+GwwZU1VQRVIgR1JFUyBNQVJLRVRJTkcgUy5BLqAeBgsrBgEEAYLxNmYDC6APDA0wOTkzMzczNDEy
+MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUg
+TEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAYpcJxyq0
+akkUgvNCDveLlZsuQF54HOebBCz73FkYJPluJuXrNFOfO+Uhse6R5BBi1Zz3UXWqoj+Qy0IBUmnP
+vvLGc+2NEEdhYsfLxPaIS86Zpu8PePDzhG2mNLa7Ev19dssYh3knmuSvBeDnpl+PbZzubQOFrb+x
+YNoejgCQWD7kG8avDqEuZH6799rowsAm6kMyoGfA3xekrEsGJbnNvKM1OqGb6YE9jNQvkTX0zR0g
+Womff+Z0A6WyyNBToaR5HWVf4lWoPNU+AJG280OgwMGfEDog4LFZ/h4f0JbiFBT3k5BCHEJ7iVYl
+HkdvlzJUdzigvrkwsI2YTpwPdwkI2EqbyVNbY9uH9vm4c6O+xHe+/14TgsjgSchPl4SYH6wL2JSY
+kAigh0SI8fiMcDTpbnpJqlUoewV9OH/0cCFSdgy2lfoQs+3XQW8FU9q+DyWhu5yhmv+d3+/Wmgaa
+RP5Kg9f+Uy4maF5S7gw4fy3Wj35j1MwGYD/GxWFnISvoPZQR7vIVeh4b2FibNvO2HYcgZIhPbz+6
+2ANYobZ8om5ZlqnZ8hxe0G9W0zpleo+YuzEtNwcERNQefpnQTCF5PqvDFOmmYQ/jx5AveMlJxeCd
+hCZl4g1QnkQPadI+VtsVKkriNAfTelZkOlJqAyVA741EQZdXxR8nX2C6pu/LHGQULbQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uFa8yVtF+A9zD563RwaVinkhKDNHMQyUuAq1BBm8H6B4VX00G6Ek4pIhuYdJdCwIz6Hl/3AM6PFh
+tAR1ihMv2zeM0k93Uy5XIj6n37H24cx7D68y/HHinAoVAO2imfitHlLnIkQTFfk3uXBj0BRHGXQj
+YGcUZEbAfd4fGZG8excks3+2Q0ol/B6pC/gV/oinb86vw1lTiK8tbvrHU4FGiMC/ihWeF5aqMW0V
+JM1xoQV/Xvz2rcGw/HddDZOgTzgfMoQU1EOqPY0TTgX3/04W+1Rgb99Zwe35/IIy8K+l+yynCmbH
+r3blpqpe6pdNcXhJD5Ef87SJxHgnXLCDWkuK6w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature962735-Object267383"><etsi:QualifyingProperties Target="#Signature962735"><etsi:SignedProperties Id="Signature962735-SignedProperties91552"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-12T15:56:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>pe18LkgG596nl5ypfOH6xnSpnUs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1974120042999604133</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-540685"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

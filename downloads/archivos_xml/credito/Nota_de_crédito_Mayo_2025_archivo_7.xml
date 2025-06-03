@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1905202504099229259800120010020000172760001727611</numeroAutorizacion>
+<fechaAutorizacion>2025-05-19T14:58:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notaCredito id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CEDIMPORTSA S.A. </razonSocial>
+    <nombreComercial>CEDIMPORTSA S.A.</nombreComercial>
+    <ruc>0992292598001</ruc>
+    <claveAcceso>1905202504099229259800120010020000172760001727611</claveAcceso>
+    <codDoc>04</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000017276</secuencial>
+    <dirMatriz>LOTIZACION INMACONSA  LUIS ROBLES PLAZA (CALLE A) 4 Y TECAS ESQUINA</dirMatriz>
+  </infoTributaria>
+  <infoNotaCredito>
+    <fechaEmision>19/05/2025</fechaEmision>
+    <dirEstablecimiento>LOTIZACION INMACONSA  LUIS ROBLES PLAZA (CALLE A) 4 Y TECAS ESQUINA</dirEstablecimiento>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>RUDHT ELENA ORTEGA PAREDES</razonSocialComprador>
+    <identificacionComprador>1711063675001</identificacionComprador>
+    <contribuyenteEspecial>00048</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <codDocModificado>01</codDocModificado>
+    <numDocModificado>001-002-000068529</numDocModificado>
+    <fechaEmisionDocSustento>23/04/2025</fechaEmisionDocSustento>
+    <totalSinImpuestos>1979.69</totalSinImpuestos>
+    <valorModificacion>2276.64</valorModificacion>
+    <moneda>DOLAR</moneda>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1979.69</baseImponible>
+        <valor>296.95</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <motivo>DEVOLUCION</motivo>
+  </infoNotaCredito>
+  <detalles>
+    <detalle>
+      <codigoInterno>1009996185431</codigoInterno>
+      <codigoAdicional>1009996185431</codigoAdicional>
+      <descripcion>PORCELANATO 60X120CM TACCO MOKA DK BRILLANTE</descripcion>
+      <cantidad>146.88000</cantidad>
+      <precioUnitario>13.478261</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1979.69</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1979.69</baseImponible>
+          <valor>296.95</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">AV. MARISCAL SUCRE N.62 268 Y JUAN DE FIGUEROA - JUNTO A BOMBA DE SERVICIOS</campoAdicional>
+    <campoAdicional nombre="Telefono">023413944 - 023410653</campoAdicional>
+    <campoAdicional nombre="email">hidroelectric2010@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Nota">RUDHT ELENA ORTEGA PAREDES</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature664303">
+<ds:SignedInfo Id="Signature-SignedInfo213301">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID709742" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature664303-SignedProperties117123">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>n9HPjIZSHIIe75mowe6D0jT5kSw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1777965">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Y5pUSq6PbxI5NvU4XN+3kdcVNvc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-595013" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Hzsfvib5snuVBMFerdAMWtnCTpg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue550756">
+FPsp6LWS79NxjZXRflnHmuG4nPjXRZof/dE72wuWROuM7kKkgZaBZ3E2aPiECYel9Mlu2yY70Vy8
+JiggrLHo/D1UCJ01FxIKgk9d7cydgE8/NI387zv0F2uF7SIQcPFLTQz+RjgYODHuFzlldaXz8NFw
+VC3JYBtce65Th7Qx3t2HVxEBZ+q51/i0/68O+LjS1zW2Za74Y9KQQIY2XeDa2+S2FfvmZW3YkAok
+RIC/4+DCxrqE4UQKxBvkJOjOjuC6NAGlpS0Cwce2UbYApl9OuUE8CwA5IRqhBLHPo1ZV8ofjPhxD
+dW8OUnedy3XnhnbulZcmQFp0QZTiPHAf33CHvA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1777965">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL9DCCCdygAwIBAgIEK9Jy+TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA4MTAxMzU0MDdaFw0yODA4MDkxMzU0MDdaMIGVMR4w
+HAYDVQQDDBVET05ZIEFORFkgU0lMVkEgTU9SQU4xFTATBgNVBAUTDDEwMDgyMzA5MDM1MjEwMC4G
+A1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRT
+RUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC1+NUGUaND4rhgnmN75bEk5ITRcJEyWuvlnPNwIK+tm+kUu46W3KB/1Xgc5MWYPYSM
+2DpIwVsxwkBWg027bVWXrJAzDqRjGoqnqgAJ3dxxZw9byejoJeawWaoZMeKrqxhRHCsckEntX9Ey
+5Ia2Pb5pv1wBBh00rMozt7E3hOleAaYOwjyDwsjtewcUSoMgJQFZA2kPSYjgtKcfLRQuMfyCDz0v
+iqgR30Jq/PU1pbbZDVQUvoMF7AyhHmsAmFIQw+Q9sRNMBtD4vI48EGj1EzCYcBxhOqPOUmwqHuST
+1TLsr4fyxWBRby178BsaD7vxRBBPSMqJpNBjO9OxuMOWjQNBAgMBAAGjggdEMIIHQDAMBgNVHRMB
+Af8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJ
+BggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNh
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAq
+BgNVHREEIzAhgR9jb250YWRvcmdlbmVyYWxAY2VkaW1wb3J0c2EuY29tMIIBEgYDVR0gBIIBCTCC
+AQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+IABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnIC
+BDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRl
+IENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBB
+oD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+gceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwt
+b3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2Vy
+dGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFG1pl2iH/CYMaFK5y1oGHbHj
+HGy1MCsGA1UdEAQkMCKADzIwMjMwODEwMTM1NDA3WoEPMjAyODA4MDkxMzU0MDdaMAsGA1UdDwQE
+AwIF4DAaBgorBgEEAYKmcgMFBAwMCkZBQ1RVUkFET1IwGgYKKwYBBAGCpnIDAQQMDAowOTIzODk2
+MjI5MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwBLjAzBgorBgEE
+AYKmcgMHBCUMI0xVSVMgUk9CTEVTIFBMQVpBIDQgWSBURUNBUyBFU1FVSU5BMBkGCisGAQQBgqZy
+AwIECwwJRE9OWSBBTkRZMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNDM3OTM3MBMGCisGAQQB
+gqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAVBgorBgEEAYKmcgMDBAcMBVNJ
+TFZBMB8GCisGAQQBgqZyAwoEEQwPQ0VESU1QT1JUU0EgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5
+MjI5MjU5ODAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBUGCisGAQQBgqZyAwQEBwwFTU9SQU4wGgYK
+KwYBBAGCpnIDCAQMDAowOTg1NTUzMjMwMA0GCSqGSIb3DQEBCwUAA4ICAQAEyiW8mMuSLqvPCQlX
+sg6Ags2/WM6/XoodPFR3DBxOGwzU425rEBkQ1R6Zt8ozXKTwiBMawVCkO7E4OjlbEzS12349GfAL
+4Ayy43VHiDGn1kJ2a51iVup5MdNxhMB1lguca15JCooW7IARLAy/3PbhCrfuXu4yJBEMiygO8ape
+bPK9cTW6NbOGK/gBgxlUpFXHeTLZ9TrY/vsxK5fudBpu6xUacJ3B+fxqjseEqPSmFLaFLMJBl/jm
+hcH3tRK6YJqsAMA5O5L4n3OvzD7IvFZfGCNPLd4isAvgy2vzV8m3QqnX1faXzsT9OvUcUPW6LB1d
+3YN+C2IOOX/lK4j8e1NeLG5kN9zt8HcK/2UzE+4QA7JSRnRSMLYt2BUbfU+RutLk+ik28db+N3z9
+E/6OdrcxX53gWKpdUGArkTA/zRAbHaH1yv3z/0uax7AbrvGePgit/LIOHdO+3KxJ7gxB0GdNFX6j
+I+Fgdjotjv/FUNOILLbnmWPtfdg0OKkJYyhhxfXjaIPL0JHFPeCZKie8laFrAVT8t20Sah15Aao6
+GFFhxNdY6FrpyKv87fBdP44EcH1HaxJxenz2Rri8DF9/UKNLtp7/3yCMy7lBxNkLjC5ILApxtvJv
+TnI4LGAPxoTQ4BRSTE+UNxeaT2y/mb9JbzMyCwx838H8zW90PT/WFRP68Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tfjVBlGjQ+K4YJ5je+WxJOSE0XCRMlrr5ZzzcCCvrZvpFLuOltygf9V4HOTFmD2EjNg6SMFbMcJA
+VoNNu21Vl6yQMw6kYxqKp6oACd3ccWcPW8no6CXmsFmqGTHiq6sYURwrHJBJ7V/RMuSGtj2+ab9c
+AQYdNKzKM7exN4TpXgGmDsI8g8LI7XsHFEqDICUBWQNpD0mI4LSnHy0ULjH8gg89L4qoEd9Cavz1
+NaW22Q1UFL6DBewMoR5rAJhSEMPkPbETTAbQ+LyOPBBo9RMwmHAcYTqjzlJsKh7kk9Uy7K+H8sVg
+UW8te/AbGg+78UQQT0jKiaTQYzvTsbjDlo0DQQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature664303-Object532965"><etsi:QualifyingProperties Target="#Signature664303"><etsi:SignedProperties Id="Signature664303-SignedProperties117123"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-19T15:06:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>TdZVus/wKVT3UaR3Hhp3R4nBFOE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>735212281</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-595013"><etsi:Description>contedido del comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></notaCredito>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1205202501179321977500120010010000190332024120118</numeroAutorizacion>
+<fechaAutorizacion>2025-05-13T11:05:24-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CONSORCIO COBRANZA MQ</razonSocial>
+<nombreComercial>CONSORCIO COBRANZA MQ</nombreComercial>
+<ruc>1793219775001</ruc>
+<claveAcceso>1205202501179321977500120010010000190332024120118</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000019033</secuencial>
+<dirMatriz>PICHINCHA / QUITO / MARISCAL SUCRE / ORELLANA N26-243 Y YANEZ PINZON</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>12/05/2025</fechaEmision>
+<dirEstablecimiento>PICHINCHA / QUITO / MARISCAL SUCRE / ORELLANA N26-243 Y YANEZ PINZON</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+<identificacionComprador>1711063675001</identificacionComprador>
+<direccionComprador>CALLE A OE5-730 Y CALLE B URB PRADOS DEL CONDADO</direccionComprador>
+<totalSinImpuestos>13.50</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.00</descuentoAdicional>
+<baseImponible>13.50</baseImponible>
+<valor>2.03</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>15.53</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>15.53</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>4513</codigoPrincipal>
+<codigoAuxiliar>COB</codigoAuxiliar>
+<descripcion>COMISIÓN POR GESTIÓN DE COBRANZA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>13.50</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>13.50</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>13.50</baseImponible>
+<valor>2.03</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Placa:">PDC8324</campoAdicional>
+<campoAdicional nombre="Correo Electrónico:">hidroelectric2010@hotmail.com</campoAdicional>
+<campoAdicional nombre="Dirección:">CALLE A OE5-730 Y CALLE B URB PRADOS DEL CONDADO</campoAdicional>
+<campoAdicional nombre="Teléfono:">3410653</campoAdicional>
+<campoAdicional nombre="Lugar de Pago:">BANCO DEL PACIFICO</campoAdicional>
+<campoAdicional nombre="Canal de Pago:">12-05-2025 13:04:04 - BANCOS EN LINEA</campoAdicional>
+<campoAdicional nombre="Comprobante Pago:">92114266114620</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature173350">
+<ds:SignedInfo Id="Signature-SignedInfo583277">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID368832" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature173350-SignedProperties255117">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RPYUIyH+1Dc/7VjuWom15Tjj00c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate196495">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>50aDvx3K33Fsz1hy8FqN1dleIkI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-988162" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>b1Sw8bdhYYWgaPqCukcP/XlEGMM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue239626">
+C5WpuIp7Tmoqhk42vsPOZgN5xx0C8H0BhEfSeRIiQYnCnrHBwAFXWYdbdaF3t3t5OIokGqZNC8ev
+bWMnBUefe9o8ArVZZaV+0wS962vjRJ8XJKM85s0Ufo9UFaL3OuIbXLJUrugWVMwJCXo7XTRbXEmV
+FdYt6Lss7UMLoehRuOtxAv+GYe+EkBwRl2wfmSH0LgUS8XBF9zJ0rF9WzR1TATeuRrVBHOR4OPrb
+u2GrlIt6P1NQS8gHDz0K4OEuS2MoVDnlC8IDqmX+kx4UmePDDXYQ/+/kaMfUnT0MYaUM4Z85z+rI
+oiMwjWwKRH+1K+8y2ERq/LR2eFLkKTCiJ/wNlA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate196495">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMOzCCCiOgAwIBAgIEWuaB+jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMjAyMzE5MTdaFw0yNzEyMjAyMzE5MTdaMIGnMSUw
+IwYDVQQDDBxDRVNBUiBBVUdVU1RPIEJFUk1FTyBBQlJBSEFNMSAwHgYDVQQFExcxMTAyODk2MjQ2
+LTIwMTIyNDE4MjkxMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCr6KTw0PekuZ5DAqn+z4h4q3cAOzS8ElnctkWRy3Lb
+h5495iy5Gs7fIHcd/ZpQ+SBt4aZaGzdbIRoiYgOzCbqmEuPSwCw6yZPdP7S3JcEMc286yYQEdMfE
+S0H9hhth+qXAbRKIgNlUgq9OsjyXkJ3Ng16fgE7ONyRZylbHjqrdt8ADvbtpo1ZdhiK1SI3EUFF9
+C22FTMySYmr0xx3dXRaauMjF1yZ11KEObi6DuOn4VYuRMt5tGHqqjrshoQX5O6xsZsJhoywWcl77
+5YO98G8UejEWNRyElvCKLB2ckkMFOEgeHYoBKUdl9FkI/vGOc8gGhpvPwTn3fGpoHrD7+/RxAgMB
+AAGjggd5MIIHdTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAqBgNVHREEIzAhgR9jb25zb3JjaW8uY29icmFuemEubXFAZ21haWwu
+Y29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUA
+cgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABl
+AGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRp
+ZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYw
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1o
+dHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0y
+IFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHE
+oIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRp
+ZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJh
+ZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0
+P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1T
+RUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQT+y72vDYGUdUUSqaCs51tEqJs4jAr
+BgNVHRAEJDAigA8yMDI0MTIyMDIzMTkxN1qBDzIwMjcxMjIwMjMxOTE3WjALBgNVHQ8EBAMCBeAw
+IAYKKwYBBAGCpnIDBQQSDBBQUk9DVVJBRE9SIENPTVVOMBoGCisGAQQBgqZyAwEEDAwKMTEwMjg5
+NjI0NjAeBgorBgEEAYKmcgMJBBAMDk1BUklTQ0FMIFNVQ1JFMBEGCisGAQQBgqZyAyIEAwwBLjAv
+BgorBgEEAYKmcgMHBCEMH09SRUxMQU5BIE4yNiAyNDMgWSBZQU5FWiBQSU5aT04wHQYKKwYBBAGC
+pnIDAgQPDA1DRVNBUiBBVUdVU1RPMB8GCisGAQQBgqZyAyAEEQwPMDA3MDAxMDAwMDIzMDM2MBMG
+CisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMD
+BAgMBkJFUk1FTzAlBgorBgEEAYKmcgMKBBcMFUNPTlNPUkNJTyBDT0JSQU5aQSBNUTAdBgorBgEE
+AYKmcgMLBA8MDTE3OTMyMTk3NzUwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQE
+CQwHQUJSQUhBTTAaBgorBgEEAYKmcgMIBAwMCjA5ODI0Mjc2ODEwDQYJKoZIhvcNAQELBQADggIB
+AKoV7Td1hAjQYLTigAjZwzJ3rOPMw6epMTzmWPeGSxcLZSOk9drdJgmUmPyCn5dSyOkdkPYoGYeW
+mSaNxEGoBqsGmCrhhv7K/oy/2HLS3znRGZm8psLz1P9yE+HABk7xZS3buAwDsa8IWvwRwfshdOPN
+CcThLn9frOuz5L9YVv3Eji8P+wXd2NNpqV9gr1nqhPEYntmSmm03E2lOQIe2lGN8pqWHnEdx4HeL
+Bf/dhoxYNptSpXgp27t6py9DLswf+064Ltd2XjlDF44PVm/LExSZ1Z3FpHjghMnJ29kkiF7QsY4/
+Piu8PBQn+Z2Kjppq6bX7yoAVG3qwVuQz6r78QAAB2/JQP3rrB8Pkf6H7XZ79TiuLX/ND1h7xfk4z
+K/SYU3owOQ8tibzVArCnARJI9uoo9eduG3QddiK5P/r6l4vNFpk2YaJCTuaOVYkwn7Y6roxIpbzt
+WKYUi1A3y6u83zzsUFpod0DFvmnHKa4ik6watT+DcQXkvw+KKBUaldbhgYNJJIHev2qoTIyey7UI
+U+n0q3nCB7W5VUE9+bnQ/3oSCyG74WpJ4LgkD95mdLKM79hzh4dNAYchRYfbl49osgigvZmZzjNG
+teWk70Mrd15gR1DXXqc0JxZS98disig5xqBrUIFpTAdenTFAl+wG13RaSQWDlUNdb3AKGukg0/1W
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+q+ik8ND3pLmeQwKp/s+IeKt3ADs0vBJZ3LZFkcty24eePeYsuRrO3yB3Hf2aUPkgbeGmWhs3WyEa
+ImIDswm6phLj0sAsOsmT3T+0tyXBDHNvOsmEBHTHxEtB/YYbYfqlwG0SiIDZVIKvTrI8l5CdzYNe
+n4BOzjckWcpWx46q3bfAA727aaNWXYYitUiNxFBRfQtthUzMkmJq9Mcd3V0WmrjIxdcmddShDm4u
+g7jp+FWLkTLebRh6qo67IaEF+TusbGbCYaMsFnJe++WDvfBvFHoxFjUchJbwiiwdnJJDBThIHh2K
+ASlHZfRZCP7xjnPIBoabz8E593xqaB6w+/v0cQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature173350-Object143914"><etsi:QualifyingProperties Target="#Signature173350"><etsi:SignedProperties Id="Signature173350-SignedProperties255117"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-13T10:26:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>e/bS0ZBT8E1g+4gummzTLswcq98=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1525055994</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-988162"><etsi:Description>Comprobante Electrónico firmado desde el sistema AXIS Cloud.</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

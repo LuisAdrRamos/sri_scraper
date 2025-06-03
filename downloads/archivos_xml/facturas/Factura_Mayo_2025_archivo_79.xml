@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1305202501019031993800120011000000049837777777716</numeroAutorizacion>
+<fechaAutorizacion>2025-05-13T11:45:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TRANSPORTES TRANSTRUCKS S.A.</razonSocial>
+    <nombreComercial>TRANSPORTES TRANSTRUCKS S.A.</nombreComercial>
+    <ruc>0190319938001</ruc>
+    <claveAcceso>1305202501019031993800120011000000049837777777716</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000004983</secuencial>
+    <dirMatriz>AV. CARLOS ARIZAGA VEGA SN</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/05/2025</fechaEmision>
+    <dirEstablecimiento>AV. CARLOS ARIZAGA VEGA SN</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ORTEGA PAREDES RUTH ELENA</razonSocialComprador>
+    <identificacionComprador>1711063675001</identificacionComprador>
+    <direccionComprador>AV OCCIDENTAL Y LEGARDA N 62-268</direccionComprador>
+    <totalSinImpuestos>470.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>470.00</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>470.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>470.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>TRAN0006</codigoPrincipal>
+      <descripcion>[TRAN0006] QUITO METROS DE CERAMCA 30*60 GR:129252-129253-129254- NE:4536</descripcion>
+      <cantidad>345.60</cantidad>
+      <precioUnitario>0.510000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>176.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>176.26</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TRAN0006</codigoPrincipal>
+      <descripcion>[TRAN0006] QUITO METROS DE CERAMICA 20*60 Y 30*30 |</descripcion>
+      <cantidad>638.57</cantidad>
+      <precioUnitario>0.460000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>293.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>293.74</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">AV OCCIDENTAL Y LEGARDA N 62-268</campoAdicional>
+    <campoAdicional nombre="Teléfono:">023410653</campoAdicional>
+    <campoAdicional nombre="Correo Electrónico:">hidroelectric2010@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Teléfono Empresa:">(07) 417 7489</campoAdicional>
+    <campoAdicional nombre="Enviar Retención Electrónica a:">trucks0190@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Fecha de vencimiento1 :">contado por $470.00</campoAdicional>
+    <campoAdicional nombre="Emitido por:">MAYRA ALBARRACIN mayita1911@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature854903">
+<ds:SignedInfo Id="Signature-SignedInfo879999">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID979785" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature854903-SignedProperties666683">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gNS2VKIOkK1uKLbp42DE2wDSyR8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1863141">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qZacIJcTM1d2C+uKVFkjgQXfuug=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1044679" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vwoIr3jYp+dFmbrcElisdrH9suk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue58762">
+egFAcVm2Ip/8z0tbMRsPXq7UbPIRPZNzGe24HPo0xSXVXibL4haPOGeSgFoUzYoIvtT+4L9BiBEd
+uW1NgEXbdEeXmunbhdMnIDegThCr+PB4oNM5WjH80B3+XSngooA4mgTw86GYjPQeN1t1I7PWndtt
+CEPvmFUkQUQnYFTOu8twWzZNu+evxYa3kRYQsmIXaNcJCxVrtH3PLXL2M68D1ZwncOHCIBViv7l+
+NyfDVk2zf0HQ36652vM6clUoV9Y0+6cg7WBMkw6XOFGG/Mi5RkdZpsTTJkNnUz9DraMw1+yFTqg3
++nBecnOwltYJu22mcZdS0CWppPR5QnzHlmmPjw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1863141">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJszCCB5ugAwIBAgIIadW8dHlfo70wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTEyMDIzNTcwMFoXDTI1MTEyMDIzNTcwMFowgc0xCzAJBgNVBAYTAkVDMSUwIwYDVQQKDBxU
+UkFOU1BPUlRFUyBUUkFOU1RSVUNLUyBTLkEuMRAwDgYDVQQMDAdHRVJFTlRFMRMwEQYDVQQEDApW
+RVJBIEJSQVZPMRUwEwYDVQQqDAxTT05JQSBJU0FCRUwxGTAXBgNVBAUTEElEQ0VDLTEzMDc5MjEy
+NjAxIDAeBgNVBAMMF1NPTklBIElTQUJFTCBWRVJBIEJSQVZPMRwwGgYDVQRhDBNWQVRFQy0wMTkw
+MzE5OTM4MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvtLKi/pXKEoFZUklGVDQ
+OYxA2vWrbe96BjLGt9sRexM8MsSwyV96piw5F53QlLusEIQcZZM/F3KtWnRX+2cJhkiHLMRYJylD
+nR727u9VPtZIkpLU3MZJePoKGc1BhGCCGgFrPrnw+D2wrB2eiC8JoYUTz8V/536OrunQg92VIeBk
+YuNly+T8mMaE0Y2eAoRHcgRfISmNabXGSIFRw4TueETnCMartycCvgK5EncdFUe3EN8eTC74dig6
+HW0Yl5uO7mR9WOtYWiOeo+Z7IxCb+ksl3rC8WImz4tY6cEVH7KfwKPsMwBJqLtZh8JA96DkbMewx
+exPSyQBq4ymlearCJQIDAQABo4IEqDCCBKQwGwYLKwYBBAGC8TZmAwEEDAwKMTMwNzkyMTI2MDAe
+BgsrBgEEAYLxNmYDCwQPDA0wMTkwMzE5OTM4MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEF
+BQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZp
+Y2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFExVtUs48mdv1/X5yACuJnoM/bvJMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCB
+gAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5U
+QU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwy
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/
+BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAekGA1UdEQSCAeAwggHcgRZ0
+cnVja3MwMTkwQGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjEzMDc5MjEyNjCgHQYLKwYB
+BAGC8TZmAwKgDgwMU09OSUEgSVNBQkVMoBUGCysGAQQBgvE2ZgMDoAYMBFZFUkGgFgYLKwYBBAGC
+8TZmAwSgBwwFQlJBVk+gGAYLKwYBBAGC8TZmAwWgCQwHR0VSRU5URaBfBgsrBgEEAYLxNmYDB6BQ
+DE5DQUxMRTogQ0FSTE9TIEFSSVpBR0EgVkVHQSBOTUVSTzogUy9OIFJFRkVSRU5DSUE6IEZSRU5U
+RSBBTCBTVUJDRU5UUk8gREUgU0FMVUSgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5NzkzOTY0MDWg
+FwYLKwYBBAGC8TZmAwmgCAwGQ1VFTkNBoC0GCysGAQQBgvE2ZgMKoB4MHFRSQU5TUE9SVEVTIFRS
+QU5TVFJVQ0tTIFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMDE5MDMxOTkzODAwMaATBgsrBgEEAYLx
+NmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQB
+gvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAKipFruFHPSoZ9paHCSK/tqXxgNe
+mk8keV/bpvoJJ1UGgDqfTwAmhmZ2+DK5TELglfZNsbX1jLpaqIyMwL8ytDMLFoBPcykwziZomHID
+YyZgzl+xS0zl7BlfOGxueFUqU/ICvyaePAnIzHeeLJTvh4RS6BkUNcci/2NhhB5v5JKFKbBZLEre
+fCVWz3ZOVrBqVu5xeA+FAk8g2qwA4H7SwrKrC6x9wFTnegkCHULuZcmoSB+V8+aEgb80GBVhEYa+
+8vV8jIFtDkAlB4oFLPxFqY3Pl4dA6OGqr8Cu+XBK8DGuEpSjhuBVfexlSPqqdge0NTshxAJIB3WU
+cHLAwCFiisaKovk89wUAX7vb4GJoeNCvczVkz0QBhZyCPkL8YwozxvbJAvHenbdnVNskbIozfYlH
+qMBMCjSm0V8CltDH2O8lAgbuP/qqJB8NuF+wF1y6CbCL2qH9T8COELOttRi2/gj5ipaPo1AjQna7
+sIpxWl+OKHOueh94F7D9OgrYqP8x/aajWJNHdplvSktnwdi76RPJ/16ZEekSA8IQn3pccgEuIo9t
+qLi5TM1Z59ZaHP4y5SlPOBAxoaXQSRMR+X2UKuEonwy8GnOXTDi6zxFaPZR9CgR2bdo/jaFtjgQa
+aU8ObFdXsSY6cvfyMKItxFUJyOlhqmn+eX8KrCiFYUCiCrKq
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vtLKi/pXKEoFZUklGVDQOYxA2vWrbe96BjLGt9sRexM8MsSwyV96piw5F53QlLusEIQcZZM/F3Kt
+WnRX+2cJhkiHLMRYJylDnR727u9VPtZIkpLU3MZJePoKGc1BhGCCGgFrPrnw+D2wrB2eiC8JoYUT
+z8V/536OrunQg92VIeBkYuNly+T8mMaE0Y2eAoRHcgRfISmNabXGSIFRw4TueETnCMartycCvgK5
+EncdFUe3EN8eTC74dig6HW0Yl5uO7mR9WOtYWiOeo+Z7IxCb+ksl3rC8WImz4tY6cEVH7KfwKPsM
+wBJqLtZh8JA96DkbMewxexPSyQBq4ymlearCJQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature854903-Object534426"><etsi:QualifyingProperties Target="#Signature854903"><etsi:SignedProperties Id="Signature854903-SignedProperties666683"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-13T16:45:29+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>rdJfjM06S0QKxZDg+q5cLBpGtyA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7626208752460342205</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1044679"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

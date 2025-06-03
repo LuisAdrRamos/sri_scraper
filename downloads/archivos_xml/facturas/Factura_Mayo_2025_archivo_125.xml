@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1905202501110370414200120010010000583841905202510</numeroAutorizacion>
+<fechaAutorizacion>2025-05-19T11:51:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>LILA MARIA JIMENEZ</razonSocial>
+<nombreComercial>LILA MARIA JIMENEZ</nombreComercial>
+<ruc>1103704142001</ruc>
+<claveAcceso>1905202501110370414200120010010000583841905202510</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000058384</secuencial>
+<dirMatriz>CALLE BOLIVAR 114 Y TRES DE NOVIEMBRE</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>19/05/2025</fechaEmision>
+<dirEstablecimiento>CANAR / BOLIVAR 114 Y 3 DE NOVIEMBRE</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>RUDHT ELENA ORTEGA PAREDES</razonSocialComprador>
+<identificacionComprador>1711063675</identificacionComprador>
+<direccionComprador>AV. OCCIDENTAL N62-268 Y JUAN DE FIGUEROA  DE LA CIUDAD DE QUITO</direccionComprador>
+<totalSinImpuestos>1.34</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.00</descuentoAdicional>
+<baseImponible>1.34</baseImponible>
+<valor>0.20</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.000</propina>
+<importeTotal>1.540</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>1.540</total>
+<plazo>0</plazo>
+<unidadTiempo>Dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>507</codigoPrincipal>
+<codigoAuxiliar>507</codigoAuxiliar>
+<descripcion>(1) CERTIFICACION ELECTRONICA DE DOCUMENTO ELECTRONICO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.340000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.34</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.34</baseImponible>
+<valor>0.20</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="DIRECCION">AV. OCCIDENTAL N62-268 Y JUAN DE FIGUEROA  DE LA CIUDAD DE QUITO</campoAdicional>
+<campoAdicional nombre="EMAIL">notaria2lmj@gmail.com</campoAdicional>
+<campoAdicional nombre="Matrizador">LILA MARIA JIMENEZ</campoAdicional>
+<campoAdicional nombre="NÚMERO DE LIBRO">20250303002C01408</campoAdicional>
+<campoAdicional nombre="TELÉFONO">3413944</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature203346">
+<ds:SignedInfo Id="Signature-SignedInfo660536">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID469174" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature203346-SignedProperties102447">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>b3f/give2cBi4yyLPJtp+CGOr4Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate865875">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tod6UuApC5SPLQSSPokrqNVOc4I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-368816" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DXifD50YAtsi98jLpxqNoGN8I8o=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue327785">
+DpTN15B8DTSmzUEkVOJVhh6oMiXlXR1KCOOMfk3gNv9aqAk4u1sAAoaiEZb3JGu3zfrRfji89Z7l
+v0G4Ns/sKcaFevWLlo9UE03HaP04OvPGcAe9D61sEF8mi6waHhg97TmvBskrwEE8I+b2BoBgteu3
+3M4AvaR5gLVYqusdQ8tN2BlO3luxWJnjI6lQjoWl7lGNksFepIWeFaiK19ubrDwoHmf4pEztMiM9
+1OB9nMuN9tUH4c85GUMB2pb7fZSKSHgNRNv39C3MWkQH3GeklI5Z7xRBlEbugh4fXnWi4JL+P9rl
+0HwTXR/c23hpIj6+5UGVOHg0/bL2br9jdR8B3w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate865875">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL1TCCCb2gAwIBAgIEQU0ohjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEwMTYyMzA1MDlaFw0yOTEwMTYyMzA1MDlaMIGdMRsw
+GQYDVQQDDBJMSUxBIE1BUklBIEpJTUVORVoxIDAeBgNVBAUTFzExMDM3MDQxNDItMTYxMDI0MTgx
+NTAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAObxfqxvzTISWHY/KaQigGOu49Y8TOb5Lck9ujrwHONlN9ML0Mu4Z8d+
+ZpW93EbvlEpjMIytMsm9FSioqpJ9IXare9Y4dU3arK1O4LnLNkAquJAplAHjftHei3i9wh372UXu
+tRSAqL86SzHvTSxRVidTsQWH2zTmT2P5CSIT2zKBnbT79FmI0sZQpvGbexeegch2u66f9NydGMa0
+rYkmcko/w64zlh0wxI88t/wHjyKtMsScjC9U/RQxD5ESNZtq4AgwUyuw9Ax8ltZayoP/qDfltYZd
+G75hSmnkQOFB2say+Nno5Snworwq5tIM6r+Lg15zyrp+YQym1Woi40P00lsCAwEAAaOCBx0wggcZ
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMB0GA1UdEQQWMBSBEmxpbGlqX0Bob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgor
+BgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEF
+BQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fk
+cy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQ
+ZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBSQe0tmfz0cOuVFJEm0WL0eTHRO8zArBgNVHRAEJDAigA8y
+MDI0MTAxNjIzMDUwOVqBDzIwMjkxMDE2MjMwNTA5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnID
+AQQMDAoxMTAzNzA0MTQyMD4GCisGAQQBgqZyAwkEMAwuQVpPR1VFUyBDQUJFQ0VSQSBDQU5UT05B
+TCBZIENBUElUQUwgUFJPVklOQ0lBTDARBgorBgEEAYKmcgMiBAMMAS4wLAYKKwYBBAGCpnIDBwQe
+DBxCT0xJVkFSIDExNCBZIDMgREUgTk9WSUVNQlJFMBoGCisGAQQBgqZyAwIEDAwKTElMQSBNQVJJ
+QTAQBgorBgEEAYKmcgMgBAIMADARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQ
+RlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHSklNRU5FWjAXBgor
+BgEEAYKmcgMeBAkMB0FCT0dBRE8wHQYKKwYBBAGCpnIDCwQPDA0xMTAzNzA0MTQyMDAxMBEGCisG
+AQQBgqZyAx0EAwwBLjARBgorBgEEAYKmcgMEBAMMAS4wEAYKKwYBBAGCpnIDCAQCDAAwDQYJKoZI
+hvcNAQELBQADggIBALuNEE8qzKro6SuFNg6vb6PG8fSzyUZLOtXx8ZnhPvwQAb2ASh+hd4bcQ9ax
+q5DLNPqKuqX4Chx7wrteuCG76Nrum8jAvfzUVeI3For90BTfI3un+MyigdnYYe6nFm6prdKL8Iz5
+4Gjxyhkcco2bCoz6p8qLHPxo4q9X2Dm6esPQcfDHgxgnIBztEV/0qPL0An0RBsh60dJiAlBdvwJH
+Kp0I//PL8t9zjxs/IACng0VyD3TuetD6GnI+WzwibThiShgKP99nxs3VDWiMSKrdzICUIp+cU+p/
+pq2jynxOn4uwA966nZrROE3dA6EQYgReuZ6CPFZqxg22o0ZHm2Asm9Py2ofylTWOWOx05aN99jRm
+bm1Wst4nneNA1pBuoM/KgmOdroPlA9kHnUVRyeVpcCvIOVXXYOVTymq75B+8Dqe7H96XnPBSt9NC
+qGXGbSXViemzKpy97Nry3iFAPA7xt7JJR5uekkqjetfowfM2tYmsDJJ/SAGOIygNYNdws8K8EWUO
+lgSmCjbqISysFyyZXB2u03cPJPKn0GSz1Z8/gq0zmiydtjUA9FhUJwliCnjvWfaVzzwaJObmS7lT
+XCShi5J5B8IP405NZYKQjJmo9LmzOJ07NyDA8lNv5YCJvzd0eOzxKIaxgr5aZAHoCcu+xBfmxL9O
+1XGhxoJOMPiCsgdL
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5vF+rG/NMhJYdj8ppCKAY67j1jxM5vktyT26OvAc42U30wvQy7hnx35mlb3cRu+USmMwjK0yyb0V
+KKiqkn0hdqt71jh1TdqsrU7gucs2QCq4kCmUAeN+0d6LeL3CHfvZRe61FICovzpLMe9NLFFWJ1Ox
+BYfbNOZPY/kJIhPbMoGdtPv0WYjSxlCm8Zt7F56ByHa7rp/03J0YxrStiSZySj/DrjOWHTDEjzy3
+/AePIq0yxJyML1T9FDEPkRI1m2rgCDBTK7D0DHyW1lrKg/+oN+W1hl0bvmFKaeRA4UHaxrL42ejl
+KfCivCrm0gzqv4uDXnPKun5hDKbVaiLjQ/TSWw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature203346-Object379318"><etsi:QualifyingProperties Target="Signature203346"><etsi:SignedProperties Id="Signature203346-SignedProperties102447"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-19T11:51:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zSNhtOrEM0xin2nDF8uJMztSTBU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1095575686</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-368816"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object>
+</ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

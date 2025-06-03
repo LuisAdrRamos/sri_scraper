@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0105202501179317813800120011320001066450010664517</numeroAutorizacion>
+<fechaAutorizacion>2025-05-01T00:44:50-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>HOSPITAL-METROPOLITANO S.A.S.</razonSocial>
+    <nombreComercial>HOSPITAL METROPOLITANO</nombreComercial>
+    <ruc>1793178138001</ruc>
+    <claveAcceso>0105202501179317813800120011320001066450010664517</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>132</ptoEmi>
+    <secuencial>000106645</secuencial>
+    <dirMatriz>AV. MARIANA DE JESUS S/N Y NICOLAS ARTETA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/05/2025</fechaEmision>
+    <dirEstablecimiento>AV. MARIANA DE JESUS S N Y NICOLAS ARTETA</dirEstablecimiento>
+    <contribuyenteEspecial>006</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+    <identificacionComprador>1711063675001</identificacionComprador>
+    <direccionComprador>AV MARISCAL SUCRE N62 268 Y 6 DE DICIEMB</direccionComprador>
+    <totalSinImpuestos>130.5</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>116.9</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>13.6</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>2.04</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>132.54</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>132.54</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>087762</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>METILPREDNISOLONA 125 MG SUCCINATO SOLIDO PARENTERAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>10.33</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>10.33</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>10.33</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>053846</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>C LLAVE 3 VIAS POLYMED REF 1021</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.76</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.76</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.76</baseImponible>
+          <valor>.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>055545</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>C INTRAFIX SAFESET EUROFIX REF 4063005</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.94</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.94</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.94</baseImponible>
+          <valor>.44</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>083451</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>ALLEGRA 180 MG TABLETA RECUBIERTA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.81</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.81</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.81</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>360016</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>CREATININA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>13.2</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>13.2</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>13.2</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>340077</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>BIOMETRIA HEMATICA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>11.6</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>11.6</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>11.6</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2002202</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>C INTROCAN SAFETY 3 20G</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.48</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.48</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.48</baseImponible>
+          <valor>.67</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>160089</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>CLORURO DE SODIO 0.9% 100ML LIQUIDO PARENTERAL BRB1302</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>.98</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.96</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>081167</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>DIFENHIDRAMINA LIQUIDO PARENTERAL 50 MG ML</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.6</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.6</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>6.6</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>150049</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>ATENCION EN EMERGENCIA 1</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>71.4</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>71.4</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>71.4</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>054947</codigoPrincipal>
+      <codigoAuxiliar>01</codigoAuxiliar>
+      <descripcion>C TEGADERM I.V ADULTO 6.5CMX7CM 1683</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.42</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.42</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Facturas" valor="Factura detallada"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.42</baseImponible>
+          <valor>.66</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CAJA: ">CPBE1 ACEVALLOST 22993</campoAdicional>
+    <campoAdicional nombre="FORMAS DE PAGO: ">CC 132.54</campoAdicional>
+    <campoAdicional nombre="PACIENTE: ">NHCL:67237501 ADM:10 PRF:107290440115</campoAdicional>
+    <campoAdicional nombre="NOMBRE: ">ORTEGA PAREDES RUDHT ELENA</campoAdicional>
+    <campoAdicional nombre="PLAN: ">PLN:0 PLAN NORMAL</campoAdicional>
+    <campoAdicional nombre="OBSERVACION: ">.</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente ">NAC-ADROGEC24-00000574-M</campoAdicional>
+    <campoAdicional nombre="emailCliente">hidroelectric2010@hotmail.com</campoAdicional>
+    <campoAdicional nombre="CREDITO_SEGURO">.</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">NAC-ADROGEC24-00000574-M</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature225358">
+<ds:SignedInfo Id="Signature-SignedInfo833423">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID492889" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature225358-SignedProperties36855">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DPvM24FJf/qc2qdg741m5koYiKA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1875642">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XTMCwU1z1jmbveYW1GZKQU2wYcE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-967441" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>OD8h2tDaW8U/UIq0J3X27vIE8+8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue444132">
+LyZ3R0uEroaKdbFyh4fVOtOMyyImbif6zRKyh3yAZVC866/XgwGEwj2EgqsKhuzt2wNFPWiv0K6o
+nkUVgokdHd/3zYe9oxLb3BFKZY0+mKaKsKN0uj62uHjFeTEeI9jVq4pke0ST5CjxXDKBmwj1rnG0
+fDaSR0etB4s6jpTn/bf+bzZ+g5nozoIyVFR8rrV5/7MFF/NNXjHyR/yDkdJRxIx4osSxZCXhk3OZ
+W+tAHg/A6AQcmkmkjrj8EaA7vSscR4Rmdq4pqol1gXjOUT+FCjeRMrFaWnOs4tI9fICY7zO64D4Y
+zE0EqErwBkIMd6HDkLNoy3Hg3v3wqdRmK0WMAA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1875642">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ6DCCB9CgAwIBAgIITkWrornL1vswDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDgyODE4MDkwMFoXDTI2MDgyNzE4MDkwMFowgeAxCzAJBgNVBAYTAkVDMSYwJAYDVQQKDB1I
+T1NQSVRBTC1NRVRST1BPTElUQU5PIFMuQS5TLjEaMBgGA1UEDAwRSkVGRSBDT05UQUJJTElEQUQx
+GDAWBgNVBAQMD0dPUkRJTExPIENVRU5DQTEUMBIGA1UEKgwLVEFOSUEgUEFPTEExGTAXBgNVBAUT
+EElEQ0VDLTE3MjIwMDA1MDAxJDAiBgNVBAMMG1RBTklBIFBBT0xBIEdPUkRJTExPIENVRU5DQTEc
+MBoGA1UEYQwTVkFURUMtMTc5MzE3ODEzODAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJbVzkjdu/3rWtrPXXZ8LU49NntTlm2OPgiw8KfuWDSqE520mwc2AHQiCWs8Xby8PuXc9Ohg
+3NmRemt1eE66zKEDK/eB7OIED57tqtx3Sf6oVklLRnZ+20xzh3dN6gsBebkJRTczU9SpVHSddxto
+svmZhpvpvH4CoUZn0B8sxuJsqxOrF/szz/3whwe559vbmMsfbfkTmAAFrdcL9hGQDrrRC/fHEoke
+K9C1isxHSFED+xMwupAtbWQvo1kP4euNfHBV7ieSkliiHJnp7K+uUSOGTTkWV7Nhilx/7HLdLPdL
+knKPurNOuBEeWMhZqCmMb0w5u7yeweyLRtD60d/nRjUCAwEAAaOCBMowggTGMBsGCysGAQQBgvE2
+ZgMBBAwMCjE3MjIwMDA1MDAwHgYLKwYBBAGC8TZmAwsEDwwNMTc5MzE3ODEzODAwMTCB1wYIKwYB
+BQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9k
+b3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0
+cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBSckyDNfEpa
+Rzh5CcXdBY3fHotTrDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0
+knP9MIGxBgNVHSAEgakwgaYwgaMGDCsGAQQBgvE2ZgICATCBkjA3BggrBgEFBQcCARYraHR0cHM6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBXBggrBgEFBQcCAjBLDElDRVJU
+SUZJQ0FETyBERSBNSUVNQlJPIERFIEVNUFJFU0EgTyBFTiBSRUxBQ0lPTiBERSBERVBFTkRFTkNJ
+QSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQD
+AgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAegGA1UdEQSCAd8wggHbgRd0Z29y
+ZGlsbG9AaG1ldHJvLm1lZC5lY6AbBgsrBgEEAYLxNmYDAaAMDAoxNzIyMDAwNTAwoBwGCysGAQQB
+gvE2ZgMCoA0MC1RBTklBIFBBT0xBoBkGCysGAQQBgvE2ZgMDoAoMCEdPUkRJTExPoBcGCysGAQQB
+gvE2ZgMEoAgMBkNVRU5DQaAiBgsrBgEEAYLxNmYDBaATDBFKRUZFIENPTlRBQklMSURBRKAzBgsr
+BgEEAYLxNmYDB6AkDCJNQVJJQU5BIERFIEpFU1MgU04gWSBOSUNPTFMgQVJURVRBoB8GCysGAQQB
+gvE2ZgMIoBAMDjAwNTkzOTgzMjUwOTQ5oBYGCysGAQQBgvE2ZgMJoAcMBVFVSVRPoC4GCysGAQQB
+gvE2ZgMKoB8MHUhPU1BJVEFMLU1FVFJPUE9MSVRBTk8gUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8M
+DTE3OTMxNzgxMzgwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgQAYLKwYBBAGC8TZmAzKgMQwvTUlF
+TUJSTyBERSBFTVBSRVNBIE8gRU4gUkVMQUNJT04gREUgREVQRU5ERU5DSUGgGAYLKwYBBAGC8TZm
+AzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAe+31QDVBSrEZ8xK2stWATclYDGW4u0rm
+hQ/FeUo64KO12sxv2DJBiIQMN9FtdWq2C2bbgfMlGS2oFFpWa/+GbTWGHr8uBXXbtq21urF5hNjU
+ntVg0n47UkCrDwk5cmJp1brA1W267aeo6jrDHA2Doi4W+U+xkyDvzYnaSf2zkDzWHQ6CjK8Cln9k
+ORD1vooBykeO5pWaKc3LC5i8LP9FRNpUP8EzAoZNeihwsO/OK72XWAMYTCl5f+1qk4vZQbjGrU9L
+vCQU1K5V6xygN/DhK0+IGP/V3qoGzXjx9NgxNT0eC957PVaSkvqIGnCFve8Icvae4dLvT56N7gMl
+efUG5nEGh/PEu51a3zxGgE6qmSd+wBtXevUAyugDqCdrVb/0MQh9pXwZ/wOLt2ytNRNOdjJjbWAz
+QhUWumZMjxJ9e6ahurFN70g53dzFvJrUat4+Cci3lT7Qu3Ibum/T5hiKQXQhshPMArNPyfiNeUyJ
+bp673a9apA9Ux6pgwmGTM+eOF6tySdEYNuaRD5ot0lShrL3Bm04Dz5Yguvy4TBEQMODw06jdPSI2
+QakVKsoFNAUhZDLT6ncF9noeM0gEuTkWv6WNRBAJ4XmD8V3IYmWnktV1hiSkZ7/SpbLj+lhcRuFJ
+e950a3M19NKYFbaeNKvRGoOvrfuGUnnJkwB1dKKK32I=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ltXOSN27/eta2s9ddnwtTj02e1OWbY4+CLDwp+5YNKoTnbSbBzYAdCIJazxdvLw+5dz06GDc2ZF6
+a3V4TrrMoQMr94Hs4gQPnu2q3HdJ/qhWSUtGdn7bTHOHd03qCwF5uQlFNzNT1KlUdJ13G2iy+ZmG
+m+m8fgKhRmfQHyzG4myrE6sX+zPP/fCHB7nn29uYyx9t+ROYAAWt1wv2EZAOutEL98cSiR4r0LWK
+zEdIUQP7EzC6kC1tZC+jWQ/h6418cFXuJ5KSWKIcmensr65RI4ZNORZXs2GKXH/sct0s90uSco+6
+s064ER5YyFmoKYxvTDm7vJ7B7ItG0PrR3+dGNQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature225358-Object59235"><etsi:QualifyingProperties Target="#Signature225358"><etsi:SignedProperties Id="Signature225358-SignedProperties36855"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-01T00:44:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>jSIkrd5uQrfQhaD1gRbV8PKs144=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5640102823741609723</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-967441"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

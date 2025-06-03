@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1405202501170668949200120040030000076340000763416</numeroAutorizacion>
+<fechaAutorizacion>2025-05-14T18:54:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CABRERA ORDONEZ JUAN BAUTISTA</razonSocial>
+<nombreComercial>COMERCIAL ISRAEL</nombreComercial>
+<ruc>1706689492001</ruc>
+<claveAcceso>1405202501170668949200120040030000076340000763416</claveAcceso>
+<codDoc>01</codDoc>
+<estab>004</estab>
+<ptoEmi>003</ptoEmi>
+<secuencial>000007634</secuencial>
+<dirMatriz>JOSE MARIA GUERRERO OE5E N66-74 JORGE MILER              TELEFONO 022598077 / 0999389091</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>14/05/2025</fechaEmision>
+<dirEstablecimiento>GARCIA MORENON1-66 Y SIMON BOLIVAR             TELEFONO  2588073 / 0999389091</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>RUTH ORTEGA</razonSocialComprador>
+<identificacionComprador>1711063675001</identificacionComprador>
+<direccionComprador>SAN CARLOS</direccionComprador>
+<totalSinImpuestos>5.83</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>5.83</baseImponible>
+<valor>0.87</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>6.7</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>6.70</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>7861146800984</codigoPrincipal>
+<descripcion>FUNDA DINA 5 NEGRA P-7</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   1.13043</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.26</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>2.26</baseImponible>
+<valor>0.34</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861146801028</codigoPrincipal>
+<descripcion>FUNDA DINA 6 NEGRA JUMBO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   2.00000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>2</baseImponible>
+<valor>0.3</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861191228627</codigoPrincipal>
+<descripcion>FUNDA P-5 LLAN NEG BX4.8</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   0.78261</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.57</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.57</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">SAN CARLOS</campoAdicional>
+<campoAdicional nombre="Telefono">3410653</campoAdicional>
+<campoAdicional nombre="EmaiL">hidroelectric2010 hotmail.com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0021353A-0504-F</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature890732">
+<ds:SignedInfo Id="Signature-SignedInfo417887">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID579887" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature890732-SignedProperties777630">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nz0ShgK3ASAahLe8wIfl/CtA/oQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11024703">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>96j9yu9N/WJPUq2/FSFsykWhf4Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-978347" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SbhQ50jTRJw/dtJdoyswM8TjAnU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue465598">
+tLteoytNXXQ+6vQmluXlIFSZ1/J17P/JBhKmtHDmyVl5oAvXMl4x/SJIF/+rxWPo1iy4o8ue4rjb
+xn4mAszowQJwuzxOnLY+qaHs4D+SY5IlXMA/pFhsklgV8e4IvPLEuG/HteM7KsCFHsWhXDLGBeD5
+JRbKKoQaS4byKs4rYHhurADdiQDaE2RVGRi87E4/DNxuFVhsKbE9KwkDk7Tt5VgWa+kPeWzr8LFQ
+gr+iHyZRliKpawnLB2gTE+zh5wZWTqNIdwdSX7FjdQ+j6voN0ma2IcnhvjWAUd7OOB1ixDfrCswr
+K3vWBjyC5bHKfJQDxh5BR17xCFxqgqN7BqSirQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11024703">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJsTCCB5mgAwIBAgIEZeT5MjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MTEwNzE0Mzk1OVoXDTI2MTEwNzE1MDk1
+OVowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDc4NTA4NDAkBgNVBAMTHUpVQU4gQkFVVElTVEEg
+Q0FCUkVSQSBPUkRPTkVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzyYBx9baXzWt
+MQpX5ujHPbBpo5gthwi3xxsHlPLfPOBcT9nBoQZNPLl2c+FsHx2x3sdymbfuxEse711JXq3m9oe1
+VQ9o59fU7MKhJXzXLhNiFuY+zl6IMf2ybvviPIsyw7Dq86fHetkTdRhHiAER6FeNBOzDFZRqcnNE
++sqF2Yjty9o/1z3NZltLBn1aQHonqGQw27qDMsWoKIRKOX8n1+d/I+4HyV0qEpcLw+dDMtkgWjVT
+zVeLTXPlJ3TPdnoQm4tLvQGaReCoCqPfGOsYttwJZtiFx8vf+L7Se03T60fjIINbYLombuGZLvbD
+x0D30djPdg/YAzn2TTTRCdN2swIDAQABo4IE2TCCBNUwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0w
+WwYLKwYBBAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTcwNjY4OTQ5MjAdBgorBgEEAYKoOwMCBA8T
+DUpVQU4gQkFVVElTVEEwFwYKKwYBBAGCqDsDAwQJEwdDQUJSRVJBMBcGCisGAQQBgqg7AwQECRMH
+T1JET05FWjAtBgorBgEEAYKoOwMHBB8THWdhcmNpYSBtb3Jlbm8gbjEgNjYgeSBib2xpdmFyMBkG
+CisGAQQBgqg7AwgECxMJMDIyNTg4MDczMBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYKKwYBBAGC
+qDsDDAQJEwdFQ1VBRE9SMB0GCisGAQQBgqg7AwsEDxMNMTcwNjY4OTQ5MjAwMTAgBgorBgEEAYKo
+OwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wKQYDVR0RBCIwIIEeanVhbmlzcmFlbGJhdXRpc3RhQGhv
+dG1haWwuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBz
+dWJwMS5iY2UuZWMvY249Q1JMMjEwOSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVD
+VUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZP
+Uk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2Vy
+dGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2Vj
+aV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFO
+Q08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNP
+IENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDIxMDkwKwYDVR0QBCQwIoAPMjAyNDEx
+MDcxNDM5NTlagQ8yMDI2MTEwNzE1MDk1OVowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnB
+lKswHQYDVR0OBBYEFFs44pVQQFSNzAMRQPz83f+S07x7MAkGA1UdEwQCMAAwGgYJKoZIhvZ9B0EA
+BA0wCxsFVjEwLjADAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQCppg5q8ZlVjDW1tLuHrUSMV8oMrXyt
+yxyRXtBDkP+oodbxX5MlAUtnB1gCuJrMR0/l4Ed/ks48Le8oQxBU/yOUvGn6/wKRx6Hdx4hX08F4
+PTGXisH9cM/uCGbd34u6T1qmpDrgdYCF71Mo11JWKPF33diVRP4NBBuk3FkK/AE6FpDYaSaKtIhH
+BbqV9s4yV3r99Ownatxlf7a75pDZIGJzXm6aNjWF3AUL0mii/8nQZPoUJkw3V8i/dtFIbCpXTNfm
+vqjqd31uQHHzTMQaJcmXo4jp/e1bV4dTlmXHtstkAVtOFrtWxTpyP9x5NRAed/11vvg/l60LyUNy
+rD6qCeXBpUSbsg6Njz0ZcmmEBShIbWTJgqYVhuvivsvHsw5TgB08VHU8MFA6FqTU2Va8Jy79gTzI
+kBJBIxard4sYnu8WCziypSv/X3xfRclJI7ulJgQB1kuophckFi7RdLrFklot9ey2m1RDRsgvw4lj
+BBAgUGzz/ZTI8TRchOHy5WXYbYuRBQxSCQdJs8+thjelefO+TMJ7WjZ8M8QzEJ79IPjmN144z7WR
+oPgQ2eHpgwBS8orsWgl3KfxxILIwL3byC7MDEnWzgsMLEwJl07a80gy5VIIX8ehENiBwzZ2glYZ8
+A//Dk05X7npRHBHW06UbtdsygKFUdW60vcb4g2QBKFCuMA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zyYBx9baXzWtMQpX5ujHPbBpo5gthwi3xxsHlPLfPOBcT9nBoQZNPLl2c+FsHx2x3sdymbfuxEse
+711JXq3m9oe1VQ9o59fU7MKhJXzXLhNiFuY+zl6IMf2ybvviPIsyw7Dq86fHetkTdRhHiAER6FeN
+BOzDFZRqcnNE+sqF2Yjty9o/1z3NZltLBn1aQHonqGQw27qDMsWoKIRKOX8n1+d/I+4HyV0qEpcL
+w+dDMtkgWjVTzVeLTXPlJ3TPdnoQm4tLvQGaReCoCqPfGOsYttwJZtiFx8vf+L7Se03T60fjIINb
+YLombuGZLvbDx0D30djPdg/YAzn2TTTRCdN2sw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature890732-Object612565"><etsi:QualifyingProperties Target="#Signature890732"><etsi:SignedProperties Id="Signature890732-SignedProperties777630"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-14T18:54:31-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9r4GsqM7s//8SLaltTVN+YgRZq4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709504818</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-978347"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

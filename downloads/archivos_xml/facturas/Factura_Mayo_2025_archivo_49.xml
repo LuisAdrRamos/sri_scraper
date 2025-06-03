@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0705202501179020808700120250010000336620709255416</numeroAutorizacion>
+<fechaAutorizacion>2025-05-07T09:31:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>F.V. - Area Andina S.A.</razonSocial>
+    <nombreComercial>F.V. - Area Andina S.A.</nombreComercial>
+    <ruc>1790208087001</ruc>
+    <claveAcceso>0705202501179020808700120250010000336620709255416</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>025</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000033662</secuencial>
+    <dirMatriz>Sangolqui, Vía Amaguaña Km.25, Provincia Pichincha ECUADOR</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/05/2025</fechaEmision>
+    <dirEstablecimiento>Av. Mariscal Antonio José de Sucre N70-341 y Rio Peripa -- Teléfono (02) 3922 092</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ORTEGA PAREDES RUDTH ELENA</razonSocialComprador>
+    <identificacionComprador>1711063675001</identificacionComprador>
+    <direccionComprador>AV. MARISCAL SUCRE N62-268 Y JUAN DE FIGUEROA</direccionComprador>
+    <totalSinImpuestos>190.84</totalSinImpuestos>
+    <totalDescuento>75.60</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>190.84</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>28.63</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>219.47</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>219.47</total>
+        <plazo>7.00</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>E224-BL</codigoPrincipal>
+      <codigoAuxiliar>E224-BL</codigoAuxiliar>
+      <descripcion>LAVATORIO ALPES BLANCO CON PEDESTAL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>24.690000</precioUnitario>
+      <descuento>5.33</descuento>
+      <precioTotalSinImpuesto>19.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>19.35</baseImponible>
+          <valor>2.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>E275.02.20.0.1 DH</codigoPrincipal>
+      <codigoAuxiliar>E275.02.20.0.1 DH</codigoAuxiliar>
+      <descripcion>MANGUERA FLEXIBLE INODORO CONEX/ANGULAR 16"</descripcion>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>5.250000</precioUnitario>
+      <descuento>7.01</descuento>
+      <precioTotalSinImpuesto>19.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>19.23</baseImponible>
+          <valor>2.88</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>E423.01/B1 CR</codigoPrincipal>
+      <codigoAuxiliar>E423.01/B1 CR</codigoAuxiliar>
+      <descripcion>JGO.MONOCOM. MESA P/COC.-ARIZONA-CROMO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>68.720000</precioUnitario>
+      <descuento>23.39</descuento>
+      <precioTotalSinImpuesto>45.32</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>45.32</baseImponible>
+          <valor>6.79</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>E240.02U RA DH BL</codigoPrincipal>
+      <codigoAuxiliar>E240.02U RA DH BL</codigoAuxiliar>
+      <descripcion>SIFÓN PLÁSTICO EXTENSIBLE UNIVERSAL</descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>3.810000</precioUnitario>
+      <descuento>10.17</descuento>
+      <precioTotalSinImpuesto>27.92</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>27.92</baseImponible>
+          <valor>4.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>E239-BL</codigoPrincipal>
+      <codigoAuxiliar>E239-BL</codigoAuxiliar>
+      <descripcion>LAVATORIO ELEA OVAL 43 CM. BLANCO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>30.580000</precioUnitario>
+      <descuento>8.81</descuento>
+      <precioTotalSinImpuesto>21.76</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>21.76</baseImponible>
+          <valor>3.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>E190/27L CR</codigoPrincipal>
+      <codigoAuxiliar>E190/27L CR</codigoAuxiliar>
+      <descripcion>CENTERSET 4"-S/DESG.SIF. FIORI LEVER-CROMO</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>39.050000</precioUnitario>
+      <descuento>20.86</descuento>
+      <precioTotalSinImpuesto>57.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>57.23</baseImponible>
+          <valor>8.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="RESOLUCION">GRAN CONTRIBUYENTE - NAC-GCFOIOC21-00001012-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature454898" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo5727">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID854619" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature454898-SignedProperties643430">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mCF2aqwrLgZ5h6coXfOGZvZM8EA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1430666">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>EpGSejHM896ONIRx9JiGUySUoxU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-478886" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SpIg6XzoqgqjucfLYr4D3CNFndo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue80393">
+nZJYnl7nQfJRuViGoOp7IjRv5kKiLDnq3bMY2GdBInVWMCIy/+0IyOGsCodw+S3chnzJpbi3z5kD
+/XBpAaBjK5jquKcIlXw7+5Rk0wFBBix4hBWnLBSvFez2KsnkwBGAq9VI9hUTUP8mXrxVyrxt+FIB
+l8sSENp99yFkHV1QeB3T7Kbl+8WQj2E4cltyBMrXayBIyK9XQ+ZnJPXBDKtD2/lMBKgAZP1gJ9AE
+tdUI/pFp0B/J0Io3IH25syMlgrrFwwmT8IBdOBJ6PO0LNpf/AVgm4WTRo40H5ouzdKA8lpdvsNBM
+jrLkPxHganENUiZzrwbIIhsnfJBEltmdI1ZSMQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1430666">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMLjCCChagAwIBAgIEYcJrcTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMjYxOTAxMDdaFw0yNzExMjYxOTAxMDdaMIGpMScw
+JQYDVQQDDB5HTEFEWVMgUEFUUklDSUEgTkFTSU1CQSBDSEFMQ08xIDAeBgNVBAUTFzE3MDg0NzU1
+NTEtMjYxMTI0MTQxMTAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMb/ktziFhE8W9GMT0pT7i+9z51T/AjuLIkBjUgR
+y9g7yJFH1xgQAW7eMT7D/T7ood74BrVvl394cBZ5QwQbwawRXtOTh/hVPUYacXUosiSYJQTYgxJ/
+BaU/FhvSLWl/mMpoLAZBg4iRUt0rWa/gRm+iLcMTuxc3jrzILpfrKSm1Gg4jc3y9qWvmkwmWb+K3
+pahrvUKKaheeOvJJhYRE3CBDfIR4RrQsQTD0mEdLxg29p3AxYZF9NdwGJPKQ0fb3aIw7xGN97fnq
+Cd+RSZp87BtuL++xtU6BZz+j+eILoy3F+eYaNX7rAr95hV73FRXlOE4eI117YkLQ9HvLIG/khG0C
+AwEAAaOCB2owggdmMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCEGA1UdEQQaMBiBFmduYWNpbWJhQGZ2ZWN1YWRvci5jb20wggES
+BgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGg
+BgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjAdBgNVHSUEFjAU
+BggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3Nw
+Z3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZww
+gZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZv
+Y2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZp
+c3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRB
+LE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERB
+VEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFHtzM6oeN7SPgpl/VbvYexkLrCuJMCsGA1UdEAQkMCKA
+DzIwMjQxMTI2MTkwMTA3WoEPMjAyNzExMjYxOTAxMDdaMAsGA1UdDwQEAwIF4DAhBgorBgEEAYKm
+cgMFBBMMEUNPTlRBRE9SQSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcwODQ3NTU1MTAZBgor
+BgEEAYKmcgMJBAsMCVNBTkdPTFFVSTARBgorBgEEAYKmcgMiBAMMAS4wHQYKKwYBBAGCpnIDBwQP
+DA1QUklOQ0lQQUwgUyBOMB8GCisGAQQBgqZyAwIEEQwPR0xBRFlTIFBBVFJJQ0lBMB8GCisGAQQB
+gqZyAyAEEQwPMDAyMDAxMDAwOTA5MDQxMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZy
+AwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB05BU0lNQkEwEQYKKwYBBAGCpnIDHgQDDAEu
+MCMGCisGAQQBgqZyAwoEFQwTRiBWIEFSRUEgQU5ESU5BIFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3
+OTAyMDgwODcwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGQ0hBTENPMBoG
+CisGAQQBgqZyAwgEDAwKMDk5MDM1MjA4NzANBgkqhkiG9w0BAQsFAAOCAgEAXK0/cwCTtABo+BGS
+A279Z4IvCRW9s9F7tipaS+HX9YoEafH3iDlZ42FX5oBCRu8j3a1ntfSx2bPgjTeLlc7a9vLnaDZi
+ABASLBgG57icnGxLXFEQ+Oq+p3FtUIYbAQIqi/c7c41bpwCinZw7blpEPD+p01WXLJOswDcMCDII
+ZSJG9nWTwYJczdLhsTk7uem02EpLuPuUav+awlCvxcWljgNtAjO4+Uci0zUaU7rx2JSeiBM5Gddb
+eGs7on8bPPEArfrDJVKJoT84LJV1rOrKXIXMDm1hi6SdFp5A9cgrNx8hoSV6Mgj9W0pFyuJb/Kiw
+kmBafUIpX3BSS4emXIV9TcKwIUA3/bpANhS+iWUhdEEUNmToAYaATUucNGtz8tRKPcAUQpwjp58j
+tNDwr2xqgEG4UtYygd7kKIFsGCIpVY+zrCvV21R/APRLBUzno5bYx750ugCFPTMQktEfrJiQac2h
+EKFw9tfJGyP7lArmVdaa4U1+n07DHq5lnBH8XW2PnWLiO1+Ji+fKeJR/CL5rstpfEdy3DkTHKNp0
+fjzDhxy9kn2pPn8np9dZdRegQCiafYCFrEgjMiMNeR5zJLrf754XK0sNptQvoL6gyjnlbeS/sjYs
+sXS+fIvUkNI+CAA7td+GGCRSzNht/Wx+6iGGlw03vvnSP7qQ5yiXbGq6n8U=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xv+S3OIWETxb0YxPSlPuL73PnVP8CO4siQGNSBHL2DvIkUfXGBABbt4xPsP9Puih3vgGtW+Xf3hw
+FnlDBBvBrBFe05OH+FU9RhpxdSiyJJglBNiDEn8FpT8WG9ItaX+YymgsBkGDiJFS3StZr+BGb6It
+wxO7FzeOvMgul+spKbUaDiNzfL2pa+aTCZZv4relqGu9QopqF5468kmFhETcIEN8hHhGtCxBMPSY
+R0vGDb2ncDFhkX013AYk8pDR9vdojDvEY33t+eoJ35FJmnzsG24v77G1ToFnP6P54gujLcX55ho1
+fusCv3mFXvcVFeU4Th4jXXtiQtD0e8sgb+SEbQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature454898-Object374269"><etsi:QualifyingProperties Target="#Signature454898"><etsi:SignedProperties Id="Signature454898-SignedProperties643430"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-07T09:25:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>EXlsE7it6sPOJ5IMHmwKLPCGbvY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1640131441</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-478886"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

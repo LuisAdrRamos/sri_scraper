@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1405202501179201292900120010030000234140002341414</numeroAutorizacion>
+<fechaAutorizacion>2025-05-14T09:36:51-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>REPRESENTACIONES VALERO</razonSocial>
+		<nombreComercial>REPRESENTACIONES VALERO CIA.LTDA.</nombreComercial>
+		<ruc>1792012929001</ruc>
+		<claveAcceso>1405202501179201292900120010030000234140002341414</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>003</ptoEmi>
+		<secuencial>000023414</secuencial>
+		<dirMatriz>AV.GALO PLAZA LASSO KM.5 1/2 S/N Y AVELLANEDA BODEGAS PARKENOR 78-79 TELF.2481731</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>14/05/2025</fechaEmision>
+		<dirEstablecimiento>AV.GALO PLAZA LASSO S/N Y AVELLANEDA BODEGAS PARKENOR N23</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<guiaRemision>001-003-000023213</guiaRemision>
+		<razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+		<identificacionComprador>1711063675001</identificacionComprador>
+		<direccionComprador>Av Occidental N62-268 y Figueroa</direccionComprador>
+		<totalSinImpuestos>51.36</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>51.36</baseImponible>
+				<valor>7.70</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>59.06</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>55.85</total>
+				<plazo>30</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+		<valorRetIva>2.31</valorRetIva>
+		<valorRetRenta>0.90</valorRetRenta>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>265861761</codigoPrincipal>
+			<descripcion>LISTELO SEÑORIAL CAFE</descripcion>
+			<cantidad>48.000000</cantidad>
+			<precioUnitario>1.070000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>51.36</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>51.36</baseImponible>
+					<valor>7.70</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="ordenCompra">OCCIDENTAL</campoAdicional>
+		<campoAdicional nombre="Direccion">Av Occidental N62-268 y Figueroa</campoAdicional>
+		<campoAdicional nombre="Telefono">3410653</campoAdicional>
+		<campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional>
+		<campoAdicional nombre="Observacion">OCCIDENTAL GR23213</campoAdicional>
+		<campoAdicional nombre="FormaPago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional>
+		<campoAdicional nombre="Contacto">Sra.Rudht Ortega</campoAdicional>
+		<campoAdicional nombre="fechaVenCTIni">2025-06-14</campoAdicional>
+		<campoAdicional nombre="fechaVenCTFin">2025-06-14</campoAdicional>
+		<campoAdicional nombre="NombreComercial">ORTEGA PAREDES RUDHT ELENA</campoAdicional>
+		<campoAdicional nombre="TelefonoEmpresa">2481733</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature20222">
+<ds:SignedInfo Id="Signature-SignedInfo793162">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID124374" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature20222-SignedProperties573738">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FvUevP2FfC/A5cfIgyXRXo4Uris=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate181010">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CCq/MuXkAbvRFapNTE111u278VE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-854394" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qf1q97C5SGUr77/ePYI6E0ggJuc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue814715">
+Hy9zRd6ycubCUR0UtdusV/a6ur6qcS4ELZJp6clz9PfJxsiy6sN48V7wRiUMveEWAuVmsDL/UzB1
+Ha3gCE9wM/wXt2voVFnp0MajPJaHAzbtF9UBO8lF5bPWEDsusb5ViUcYwt2AXw3YFOafw9TyjtSb
+DFIjkn1TgGeDTD0eHeRDz3FedoJxeDEj6fK3M8+wgXe2Ne8NeBzMazIaxWuNhrgYE088Y5BMLe+5
+y+IRF56eTikAxauu9Mt2WSjZndNYWiQshu3juqk3hisBPGoMITsB0R3ORMWtaxJZ7ud+uJ4fcZNf
+AVk89ajfb4hmagBFrC3vP2tUZyVuIJGsC7Tjhg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate181010">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJkTCCB3mgAwIBAgIIP4h5S9J6n6EwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTEgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTAxODE2MTUwMFoXDTI3MTAxODE2MTUwMFowge0xCzAJBgNVBAYTAkVDMSswKQYDVQQKDCJS
+RVBSRVNFTlRBQ0lPTkVTIFZBTEVSTyBDSUEuIExUREEuMRwwGgYDVQQMDBNSRVBSRVNFTlRBTlRF
+IExFR0FMMRcwFQYDVQQEDA5TQUxBWkFSIEdBUlpPTjEYMBYGA1UEKgwPRkVSTkFORE8gSkFWSUVS
+MRkwFwYDVQQFExBJRENFQy0xNzE5ODQyNzI0MScwJQYDVQQDDB5GRVJOQU5ETyBKQVZJRVIgU0FM
+QVpBUiBHQVJaT04xHDAaBgNVBGEME1ZBVEVDLTE3OTIwMTI5MjkwMDEwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCKc3HvVqQumi1Q3aHbEuetKPEv/XdIvZ5m2IoikOQ91Wznx/klXC1w
+RjVYjPSICldu6c0Yds3cSEDy92tSIniSdCK5IFy91RdA94rXMcJWh6r5xZhj1w/cEhfN+ezY30KU
+qkI6QtJj7pX2UmlV8fJjXOmpQHecJ7QnzH8rNRGHqe1+DoukoPlIcIvxIHNY9nYZxwXv+wUV3hS/
+doGYPy6kDwESbmsZPaMZfrGFLJ4K1CUEuhtb5VlkRr+Cj1XXJdv8dnHyEZjlD1Tw/Xb7VxD8bJoc
+zCI8xhLXbfICaLgRvS2kPx01uHEbc2cXvJFDcofd6wjDu/Gf33AcrtOI5UW7AgMBAAGjggRmMIIE
+YjCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29t
+L3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYB
+BQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEF
+BQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQW
+BBTjBOUF6LzQPaqeHAgsqVFtP4LjtTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFC1x77Bjf/X9
+4IMiRH9EEDCBT03lMIGRBgNVHSAEgYkwgYYwgYMGDCsGAQQBg75BAQEDATBzMC0GCCsGAQUFBwIB
+FiFodHRwczovL2Zpcm1hcy5lY2xpcHNvZnQuY29tL2RwYy8wQgYIKwYBBQUHAgIwNgw0Q2VydGlm
+aWNhZG8gZGUgcmVwcmVzZW50YW50ZSBlbiBhcmNoaXZvIGRlIEVDTElQU09GVDCBjwYDVR0fBIGH
+MIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Exc3Vi
+b3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9j
+cmwvQ0Exc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcD
+AgYIKwYBBQUHAwQwggHhBgNVHREEggHYMIIB1IEdZmVybmFuZG9zYWxhemFyQHJlcHZhbGVyby5j
+b22gGwYLKwYBBAGDvkFmAwGgDAwKMTcxOTg0MjcyNKAgBgsrBgEEAYO+QWYDAqARDA9GRVJOQU5E
+TyBKQVZJRVKgGAYLKwYBBAGDvkFmAwOgCQwHU0FMQVpBUqAXBgsrBgEEAYO+QWYDBKAIDAZHQVJa
+T06gJAYLKwYBBAGDvkFmAwWgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKA4BgsrBgEEAYO+QWYDB6Ap
+DCdQQU5BTUVSSUNBTkEgTk9SVEUgS00gNSDCvSBZIEFWRUxMQU5FREGgHwYLKwYBBAGDvkFmAwig
+EAwOMDA1OTM5OTI3MTE0MjagFgYLKwYBBAGDvkFmAwmgBwwFUVVJVE+gMwYLKwYBBAGDvkFmAwqg
+JAwiUkVQUkVTRU5UQUNJT05FUyBWQUxFUk8gQ0lBLiBMVERBLqAeBgsrBgEEAYO+QWYDC6APDA0x
+NzkyMDEyOTI5MDAxoBMGCysGAQQBg75BZgMMoAQMAkVDoCQGCysGAQQBg75BZgMyoBUME1JFUFJF
+U0VOVEFOVEUgTEVHQUygGAYLKwYBBAGDvkFmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOC
+AgEAwbuLEfay0hZ0PuRZ66hvU4pf2z+WDSLSZd6atAvt4B3We3vZWYuZ+H1u51xQ7Ds4ER4f+M0f
+XGRIkRSu5DxZmMIEVsNnJRz63lgM08csGlPyR5pGd7OdODjToxD8bCh9+zE1b+tzrDjDnK8v2Zsk
+9awNtbDXaMFe6WwlulceCVKNmBQyfMIlF0q4sQzEbLZqyChur5JkcLpk5qnSr3uJpESeVzxjvh6K
+csC13nmGkRRel0yCagAvpwZxOAia1TvsiuEwuKCGo9Ti/47nacSIh7c4WffEvPbgj5h/d4L470e5
+Ul23KZb6hD4Ig1F294IIocFz00hRPFHk4UBNZZ0QTxyPeDzzXo2VXnHTPyO1hXc8SmGaE5aSA9Ki
+reeuUuTHQwyRiEiqyPIXTCM1lg1nlrHBlbmLhdvXRTyaNZN7zkanAWJ9j7McoiOjBM3ttkBBw7aQ
+E/tOM+wCZoNGM2bcOWHgR881lPMO+ZRfKyS2JC2zWDFiSZzE2OknxXgDgLI4De8sPMmiGUOL7sEO
+cj/x8+672F2RqvMkrOp4U1kT8TypjYsfOP/olfbtSo5T3KYJbHtY1oertavs3USMKgLcKlzWRhSP
+3SkuWAOLI39qML+InJqTEcoQQOlxVlfEc4DzV2hHGiGw/9ZfmrggAnVo7Fp40rJF9rdRhawlgAQ9
+IJU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+inNx71akLpotUN2h2xLnrSjxL/13SL2eZtiKIpDkPdVs58f5JVwtcEY1WIz0iApXbunNGHbN3EhA
+8vdrUiJ4knQiuSBcvdUXQPeK1zHCVoeq+cWYY9cP3BIXzfns2N9ClKpCOkLSY+6V9lJpVfHyY1zp
+qUB3nCe0J8x/KzURh6ntfg6LpKD5SHCL8SBzWPZ2GccF7/sFFd4Uv3aBmD8upA8BEm5rGT2jGX6x
+hSyeCtQlBLobW+VZZEa/go9V1yXb/HZx8hGY5Q9U8P12+1cQ/GyaHMwiPMYS123yAmi4Eb0tpD8d
+NbhxG3NnF7yRQ3KH3esIw7vxn99wHK7TiOVFuw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature20222-Object906038"><etsi:QualifyingProperties Target="#Signature20222"><etsi:SignedProperties Id="Signature20222-SignedProperties573738"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-14T09:36:47-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>YDqEUkfmzxdTaojeEzt/nT9yz/I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA1 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4578042387782868897</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-854394"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

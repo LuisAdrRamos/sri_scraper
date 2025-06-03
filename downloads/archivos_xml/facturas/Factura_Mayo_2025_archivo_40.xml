@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0605202501179139983800120011010003160983055274319</numeroAutorizacion>
+<fechaAutorizacion>2025-05-06T08:29:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>DIMPOFER CIA LTDA</razonSocial>
+<nombreComercial>DIMPOFER CIA LTDA</nombreComercial>
+<ruc>1791399838001</ruc>
+<claveAcceso>0605202501179139983800120011010003160983055274319</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>101</ptoEmi>
+<secuencial>000316098</secuencial>
+<dirMatriz>PANAMERICANA SUR KM 14.5 TURUBAMBA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>06/05/2025</fechaEmision>
+<dirEstablecimiento>PANAMERICANA SUR KM 14.5 TURUBAMBA</dirEstablecimiento>
+<contribuyenteEspecial>153</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+<identificacionComprador>1711063675001</identificacionComprador>
+<direccionComprador>AV OCCIDENTAL N62 268 Y JUAN DE FIGUEROA</direccionComprador>
+<totalSinImpuestos>253.92</totalSinImpuestos>
+<totalDescuento>13.37</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>253.92</baseImponible>
+<valor>38.09</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>292.01</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>292.01</total>
+<plazo>30</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>125712</codigoPrincipal>
+<descripcion>YETKA DESAG.ROSC. PREM.INOX. P/FREG. 1.1/2</descripcion>
+<cantidad>6.0000</cantidad>
+<precioUnitario>1.550446</precioUnitario>
+<descuento>0.47</descuento>
+<precioTotalSinImpuesto>8.83</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>8.83</baseImponible>
+<valor>1.32</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>125220</codigoPrincipal>
+<descripcion>YETKA LLAVE P/LAVAMANOS TEMPORIZADA DE MESA BAJA</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>30.739217</precioUnitario>
+<descuento>1.54</descuento>
+<precioTotalSinImpuesto>29.20</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>29.20</baseImponible>
+<valor>4.38</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>125222</codigoPrincipal>
+<descripcion>YETKA LLAVE P/URINARIO TEMPORIZADA</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>27.695043</precioUnitario>
+<descuento>2.77</descuento>
+<precioTotalSinImpuesto>52.62</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>52.62</baseImponible>
+<valor>7.89</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>125533</codigoPrincipal>
+<descripcion>YETKA REJILLA LINEAL INOX. LISA/EMPOT.2en1   60cm</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>50.728174</precioUnitario>
+<descuento>5.07</descuento>
+<precioTotalSinImpuesto>96.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>96.39</baseImponible>
+<valor>14.46</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>125580</codigoPrincipal>
+<descripcion>YETKA REJILLA CROMADA ACERO 50MM CUADRADA ANTIOLOR (BLIS</descripcion>
+<cantidad>10.0000</cantidad>
+<precioUnitario>7.038696</precioUnitario>
+<descuento>3.52</descuento>
+<precioTotalSinImpuesto>66.87</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>66.87</baseImponible>
+<valor>10.03</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Orden_Reference:">NN</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature914679">
+<ds:SignedInfo Id="Signature-SignedInfo658153">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID433184" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature914679-SignedProperties360625">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+UB5CDNyhPOtlgbZkN3VI1HITmE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1340054">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JIPScsAhXpQr7JzT2rOyxeZI7ME=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-572979" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mmCcrQmEkWcarqYErfiZCJoQZFs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue880930">
+HnXGU8OfG0IphnVsgfSBJuJPGAoNveBI8LBy07Yf41j5uE3VaqTiUKm1MnsbIuHa5UwWMcrmeCAZ
+BO96WvtGcc5LTmV9h4URM4705JTTrH+ogz2tD8axEXkyUnSzi0JardVwShfGyT9DQoveWMLzGf9y
+gaMmvIBrRzU1wmlcbNk7m+XUlpsVP77cpX+VhCT1mR8YHBKApTgTcprZCpE8mnwSHk3rgHIcEz4m
+fB1cT11oZsFw5uOTS2dgfgV4Cpua/jMK9QWcCs0wGgTLXY1NsJ7KtlHunAwBqcOrW0fdlKSPgDmo
+iEQ1YYIFCWcRmRlPHw0YS76DpIOHeMDSxDEQBw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1340054">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJijCCB3KgAwIBAgIIeV7Myc/tPrAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDgxMTE2MjMwMFoXDTI4MDgwOTE2MjMwMFowgc4xCzAJBgNVBAYTAkVDMRwwGgYDVQQKDBNE
+SU1QT0ZFUiBDSUEuIExUREEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxEzARBgNVBAQMCllB
+TkVaIFZBQ0ExFjAUBgNVBCoMDUpPUkdFIE9TV0FMRE8xGTAXBgNVBAUTEElEQ0VDLTE3MDY4NjA0
+OTkxITAfBgNVBAMMGEpPUkdFIE9TV0FMRE8gWUFORVogVkFDQTEcMBoGA1UEYQwTVkFURUMtMTc5
+MTM5OTgzODAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUqj0FyTQMiyDKp7Kyf
+KRnYA3kTM3/INuI3bQ9dMadzRGLlZeisHgwfcXNX6gRGhObleQc143dSbwX0mAFZXXkoMVhu+xgp
+4LPDUsPZ6H6N9Z9aTq7JkX8Ya8nWpS4Vo31rMSeEO4uCPGuAuOojSsKYk0s41SzRRLiVp/+fCtSs
+3JWfgjIktj/b+oh36IUWp7RtiZS7Hny5XQXbCq6ou645MyRmMFJKp1ryuZ/QjZ3alH0s0afNAxuv
+3Fh4Frt1wgOltP2eGyQdWCp1UB0roDjmiE3rbbHcq4xLWpk+VXtztetu2UrfjM5WhTR5Qwkf3e8S
+LaKnTFSFAURBmpQ/XL8CAwEAAaOCBH4wggR6MBsGCysGAQQBgvE2ZgMBBAwMCjE3MDY4NjA0OTkw
+HgYLKwYBBAGC8TZmAwsEDwwNMTc5MTM5OTgzODAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYB
+BQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlm
+aWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBTHERyzDP8bh2Jc7NaYzlpLR5bvKjAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMw
+gYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VO
+VEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3Js
+Mi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB
+/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggG/BgNVHREEggG2MIIBsoEa
+ZGlhbmFjYXJvbDE5ODUxMUBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTcwNjg2MDQ5OaAe
+BgsrBgEEAYLxNmYDAqAPDA1KT1JHRSBPU1dBTERPoBYGCysGAQQBgvE2ZgMDoAcMBVlBTkVaoBUG
+CysGAQQBgvE2ZgMEoAYMBFZBQ0GgIAYLKwYBBAGC8TZmAwWgEQwPR0VSRU5URSBHRU5FUkFMoDIG
+CysGAQQBgvE2ZgMHoCMMIUNISUxMT0dBTExPIC8gUEFOQU1FUklDQU5BIFNVUiBTTqAfBgsrBgEE
+AYLxNmYDCKAQDA4wMDU5Mzk5NjEyMjI3OKAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6AkBgsrBgEE
+AYLxNmYDCqAVDBNESU1QT0ZFUiBDSUEuIExUREEuoB4GCysGAQQBgvE2ZgMLoA8MDTE3OTEzOTk4
+MzgwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5U
+RSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQBHFYnQ
+rCffslc4MbCe0IFOPDwzKkvFHJ9nBHK9IP+EOgA+AYyX0gI0nM5U6/f3fJc517YlAF68zqvdJRx8
+qN+fYUtx2C2UbKZOU+/X29Vg/hZQ1tzHUh1NQ1O5lYFpdrr8K+p5n8gjhiRpwW97vWybBqwNC50H
+LqTh9TFcC0BQZ+bvQqIZmEv2I3t3jaE/65LcfYv/a4JIhDkp0Wz50p9kOIzb7NqEwakfwjm7F5GX
+TdToDNm+TEMRa0OmZwac3LMGSvD4R31eqgaGktM8SaMjWVeLhUgMB74kPY75GVpfsJ3bGWug4Wrs
+Sm+L32ppRijKzIwZoSvzMCyVJVXYVM6yeR2rREgpTcV5Ei+4asGBBCcv3kJmjsZwUcHefWXmaIZC
+bOZLBE1xK4TU4nGdYK4PYgDlwGMRDA5t7MBjANThJUEhlFAZCcPL2OfkLN8N6XRez14gmBoO+lvN
+rySFqpF0fGCff6NIDCwFJIlvGu8XReKhjRKl94kRMlLwp/mbmNv/7tWZF/cjJjH1TBhztH3G4rtr
+wGWhCbrdMWEydt1v6+pEMtAzqAN/6/9GRpbd+ZPbXZBPltopjQxRNe4ygMd07jUbzBc2GSnby0K0
+JWLZhv8TG+WH1yX6ABM247hIEEo94U0g9W+aOKaxONRiTfhpxvXwSkz3fIs/SgHqLlA4cA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xSqPQXJNAyLIMqnsrJ8pGdgDeRMzf8g24jdtD10xp3NEYuVl6KweDB9xc1fqBEaE5uV5BzXjd1Jv
+BfSYAVldeSgxWG77GCngs8NSw9nofo31n1pOrsmRfxhrydalLhWjfWsxJ4Q7i4I8a4C46iNKwpiT
+SzjVLNFEuJWn/58K1KzclZ+CMiS2P9v6iHfohRantG2JlLsefLldBdsKrqi7rjkzJGYwUkqnWvK5
+n9CNndqUfSzRp80DG6/cWHgWu3XCA6W0/Z4bJB1YKnVQHSugOOaITettsdyrjEtamT5Ve3O1627Z
+St+MzlaFNHlDCR/d7xItoqdMVIUBREGalD9cvw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature914679-Object176609"><etsi:QualifyingProperties Target="#Signature914679"><etsi:SignedProperties Id="Signature914679-SignedProperties360625"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-06T08:29:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>4c7Jt3NEq/DssQfXqUIuqfPZ/Ng=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8745652693549006512</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-572979"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

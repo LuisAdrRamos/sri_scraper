@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0605202501179321815800120010040000013819247571018</numeroAutorizacion>
+<fechaAutorizacion>2025-05-06T09:57:49-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>RENNOVACONS SAS</razonSocial>
+<nombreComercial>RENNOVACONS SAS</nombreComercial>
+<ruc>1793218158001</ruc>
+<claveAcceso>0605202501179321815800120010040000013819247571018</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>004</ptoEmi>
+<secuencial>000001381</secuencial>
+<dirMatriz>DISTRITO METROPOLITANO / ANTONIO ROMAN Y IGNACIO ASIN</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>06/05/2025</fechaEmision>
+<dirEstablecimiento>ANTONIO ROMAN OE8-68 E IGNACIO ASIN  conmaco2005@gmail.com   contabilidad@rennova.ec</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+<identificacionComprador>1711063675001</identificacionComprador>
+<direccionComprador>QUITO-Av. OCCIDENTAL N62-268 Y JUAN DE FIGUEROA</direccionComprador>
+<totalSinImpuestos>334.51</totalSinImpuestos>
+<totalDescuento>49.98</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>334.51</baseImponible>
+<valor>50.18</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.0</propina>
+<importeTotal>384.69</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>384.69</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>CERAMIC-401</codigoPrincipal>
+<codigoAuxiliar> </codigoAuxiliar>
+<descripcion>PORCELANATO AGORA NEGRO SATINADO 60X60 RECT METRO</descripcion>
+<cantidad>30.6</cantidad>
+<precioUnitario>12.565217</precioUnitario>
+<descuento>49.98</descuento>
+<precioTotalSinImpuesto>334.51</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>334.51</baseImponible>
+<valor>50.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Sucursal">ORTEGA PAREDES RUDHT ELENA</campoAdicional>
+<campoAdicional nombre="Dirección">QUITO-Av. OCCIDENTAL N62-268 Y JUAN DE FIGUEROA</campoAdicional>
+<campoAdicional nombre="E-MAIL">hidroelectric2010@hotmail.com</campoAdicional>
+<campoAdicional nombre="Teléfono">2297-649</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature748034">
+<ds:SignedInfo Id="Signature-SignedInfo458385">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID108036" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature748034-SignedProperties449059">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6T6/M+1ahOrqE8IScQqjn/Uavt0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1869919">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>esB5gAkmdj4Ff/mw56qPm+C9Vmk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-996639" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>EwCn5h1DGPw8oBmG3Vq+2Du3ag0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue104927">
+Oyab63112csUBAA1uMKILfklZF9Us0vfktT4so41K/zMjF5BF3nRm3E6YqifvLkKvRI/u8ZBY2yX
+Y3nXcuSdh906zeDML3udvkv3EeQDWO+7lgTjAcJWjcOEAftHG2aR5pw9kBUeqlo7u1eAmhbzgxRl
+u6QCGOkdCZTPE4hXWzq9o20xHTXnv4oZuh+xzz8ufnCQKi51YQ5TEBod6G9zMa5A4Xcugbhaev7C
+Xm4joWSbePR2QwI3E+4YlIqhNtyEJ/m671Lg9r5HP5Pq1xpZuWCBYy/ae7k7EiGivIkyfWfv4KSe
+EOyfZJvOHkaDAdv0SURWHS5sjGavhpEE9gdKag==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1869919">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMfzCCCmegAwIBAgIEFIrs5DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAxMDMxODU4MTFaFw0zMDAxMDMxODU4MTFaMIGpMScw
+JQYDVQQDDB5KRVNTSUNBIFRBVElBTkEgWkFCQUxBIFNBTkNIRVoxIDAeBgNVBAUTFzE3MTgwMjE0
+MTEtMDMwMTI1MTQwODA2MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALTOyHriPT34wCoZegqq0Px6ZR3a040e+WcaFL4o
+dcQQcdKzoP0MpNck8BgBgXrb2mR0rOQ0EelIwcreW7PTsxjeA6TWw49f2T5JJXFSsfDt+XeVcX64
+26wgA8TcFvj+H0lVgBKBsMvUOoOzFqu4sgbngCeV8mxDsB0Rk85pqfGVf8cQJwUBp+YKo8Q5bLua
+Et4ScbVL4mka4+EuFKqlhUptThFlbdbrZI6Lgj53Py3uWkA10dt1Qi6D9xVnXO3Y3p24ZTwfswyW
+u+YUw65reZr5XokH2zd703aqUEoB9LNthEDSSf6aCJCXZiGg9nbcoP4HmzMN+F35Zh6QOUCDba8C
+AwEAAaOCB7swgge3MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCEGA1UdEQQaMBiBFmplc3N5X3phc2FAaG90bWFpbC5jb20wggEV
+BgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGww
+gaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9z
+L1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9v
+Y3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+k
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5s
+ZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVS
+ZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNy
+bCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZ
+IERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFFYl1uo8qQ7potRFBlye8OXZF7JbMCsGA1UdEAQk
+MCKADzIwMjUwMTAzMTg1ODExWoEPMjAzMDAxMDMxODU4MTFaMAsGA1UdDwQEAwIF4DAfBgorBgEE
+AYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3MTgwMjE0MTEwbwYK
+KwYBBAGCpnIDCQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5PIENBQkVDRVJBIENBTlRP
+TkFMIENBUElUQUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBERUwgRUNVQURPUjARBgor
+BgEEAYKmcgMiBAMMAS4wLAYKKwYBBAGCpnIDBwQeDBxBTlRPTklPIFJPTUFOIFkgSUdOQUNJTyBB
+U0lOMB8GCisGAQQBgqZyAwIEEQwPSkVTU0lDQSBUQVRJQU5BMB8GCisGAQQBgqZyAyAEEQwPMDAy
+MDAxMDAwOTMwMDU5MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURP
+UjAWBgorBgEEAYKmcgMDBAgMBlpBQkFMQTAhBgorBgEEAYKmcgMKBBMMEVJFTk5PVkFDT05TIFMg
+QSBTMB0GCisGAQQBgqZyAwsEDwwNMTc5MzIxODE1ODAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYK
+KwYBBAGCpnIDBAQJDAdTQU5DSEVaMBoGCisGAQQBgqZyAwgEDAwKMDk5ODE0MzcxNzANBgkqhkiG
+9w0BAQsFAAOCAgEAjCWGqyJ8tJ9bHSM/Y++y4VER7wYMiu4W6O88BrywVRhjRWlzYhxayaefZDVc
+SvRQK9tcd4vD/FRwy/cTzclk/lX3K13n2ozF5WS5z984zZCFshc9vrj6wrqYoa988kF1u2kALif/
+x+ipuISg6AjtvIEjqfkK26Ycq1YZF+1AMKLb+7OUGJQLj1g7uYUgIiQZI4oLhteJdRDXkSL/e2kA
+myc5BcltnkX7Np2wfJ1UX5l6APvfhEJ+85SEEbDCXkyGTrDLk+XHHANOjxrph/hfnefluNPj9v3M
++Hz5kEaHUMP6JknBd+KFcaql3dZo1QXDAxXZem4jtrRkmKFxIgo4WB949YSGG23b6/nOg0BgXIee
+mqpda5qPTtSh4Npqyf1mjmyJIJkEaPV7UF3QKQMcw+W+0WMB9cqcOx1K9lr8thWIIfxhOtrx10wW
+cWYGhWBdqd5epfs33toyurCNUYSL/TH10f23HKOUt/sJrRqEkE0+w/vSNfhPXr2+YAJFc8KMz2sX
+7gWZ9CLO4JgtkNTZdrmycE+DSg5uoGWKsOJvfGXCuAUVKSOonf42YiwYyFRAXWTEOzKrLm73uW0s
+GWPlgfLOqUfPgwuY2fH6tW9lPA0af6zN+iwD5uUGXyYftXID5CY9KT0Zwp4gbktbF1ZHXpHguX2o
+pM1OGUvhbppmYS8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tM7IeuI9PfjAKhl6CqrQ/HplHdrTjR75ZxoUvih1xBBx0rOg/Qyk1yTwGAGBetvaZHSs5DQR6UjB
+yt5bs9OzGN4DpNbDj1/ZPkklcVKx8O35d5VxfrjbrCADxNwW+P4fSVWAEoGwy9Q6g7MWq7iyBueA
+J5XybEOwHRGTzmmp8ZV/xxAnBQGn5gqjxDlsu5oS3hJxtUviaRrj4S4UqqWFSm1OEWVt1utkjouC
+Pnc/Le5aQDXR23VCLoP3FWdc7djenbhlPB+zDJa75hTDrmt5mvleiQfbN3vTdqpQSgH0s22EQNJJ
+/poIkJdmIaD2dtyg/gebMw34XflmHpA5QINtrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature748034-Object141444"><etsi:QualifyingProperties Target="#Signature748034"><etsi:SignedProperties Id="Signature748034-SignedProperties449059"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-06T09:57:48-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QYxhEj/nMCPmOzgJvzL2tTpuVsg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>344648932</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-996639"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0805202501019011188100120670040000595740005957410</numeroAutorizacion>
+<fechaAutorizacion>2025-05-08T12:56:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Las Fragancias Cia. Ltda.</razonSocial>
+    <nombreComercial>Las Fragancias Cia. Ltda.</nombreComercial>
+    <ruc>0190111881001</ruc>
+    <claveAcceso>0805202501019011188100120670040000595740005957410</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>067</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000059574</secuencial>
+    <dirMatriz>AV. ORDOÑEZ LASO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/05/2025</fechaEmision>
+    <dirEstablecimiento>Condado Shopping  Local 338</dirEstablecimiento>
+    <contribuyenteEspecial>3656</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ORTEGA PAREDES RUDHT</razonSocialComprador>
+    <identificacionComprador>1711063675</identificacionComprador>
+    <totalSinImpuestos>7.58</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>7.58</baseImponible>
+        <valor>1.14</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>8.72</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>8.72</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>MUP-3302</codigoPrincipal>
+      <descripcion>MUA-EYESHADOW COLLECTION-15 SHADES EYESHADOW PALETTE-15 EYESHADOW PALETTE BLUSH NUD</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>7.58</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.58</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Linea" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>7.58</baseImponible>
+          <valor>1.14</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="No_docu">86256477015</campoAdicional>
+    <campoAdicional nombre="Direccion">AV. OCCIDENTAL N62-237</campoAdicional>
+    <campoAdicional nombre="CodigoAlmacen">MBV1</campoAdicional>
+    <campoAdicional nombre="Observacion">NYG</campoAdicional>
+    <campoAdicional nombre="formaPago">.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1045519">
+<ds:SignedInfo Id="Signature-SignedInfo429960">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID140905" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1045519-SignedProperties256458">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xPA2caxSde0k0Af3+I5exi5ZDN4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11029635">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>eokkvHDhJXz1VcN+a3iyfpzZNI4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-789680" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nsj6WRCZHe+qNV6l/XPCDovZAWo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue528260">
+fGRCufX90zlqqe8MFMV7steWv6HDI7rOCESIZqNJzLnKUFnGTenvE+fTgzXQqWQIA3NnYdp8KDR6
+agF985RSHI1yTNc0OTX+HnY1TextFa2zAoU7fjQkQiJhrDjG9wUOYx7v+CI+p8MLBKL9Z1uDFF62
+oN1oocMFg7VCn1XEaQnhkr3CTLT7fRTa54ObNCZi0yMUmJYZLClu4z7PvYZOsv1rLrJXl5GQCWrN
+nRO2gzbgl1MBujysbkNxKaP8GTumigZNCie99xiKS+h8hfi7Us4eZ8CP9VS4jLuNSL0kDTCVBmnx
+2/Oz81qg0F94uquI6/TYyxXx2t/47+Nm1SwRMw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11029635">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMPjCCCiagAwIBAgIEZq7AyzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAxMjkxNTAwNTJaFw0yNzAxMjkxNTAwNTJaMIGoMSYw
+JAYDVQQDDB1BTkdFTCBGRVJOQU5ETyBBTkRSQURFIFRPUlJFUzEgMB4GA1UEBRMXMDEwMjE0Njg1
+OS0yOTAxMjUxMDEwNDIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkl+a5bH4JhoMr3bnguHSQIT8CabIJR/O37Dqo733
+Mo3N5nJhiyGEuYpYrMa9aBCdO31Wu1wEMq+OMMTdR0oQvqBEgzHg6u4MdPL1Lhh5ARBW8MO0WKWY
+ifyf4lScr+KX8uA+BohRjQgobLLT+KTmxYVSe7f5Upla16xOsTDtNfYkrmMrPd+vomeReddASqPI
+jtSdTN+FEp0PI3EO6bhfqlAxx3PA99KfPoUlBfQOV1Qw+NHGp1GMuCVa3ROSx0/8IRHIFth1oLeD
+8It1mw/oT2gDDsxGB3yVQ3ydiEV3zV5mH5q8dBNtkD2crPixvPCvnYdtNakI88zvW16GMGaunwID
+AQABo4IHezCCB3cwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCB
+u4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJl
+dm9jYXRpb25MaXN0P2Jhc2UwJQYDVR0RBB4wHIEaZmFuZHJhZGVAbGFzZnJhZ2FuY2lhcy5jb20w
+ggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQA
+aQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBh
+MIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRv
+cy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9v
+Y3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+k
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5s
+ZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVS
+ZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNy
+bCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZ
+IERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFJeK6zpX7hJG2zq6RVW6Mo6WE9woMCsGA1UdEAQk
+MCKADzIwMjUwMTI5MTUwMDUyWoEPMjAyNzAxMjkxNTAwNTJaMAsGA1UdDwQEAwIF4DAhBgorBgEE
+AYKmcgMFBBMMEUdFUkVOVEUgQ09NRVJDSUFMMBoGCisGAQQBgqZyAwEEDAwKMDEwMjE0Njg1OTAd
+BgorBgEEAYKmcgMJBA8MDVNBTiBTRUJBU1RJQU4wEQYKKwYBBAGCpnIDIgQDDAEuMCMGCisGAQQB
+gqZyAwcEFQwTQVYgT1JET05FWiBMQVpPIFMgTjAeBgorBgEEAYKmcgMCBBAMDkFOR0VMIEZFUk5B
+TkRPMB8GCisGAQQBgqZyAyAEEQwPMDA1MDAxMDAwMTQ3Mjk5MBMGCisGAQQBgqZyAyEEBQwDUEZY
+MBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0FORFJBREUwEQYKKwYB
+BAGCpnIDHgQDDAEuMCcGCisGAQQBgqZyAwoEGQwXTEFTIEZSQUdBTkNJQVMgQ0lBIExUREEwHQYK
+KwYBBAGCpnIDCwQPDA0wMTkwMTExODgxMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKm
+cgMEBAgMBlRPUlJFUzAaBgorBgEEAYKmcgMIBAwMCjA5OTI3NzA4NTcwDQYJKoZIhvcNAQELBQAD
+ggIBADipDMgBXH9qzRSBRy9D8Q7PzF1tm4HlWnnNGlPJmpcO1vyoYntOYOtthXyCFmcdIgLk/Da+
+7Ren0Ii5s4W/pzU1fyX+RM/QnZdk3uGjOfsbkAuZJo9UlnERLA2F1BgOfPmIdzjWu/PcMCqDF0A6
+EBThIU0kp9GYCCnA1iaaeltTAIJWHcjw9B7qouc1U7Xn5h/+dUcA7svOreSqKgKbxbJwaFOBF4ya
+1EU6FEKZvPNjO4ksmrEukpuBVCNwAfQ5U/f2O+0zQDOlhBncxqBCvPsRGZs6kaTAJRkgkDiOBSdm
+8fcn2xwToipUG4J7EjMnMsChkYhazZcY3sJJiTbC05kDVX9jRk1JyXZUe4tTiIlzngIw3zwL9IzI
+q9D18LT+8AGnhFYlqcwul6bv4HQkZzrWdGE1K73vjcCMnl4ya76/6x7d+2WSpH1l8tbFN9O3D8Ou
+bTvGlUMIgZStel2/NFAraCSk74ycCdlYObOHNxz9zJcAKEAcK6Gsk2YyqcggCmhQuA5AvRXdSvPh
+hv1pf6XEdloTJ9JbAQK3abzyG3pwXgguZ3wIwxKmLHKnn6arPqLvvhuRsY8SPHh0Flu0y3M46NhG
+mmCBFIz13x3vICSmhujj2kjHE7RFyE/bO7AyA1qC0pFWeiN5mYitvYmHGZFYQalJ+tXdWAZCBuvS
+d42C
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kl+a5bH4JhoMr3bnguHSQIT8CabIJR/O37Dqo733Mo3N5nJhiyGEuYpYrMa9aBCdO31Wu1wEMq+O
+MMTdR0oQvqBEgzHg6u4MdPL1Lhh5ARBW8MO0WKWYifyf4lScr+KX8uA+BohRjQgobLLT+KTmxYVS
+e7f5Upla16xOsTDtNfYkrmMrPd+vomeReddASqPIjtSdTN+FEp0PI3EO6bhfqlAxx3PA99KfPoUl
+BfQOV1Qw+NHGp1GMuCVa3ROSx0/8IRHIFth1oLeD8It1mw/oT2gDDsxGB3yVQ3ydiEV3zV5mH5q8
+dBNtkD2crPixvPCvnYdtNakI88zvW16GMGaunw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1045519-Object58978"><etsi:QualifyingProperties Target="#Signature1045519"><etsi:SignedProperties Id="Signature1045519-SignedProperties256458"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-08T12:56:12-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>htwEkWU4yy70WlxxhwJqXf7QMH4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1722728651</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-789680"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

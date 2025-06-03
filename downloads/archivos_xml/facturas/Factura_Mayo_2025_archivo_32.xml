@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0605202501179051600800120010051163978732503682714</numeroAutorizacion>
+<fechaAutorizacion>2025-05-06T16:08:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[ 
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Chubb Seguros Ecuador S.A.</razonSocial><ruc>1790516008001</ruc><claveAcceso>0605202501179051600800120010051163978732503682714</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>005</ptoEmi><secuencial>116397873</secuencial><dirMatriz>Quito, Centro Corporativo Ekopark, Torre 4, Piso 4          Av. Simon Bolivar y Via a Nayon                             Telefono: (593 2) 373 1810</dirMatriz></infoTributaria><infoFactura><fechaEmision>06/05/2025</fechaEmision><dirEstablecimiento>Matriz Quito                                                Centro Corporativo Ekopark, Torre 4, Piso 4                 Av. Simon Bolivar y Via a Nayon                             Telefono: (593 2) 373 1810</dirEstablecimiento><contribuyenteEspecial>0059</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>RUDHT ORTEGA PAREDES</razonSocialComprador><identificacionComprador>1711063675</identificacionComprador><direccionComprador>SN   AV OCCIDENTAL NO  SN  Y</direccionComprador><totalSinImpuestos>260.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>260.00</baseImponible><valor>0</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>260.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>260.00</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>7</codigoPrincipal><codigoAuxiliar>23</codigoAuxiliar><descripcion>HOSPIA HOSPI SEGURO ANUAL</descripcion><cantidad>1.000000</cantidad><precioUnitario>250.000000</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>250.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="0353728" valor="0"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>250.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3</codigoPrincipal><codigoAuxiliar>23</codigoAuxiliar><descripcion>SBS 3.5%</descripcion><cantidad>1.000000</cantidad><precioUnitario>8.750000</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>8.75</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="0353728" valor="0"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>8.75</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>4</codigoPrincipal><codigoAuxiliar>23</codigoAuxiliar><descripcion>SSC 0.5%</descripcion><cantidad>1.000000</cantidad><precioUnitario>1.250000</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>1.25</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="0353728" valor="0"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.25</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Contribuyente">Gran Contribuyente NAC-GCFOIOC21-00000994-E</campoAdicional></infoAdicional><ds:Signature Id="Signature940771" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo738956">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID561937" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature940771-SignedProperties445943">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vz2BlBfc/x2VWGTfjOWvxLei1fM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1605007">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>q0jvfwdPBzflbFOSJQdKj+A4QkM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-113292" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WfIWEeHygiYno1iihmglioIx/dI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue478430">
+hVQu0VBj6RIkaC9JIYdWhSC4r+F15I/mGMiSQ2DGesTA2gOSwEZqOZ/rYihZJsg2hbE/9bm6n13S
+LG2K8v0INIXizTFaV3chNmCUHgdgVoshNpVwh0IE3rKToxr8m2zMZhZBKTpLwV5pKLbgO4lmhOXd
+qoz0fa2fLTDacSox8FYIqmyAhgNG9jaOyTVjpZ0gXTXt0JI8bWvNYGJQ+PAV/vIvKOU8xaprIEW9
+fs27YPFjK1P4YFj6gGxzwpyanbvBPgCQisQWWiSFZDAnRgZXYDC4JmhsLxrMh0LVUb2kXtTYYYH+
+FBgxvgpjukTJ8/c88xXHJeucEF6evUNPxl53Og==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1605007">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKAjCCB+qgAwIBAgIEZTQyXTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMTAyMzIwMzUyMFoXDTI1MTAyMzIxMDUy
+N1owgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDQxNjc3OTAjBgNVBAMTHENIRUxBIENBUk1JVEEg
+U0FOQ0hFWiBCRVJOQUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEyeKq7oB/v3bV
+St4KyvwBoAQUBWzfm30fs2WlrZ9E9D/12wI6Qg+2tDphKbmKLr95/8gMsr4W1YVompcvIo97JEdp
+/E97/CuvpKetHenGuBerwgqDEbdJKxx72nFOKNeN76D2tFCm6+rF6+8FkjNfMnup49TrgSGfn7RS
+/PbDNTykgN4mo9w67rxyV8e4Qa9cjgPkOO8FLGamoyPSHBlwyEQjqMr0WRhmyZ9HolQDwKzxDFVk
++hzXXY0srxLloQ1Hl+hPCyKYoks/HujZRGTJUtVX+U8KHGV7CKzX6wTmHZmchbHoc53U/0rqyhkN
+LWxHqanOC+J7OljogsC4OfSrAgMBAAGjggUrMIIFJzALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBc
+BgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMCoGCisGAQQBgqg7AwoEHBMaQ0hVQkIgU0VHVVJPUyBFQ1VBRE9SIFMuQS4w
+HQYKKwYBBAGCqDsDCwQPEw0xNzkwNTE2MDA4MDAxMBoGCisGAQQBgqg7AwEEDBMKMDEwMTAwODAx
+OTAdBgorBgEEAYKoOwMCBA8TDUNIRUxBIENBUk1JVEEwFwYKKwYBBAGCqDsDAwQJEwdTQU5DSEVa
+MBYGCisGAQQBgqg7AwQECBMGQkVSTkFMMCEGCisGAQQBgqg7AwUEExMRQVBPREVSQURBIEdFTkVS
+QUwwNgYKKwYBBAGCqDsDBwQoEyZVUkJBTklaQUNJT04gVklTVEEgSEVSTU9TQSwgQ0FTQSBOTy4g
+NTAZBgorBgEEAYKoOwMIBAsTCTAyMjg5MzQ1ODAVBgorBgEEAYKoOwMJBAcTBVFVSVRPMBcGCisG
+AQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wJAYD
+VR0RBB0wG4EZY2FybWl0YS5zYW5jaGV6QGNodWJiLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDE5MTEsY249QUMlMjBC
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIw
+Q0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0
+cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszEL
+MAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcT
+BVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwxOTExMCsGA1UdEAQkMCKADzIwMjMxMDIzMjAzNTIwWoEPMjAyNTEwMjMyMTA1MjdaMB8GA1Ud
+IwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBShaJQz2YQwYaU25HIUfYrTh/Wn
+4jAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgQwMA0GCSqGSIb3DQEBCwUAA4IC
+AQAMcDiKo1uDEi8bAfvTYTeEO14aVSze+Ex8htiwmG7EGxqds1bJ89+mr/yIgPeTjg9YjT+Lpr4p
+69Dw/g2Rs8LM0IGBXxeLaKuT9lAkO2quELl+Juuz5TLdGImpJh8cHENtHxgOqCkAgw2jDaHbcBEL
+8Dt1aMPFTJVxoZNQ3aQTb7BaN3fALdaYaYNddgdRHguji1fqKaC1Us9JnqjWSAC3lnbqpMgymz0h
+qhVA1p0HNYgHiq+C3Wo/WEDq4iDwnN3ayIZGl9Gww56i3aH8SQ4UiNM6Xb8EjVM3363Ry+GAZBCa
+ZINtJ0rQkDKlP+L2Mj6Y/yUr3iP32SzWzk8Nh/bO+Z//cgCxhQZf9fFNj5trrGW/UO0WHZEdr//L
+vdSuOQXlA+Ryl7a5eXtozvRmLkWi3j//Ze2q+JHVaRSvOv+4z5nmuV8Ye26GkoH+vv8tYrIbuQrG
+jroK30sRnD35l+5QMqo6gJpuUO6hEtoLpgDaFa6W6peb3Uz687UkfWJrwnZF1HlzfV6Nes7lBtj7
+knIbGisy7ZTCjHxguBGimWy0yfipRU9MNh0VoAqGomqXHCTZw/OHFFYK8njFpgx26pnBUUgkCMgF
+EK3YPiLJs3VSO+e2ILJuhm2/shx83ej2jlwCkgBs9xZ4AbA8ZLc5UuJifguPh87Idh1CZDZb9hGg
+QA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xMniqu6Af7921UreCsr8AaAEFAVs35t9H7Nlpa2fRPQ/9dsCOkIPtrQ6YSm5ii6/ef/IDLK+FtWF
+aJqXLyKPeyRHafxPe/wrr6SnrR3pxrgXq8IKgxG3SSsce9pxTijXje+g9rRQpuvqxevvBZIzXzJ7
+qePU64Ehn5+0Uvz2wzU8pIDeJqPcOu68clfHuEGvXI4D5DjvBSxmpqMj0hwZcMhEI6jK9FkYZsmf
+R6JUA8Cs8QxVZPoc112NLK8S5aENR5foTwsimKJLPx7o2URkyVLVV/lPChxlewis1+sE5h2ZnIWx
+6HOd1P9K6soZDS1sR6mpzgviezpY6ILAuDn0qw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature940771-Object559127"><etsi:QualifyingProperties Target="#Signature940771"><etsi:SignedProperties Id="Signature940771-SignedProperties445943"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-06T17:08:14-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Ke0HnT83yqfoz7gjjtZFY6HmVPw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1697919581</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-113292"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura> ]]></comprobante>
+<mensajes/>
+</autorizacion>
+

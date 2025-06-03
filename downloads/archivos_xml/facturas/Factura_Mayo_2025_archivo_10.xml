@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0105202501171081231200120011000000001677685886118</numeroAutorizacion>
+<fechaAutorizacion>2025-05-01T11:33:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CATHME RODRIGUEZ ROBERT PATRICIO</razonSocial>
+        <ruc>1710812312001</ruc>
+        <claveAcceso>0105202501171081231200120011000000001677685886118</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000167</secuencial>
+        <dirMatriz>Barrio: LOMA DE PUENGASI Calle: SIN NOMBRE Numero: LT 17 Interseccion: GENERAL ENRIQUEZ </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/05/2025</fechaEmision>
+        <dirEstablecimiento>Barrio: LOMA DE PUENGASI Calle: SIN NOMBRE Numero: LT 17 Interseccion: GENERAL ENRIQUEZ </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ORTEGA PAREDES RUDHT ELENA</razonSocialComprador>
+        <identificacionComprador>1711063675001</identificacionComprador>
+        <direccionComprador>LEGARDA Y FRANCISCO ROMAN</direccionComprador>
+        <totalSinImpuestos>1156.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1156.00</baseImponible>
+                <valor>173.40</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>1329.40</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>1329.40</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>0010</codigoPrincipal>
+            <descripcion>MODULO DE BAÑO ESTANDAR COLOR HEM-000120</descripcion>
+            <cantidad>12.0</cantidad>
+            <precioUnitario>73</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>876.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>876.00</baseImponible>
+                    <valor>131.40</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>162</codigoPrincipal>
+            <descripcion>MODULO DE BAÑO HEM001020 60*40</descripcion>
+            <cantidad>4.0</cantidad>
+            <precioUnitario>70</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>280.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>280.00</baseImponible>
+                    <valor>42.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">023410653</campoAdicional>
+        <campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>t3MKplBGpo5wFD0jMklyvKfmTfdHnw2/rx0iOKTfcdw=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>uRUvlPOl0sl1LyFyqnM6e9GOncnc/X3iPDdlhkGIJds=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140-sigvalue">i6YJ/iaNQGZReM7LNRukyPBgv9icpPQ8KVC0gLmLyl1jqxW16+tePhdCacHyYMQ1dMMbLoIpY1emLLMnIGhU2ucZSm19sGJ1qRSmM+7M7YIpmCxmcLsxBenNt7tfAORaYYgJBCuoLJ2vLgBqhW8rzw4BXHKSMB3RoxA99030Xq/4XhVFWohCw9o4ZcsyUYqivYSg50HqgZYdH29ixmRpIvb6pmpRB8vF1oNpnHTwsOvCOFoL7b4Aw+I/d04AIFIcupI9o5P7qjVOWAQQRQ1z0/ewXvCfZv8YB8fmPRaNljqyTSydfSEl/K53iTz7b5vS4io1CZPDk9+pbZcf16F/vA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIL9TCCCd2gAwIBAgIEebtDgzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEwMDkyMDMyMTFaFw0yNjEwMDkyMDMyMTFaMIGrMSkwJwYDVQQDDCBST0JFUlQgUEFUUklDSU8gQ0FUSE1FIFJPRFJJR1VFWjEgMB4GA1UEBRMXMTcxMDgxMjMxMi0wOTEwMjQxNTQyMDUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtpIlve85GnZXOIXRqSuazjZqMpue2YQy+t2pLrZ0L/XVUxFZgv1GwUGSzz/uo1EaetTt43u04ly79BDswthAi0ocuVd6XJHiuAdlJ0UAireTP4+aDkz0WZmID6HodcRLLt17cYiEjD7SBxAJzKkS8jjQ3/69VfJ5XdZrZGkfIRV/KpYFNTomyzAVyswGcm+xtUPUS7q0IbRC6ahlotO8O3FGoLFR5EF+CWXgAse8sYlmvUKMYow8NhIAdIZxUNTRaWmx1DKvRpKubFg9F1eII+GZZsRofqBhlAO2V5UULAgvgrT/sNHV5dxuNcDYj7CYMwNkGTYBPCZuVxfnAPwHLwIDAQABo4IHLzCCByswDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwJwYDVR0RBCAwHoEccGF0cmljaW9fY2F0aG1lQHlhaG9vLmNvbS5teDCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBR93z0HLXlYlhLuJIuOmvLUQZuurzArBgNVHRAEJDAigA8yMDI0MTAwOTIwMzIxMVqBDzIwMjYxMDA5MjAzMjExWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzEwODEyMzEyMBgGCisGAQQBgqZyAwkECgwIUFVFTkdBU0kwEQYKKwYBBAGCpnIDIgQDDAEuMDMGCisGAQQBgqZyAwcEJQwjU0lOIE5PTUJSRSBMVCAxNyBZIEdFTkVSQUwgRU5SSVFVRVowHwYKKwYBBAGCpnIDAgQRDA9ST0JFUlQgUEFUUklDSU8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA4ODMyMzkwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkNBVEhNRTAZBgorBgEEAYKmcgMeBAsMCUlOR0VOSUVSTzAdBgorBgEEAYKmcgMLBA8MDTE3MTA4MTIzMTIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJUk9EUklHVUVaMBoGCisGAQQBgqZyAwgEDAwKMDk4MzIxNTM5NzANBgkqhkiG9w0BAQsFAAOCAgEANDG+YkP/plkCWgYExYiAdyukruuozsH/tpgEMrg/0uF2+Qkeg/Et2wBDCwVSDE+rFT8ZZ2DmAqDmWEaNbTC5gE5kE5kesBfpA81UxTxTTJCh2HXQQRW4zrvN0ksHrvNHKlgMBASLTPLcnmreK8AI6haBoLXsfYrLzwBWDRk47jl8zwkQ/nXZ/OIglchoBVpOSukl+DIB6t44V22xXrbjSGX1QRJTSJIsVqA5RBnd3X/emoPUIiLa4tExUv2OBYKhkoDstayswaBsrsZmyzfDkzaE0t6ek23wKJr9p6ts/33UMgj2CnM/8JHV17JMjrmnm9YQAJAgX1MtGJ0g2Yi3tysFsXZF0BZz7N+Tx6UGmWBS0dI5MPz/v+emDWJ5J0dXgfRCL6BSWNt2Fg/EVeEhFd527t4On+qS5eXl1lqDu6EXV+nvDsvNEVkfnN4BNuAzcuYCUhevclLDfqp+2xDd6flqDWBc/85qfOz1G24+P63yIijfXlxabozvs3p2AnqWiDLWwjOl6U3axui7IG3ZUu1bf/sf6tKr4EC7RrFZnlNtHoA3j72RchEZwF9lllNGdOvy1m7TjNsDwz7pBapJkR0F9Kz0SueglVsW4ps12nbw2vbeCmkNTFz4+Zs6m0i3ppqvo7iTQdUa0c/Ii0GDUA1myoMX9qzVGCX2ludgEFE=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140"><xades:SignedProperties Id="xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2025-05-01T11:33:02.813-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Kza3n7UxbNKXce2qMIW2rCTiSXER9S/yENDXEr9vJ7M=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2042315651</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-aba9aac1-8cec-4522-9c09-e66349c58140-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

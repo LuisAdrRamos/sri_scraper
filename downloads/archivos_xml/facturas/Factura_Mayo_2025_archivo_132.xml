@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1905202501179244082300120040020000250950002509515</numeroAutorizacion>
+<fechaAutorizacion>2025-05-19T16:48:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>IMPORTACIONES DAR CERAMICS IMPORDARCER SA</razonSocial>
+		<nombreComercial>IMPORTACIONES DAR CERAMICS IMPORDARCER SA</nombreComercial>
+		<ruc>1792440823001</ruc>
+		<claveAcceso>1905202501179244082300120040020000250950002509515</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>004</estab>
+		<ptoEmi>002</ptoEmi>
+		<secuencial>000025095</secuencial>
+		<dirMatriz>MONJAS ORQUIDEAS SECTOR 5 PASAJE 4 F Lote 1488 Y LUIS LARENAS</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>19/05/2025</fechaEmision>
+		<dirEstablecimiento>ZARUMA 100 Y GENERAL RUMIÑAHUI</dirEstablecimiento>
+		<contribuyenteEspecial>235</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>ORTEGA PAREDES RUDTH ELENA</razonSocialComprador>
+		<identificacionComprador>1711063675001</identificacionComprador>
+		<direccionComprador>AV MARISCAL SUCRE N62-288 Y JUAN DE FIGUEROA</direccionComprador>
+		<totalSinImpuestos>330.72</totalSinImpuestos>
+		<totalDescuento>178.08</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>330.72</baseImponible>
+				<valor>49.61</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>380.33</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>380.33</total>
+				<plazo>30</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+		<valorRetIva>0.00</valorRetIva>
+		<valorRetRenta>0.00</valorRetRenta>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>IPAB1001</codigoPrincipal>
+			<descripcion>MOLDURA ALUMINIO PLATA</descripcion>
+			<cantidad>25.000000</cantidad>
+			<precioUnitario>5.000000</precioUnitario>
+			<descuento>43.75</descuento>
+			<precioTotalSinImpuesto>81.25</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>81.25</baseImponible>
+					<valor>12.19</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>IMABR001</codigoPrincipal>
+			<descripcion>MOLDURA ALUMINIO BRONCE</descripcion>
+			<cantidad>25.000000</cantidad>
+			<precioUnitario>5.000000</precioUnitario>
+			<descuento>43.75</descuento>
+			<precioTotalSinImpuesto>81.25</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>81.25</baseImponible>
+					<valor>12.19</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>IMACB002</codigoPrincipal>
+			<descripcion>MOLDURA ALUMINIO COBRE BRILLO</descripcion>
+			<cantidad>25.000000</cantidad>
+			<precioUnitario>5.360000</precioUnitario>
+			<descuento>46.90</descuento>
+			<precioTotalSinImpuesto>87.10</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>87.10</baseImponible>
+					<valor>13.06</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>ILAPB001</codigoPrincipal>
+			<descripcion>SEPARADOR T10 PLATA</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.200000</precioUnitario>
+			<descuento>10.92</descuento>
+			<precioTotalSinImpuesto>20.28</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>20.28</baseImponible>
+					<valor>3.04</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>ISTOB001</codigoPrincipal>
+			<descripcion>SEPARADOR T10 ORO BRILLO</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.200000</precioUnitario>
+			<descuento>10.92</descuento>
+			<precioTotalSinImpuesto>20.28</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>20.28</baseImponible>
+					<valor>3.04</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>ISTNB001</codigoPrincipal>
+			<descripcion>SEPARADOR T10 NEGRO BRILLO</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.200000</precioUnitario>
+			<descuento>10.92</descuento>
+			<precioTotalSinImpuesto>20.28</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>20.28</baseImponible>
+					<valor>3.04</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>ISTBR001</codigoPrincipal>
+			<descripcion>SEPARADOR T10 BRONCE</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.200000</precioUnitario>
+			<descuento>10.92</descuento>
+			<precioTotalSinImpuesto>20.28</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>20.28</baseImponible>
+					<valor>3.04</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">AV MARISCAL SUCRE N62-288 Y JUAN DE FIGUEROA</campoAdicional>
+		<campoAdicional nombre="Telefono">3413944 3410653</campoAdicional>
+		<campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional>
+		<campoAdicional nombre="Observacion">Norte</campoAdicional>
+		<campoAdicional nombre="FormaPago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional>
+		<campoAdicional nombre="Contacto">SRA RUDHT ORTEGA</campoAdicional>
+		<campoAdicional nombre="fechaVenCTIni">2025-06-19</campoAdicional>
+		<campoAdicional nombre="fechaVenCTFin">2025-06-19</campoAdicional>
+		<campoAdicional nombre="NombreComercial">ORTEGA PAREDES RUDHT ELENA</campoAdicional>
+		<campoAdicional nombre="EmailEmpresa">facturacionuio@darceramics.com.ec</campoAdicional>
+		<campoAdicional nombre="TelefonoEmpresa">022334115</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature814527">
+<ds:SignedInfo Id="Signature-SignedInfo179672">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID967945" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature814527-SignedProperties943973">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wmnH+eNfb5ulahbPAB8ksh9NKhs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1708780">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XHGZFAEBrq3MjPx9E0oRj4xMA1Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-964393" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LEkNvru7KXAj4bzsldT3clVxcqA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue789397">
+dqh+64VJcyUwSIt0oX/xzCK2kQxBu3/t7Op/WjXS+OTajZ+qneosp7BAVVIjDCkZsm8sh2AjUAx5
+ip9usGKX6isnlRGqAHkmBXpHGDQ7lYEggxxYkJymysEgWpOYOrSlFM9fIlqvwBdf4pGmycowyeOG
+Zp8SfajETLcSa9m1mCQbVt7RVjcC1IOB174/DuX5Z/uQNMANHdBgrFNpvKBjr5gjI4yvXNDpbe9U
+12YKhsbWIpBJEag9EPWQ2XzxHwLzWkoWdiwmQ8wClVUYPmwSEkshWoyRrdJUEXYwb0BglhEcKOV4
+aG+7T75GkjEhG1NOlrCY1xnVTtiDPOzofNX0XA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1708780">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKIzCCCAugAwIBAgIEW3ScYTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMDkwNzEzMDYyOFoXDTI1MDkwNzEzMzYy
+N1owgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDIzNTkzNDAkBgNVBAMTHURBVklEIEFET0xGTyBW
+SUxMQU1BUiBISURBTEdPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLv1tJlJPwzn
+ialG4hSI+y0kOoSDGu1U925QrkkF8j0CThdtzjPKVFewX1XiPdXe+WiTM4vsJFk0l3ODEAnDOBH4
+rkHC9wG05M3iF4NWWMwN5oNoDGzv6DCEvoN8IAkhZ15vPUgaEQfqMljjh0Fo34nF2hw+U/vVesiR
+j7qt0zQWFh5TpqbIDnh/2MLWRoVSmp/8GcZKhDkPjVU/Cef7UG9d8KIDlQQ7SY3ewdsthVlvGqk+
+4Yh1q/HciifLNmYoZR0sE2H1MCIsIFWiUz0Udvcz5+EsNjgFAORGD9bJ2tUIMRnlGJCxfFtAuMQs
+HaQqg7JVaW8W+SvkBv3+KjybwwIDAQABo4IFSzCCBUcwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDA7BgorBgEEAYKoOwMKBC0TK0lNUE9SVEFDSU9ORVMgREFSIENFUkFNSUNT
+IElNUE9SREFSQ0VSIFMuQS4wHQYKKwYBBAGCqDsDCwQPEw0xNzkyNDQwODIzMDAxMBoGCisGAQQB
+gqg7AwEEDBMKMTcxNDY4NzgyNzAcBgorBgEEAYKoOwMCBA4TDERBVklEIEFET0xGTzAYBgorBgEE
+AYKoOwMDBAoTCFZJTExBTUFSMBcGCisGAQQBgqg7AwQECRMHSElEQUxHTzAfBgorBgEEAYKoOwMF
+BBETD0dFUkVOVEUgR0VORVJBTDBEBgorBgEEAYKoOwMHBDYTNE1PTkpBUyBPUlFVSURFQVMgUEFT
+QUpFIDQgRiBMT1RFIDE0ODggWSBMVUlTIExBUkVOQVMwGQYKKwYBBAGCqDsDCAQLEwkwMjI2MDIx
+MTMwFQYKKwYBBAGCqDsDCQQHEwVRVUlUTzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYB
+BAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCYGA1UdEQQfMB2BG2dlcmVuY2lhQGRhcmNlcmFt
+aWNzLmNvbS5lYzCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFw
+c3VicDEuYmNlLmVjL2NuPUNSTDE4OTEsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBF
+Q1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5G
+T1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2Nl
+cnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9l
+Y2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJB
+TkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5D
+TyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwxODkxMCsGA1UdEAQkMCKADzIwMjMw
+OTA3MTMwNjI4WoEPMjAyNTA5MDcxMzM2MjdaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJ
+wZSrMB0GA1UdDgQWBBRjR/oYRIix7SNxKXdC0uO9MOZJSTAJBgNVHRMEAjAAMBkGCSqGSIb2fQdB
+AAQMMAobBFY4LjEDAgQwMA0GCSqGSIb3DQEBCwUAA4ICAQCC5VAiQSDBcQPEDvNP5iBfQjZ9JAOv
+MzEcPqAgpXGs7xH2jmNAr5xkMqx0jJjEM7lzvxmXLyVAX2vJGc1tlbfQqkyaTTRsDl8VKRr4xA8K
+fCUZWU+xm47Drx24QF+DdtnaUIlnNCoBknZ3hCQKcnNeYUuYrJfy8sVxOcnEByycdbIYBckcstTN
+UEmVJCpIdx6N37CEHy64t+vXsBXBnxkC5i9uF81uBf1cIUE4bJj5O/OGl8OY3RqqBlpbGSq0NJ1I
+LgF9gieS9BjV653PR3K9Q/HiQ4zETNDAPC0D8IOjjZTwqpdOpO7itHep66dbur1jL/f1VPBJ58QB
+w5WShtmvzQpJwmTgpmyuGlfrM+wrZFjB2gqlnqYh/0jarGYBGfDzI8n6U3Oh/k30H9aOVktxpW8v
+9fzAdncu14dRWD98/Bg719uOwy6XF9F19BrJ0ZwuwFZjnNMXBw3Cu1DBZLJReKOIWj/y+J5QCFaO
+CeOo0aYrgo4RsGGve1UfBOB60Q7ziQyG5uO98u0npIdtd8SiqhXLJf4q6rOFJG/OIVV9/9726FYG
+x5FReuCNcM1fNwkNKgQ2Rk39HTW7WjjPTKh4sH0MWoxVBPuU+8QO9B8KNPKh2BqCw84IbVNC1oZj
+hcFfIbnz3Lc7zHICIMdIi0t9HLWA/UINYdPF6npgnTVOIw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zLv1tJlJPwznialG4hSI+y0kOoSDGu1U925QrkkF8j0CThdtzjPKVFewX1XiPdXe+WiTM4vsJFk0
+l3ODEAnDOBH4rkHC9wG05M3iF4NWWMwN5oNoDGzv6DCEvoN8IAkhZ15vPUgaEQfqMljjh0Fo34nF
+2hw+U/vVesiRj7qt0zQWFh5TpqbIDnh/2MLWRoVSmp/8GcZKhDkPjVU/Cef7UG9d8KIDlQQ7SY3e
+wdsthVlvGqk+4Yh1q/HciifLNmYoZR0sE2H1MCIsIFWiUz0Udvcz5+EsNjgFAORGD9bJ2tUIMRnl
+GJCxfFtAuMQsHaQqg7JVaW8W+SvkBv3+Kjybww==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature814527-Object126704"><etsi:QualifyingProperties Target="#Signature814527"><etsi:SignedProperties Id="Signature814527-SignedProperties943973"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-19T16:46:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>wgObP/Ikn8zDiFZxoSKWT69ZXqg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534368865</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-964393"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

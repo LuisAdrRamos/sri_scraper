@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0905202507179197761000120011000000007522995252315</numeroAutorizacion>
+<fechaAutorizacion>2025-05-09T15:06:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><comprobanteRetencion id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LUSANCOMP CIA. LTDA.</razonSocial>
+        <nombreComercial>LUSANCOMP CIA. LTDA.</nombreComercial>
+        <ruc>1791977610001</ruc>
+        <claveAcceso>0905202507179197761000120011000000007522995252315</claveAcceso>
+        <codDoc>07</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000752</secuencial>
+        <dirMatriz>Calle: LORENZO ALDANA Numero: OE3-19 Interseccion: AV. AMERICA </dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoCompRetencion>
+        <fechaEmision>09/05/2025</fechaEmision>
+        <dirEstablecimiento>Calle: LORENZO ALDANA Numero: OE3-19 Interseccion: AV. AMERICA </dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+        <razonSocialSujetoRetenido>ORTEGA PAREDES RUDHT ELENA</razonSocialSujetoRetenido>
+        <identificacionSujetoRetenido>1711063675001</identificacionSujetoRetenido>
+        <periodoFiscal>05/2025</periodoFiscal>
+    </infoCompRetencion>
+    <impuestos>
+        <impuesto>
+            <codigo>1</codigo>
+            <codigoRetencion>312</codigoRetencion>
+            <baseImponible>525.85</baseImponible>
+            <porcentajeRetener>1.75</porcentajeRetener>
+            <valorRetenido>9.20</valorRetenido>
+            <codDocSustento>01</codDocSustento>
+            <numDocSustento>003010000016686</numDocSustento>
+            <fechaEmisionDocSustento>08/05/2025</fechaEmisionDocSustento>
+        </impuesto>
+        <impuesto>
+            <codigo>2</codigo>
+            <codigoRetencion>1</codigoRetencion>
+            <baseImponible>63.32</baseImponible>
+            <porcentajeRetener>30.0</porcentajeRetener>
+            <valorRetenido>19.00</valorRetenido>
+            <codDocSustento>01</codDocSustento>
+            <numDocSustento>003010000016686</numDocSustento>
+            <fechaEmisionDocSustento>08/05/2025</fechaEmisionDocSustento>
+        </impuesto>
+    </impuestos>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">023410653</campoAdicional>
+        <campoAdicional nombre="Email">hidroelectric2010@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-102207e4-7363-4424-934b-49bcb909441f"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-102207e4-7363-4424-934b-49bcb909441f-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>lLS5cikFDZoaAAR8cpU/V6jctH72cQB0V+urG+xynM8=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-102207e4-7363-4424-934b-49bcb909441f-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Dx/aTIAeXRipBemzTZyDCGEttzC+0onL2nB2lxH6xlw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-102207e4-7363-4424-934b-49bcb909441f-sigvalue">RiDYvwnplqJ9AB635GMV1Zn4+eX3DpURUFe2AalJgamTQ3+w/NT9nSqK1NDCBjDdFneNVSiKza5o9lps0IHk5Rx/YbpjEVa5NBTInaLzm+aOoCDvrg7Ti7aekrbXL0SfCFXuxncWMu9D8XSbPQ2BKs1zaL1px45VUYIHkXUdtk5XGS3f0/mA+B4NblSFQoaTnJ3Z+YHkJCC+BOKuV+3fdhrgq6qSoTAd2eWxZmtuHdZkmqfsL6LTwPKLymXGlkrVE+ZH97JB4EEtFdZ63W04sDT+CYcdzbRXb1octCWE6VhcmUn9qJqrJ/SuOg8XCscCjdPydrbhSA8BwJ7sOvmHlA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIMCzCCCfOgAwIBAgIEXZzjsjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAxMTIxOTIwNDFaFw0yNjAxMTExOTIwNDFaMIGjMSwwKgYDVQQDDCNTQU5USUFHTyBQQVRSSUNJTyBRVUlOVEFOSUxMQSBQSU5PUzEVMBMGA1UEBRMMMTIwMTIzMTQzMDE0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKsJbbP1Nj4e+nRAJt4E4SQ4Y87NZrHt68xgJNvj2HSfEkY0Jh68zscSTtdKah7NSaT1+EDTSfNtvdCuUAE9d6Cy5sRd4VtuJpCtY32hcOi6hCzkI6DvUVsDcF1xasvr1FYEXWMjP10LcIGVBAw/vyeevR0XhnT3elQXoSP9nMnzeAdD7oV+QLlglSY2biEscsW3nJLW1XLhjtWnwwthonR6LpPIUvJ1qBhtWsPFvKxhc5SjSZuPQSzvu0px/3r+OELhZYN1uq8w4R4kyHmk7v/Bdc2u8Z5Y2lZcrW0cJOHzfi28vq4xk3N4V7GxXKudZF8KMlkWHBgLYnyxiJGuEi0CAwEAAaOCB00wggdJMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCAGA1UdEQQZMBeBFWx1c2FuY29tcEBob3RtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBREfJVoedai/uY3L1gkTsBH3nkwPzArBgNVHRAEJDAigA8yMDIzMDExMjE5MjA0MVqBDzIwMjYwMTExMTkyMDQxWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzE1NjI4NzA1MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEuMDEGCisGAQQBgqZyAwcEIwwhTE9SRU5aTyBBTERBTkEgT0UzMTkgWSBBViBBTUVSSUNBMCEGCisGAQQBgqZyAwIEEwwRU0FOVElBR08gUEFUUklDSU8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA1NDY2NjEwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBsGCisGAQQBgqZyAwMEDQwLUVVJTlRBTklMTEEwIgYKKwYBBAGCpnIDCgQUDBJMVVNBTkNPTVAgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0xNzkxOTc3NjEwMDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFQYKKwYBBAGCpnIDBAQHDAVQSU5PUzAaBgorBgEEAYKmcgMIBAwMCjA5ODc1OTMwNTQwDQYJKoZIhvcNAQELBQADggIBACb//2OhNIT8JuQE7wUzSi+vT0aOusymxlWj7K4H3JIJ3VJT6KQs24mR4oS+3CsKxL12QMQeYWPvyDArXy53ICg9edjNuJE0DXRTd/MjfLHdJXGC355nTM5z9UareWFiEOAJ4BWl2rEMkvGC0w0mIUgqzxuaIXol2jEvHkp/YYlCKQQwSB10xmlF3dAMvc1+1yjUdJ8O7ilELXT5muUnlglqVT+fx1s9uK6YGOW2oukCHXWbGRSXu7Os5vHqUTTcGCIXpbFBVnsmeOtRb+eYrrgOgvYR05OJn8ihnUdNEr6JWRFYdt8u7EsPb81j/JFGokJ4dWNmCMg2WpLocRVGDKcdBrpJivxPNSy5A9cuqWBIiSy1tTvbC97eC9zYd/Ui/TOz8hiv9DHycQJ4Uap+i7qigR+PLMdcB0rRb6DVA9QbpJ5WZ0b7Fe6XiE02PwBdEvrUjOhG0sIgC+CVQHHGBVq/YBn5X/e/jJGNJjoASjXv+lGAhmELm2pP9AAOAJx6+FovpD5/+Rqg39jlgKnurV+FjvugOwZU35zOY7q4x3v9ylC6lb9fEZI9YmL06/YHI0MFUC5geYVFCMvOUfxjPl74MzkohDxYPoJOPMfEJlqL6mNXoGz86tAj8YnP+Owao221Bxky4F4yyNBeZcnnL1vpqhj6zIp929XJ11ySsumC</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-102207e4-7363-4424-934b-49bcb909441f"><xades:SignedProperties Id="xmldsig-102207e4-7363-4424-934b-49bcb909441f-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2025-05-09T15:06:37.549-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>3dnsP8ruLBipeBmTaZkND2XNXEiO6SyTkUEOS6rwYZs=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1570562994</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-102207e4-7363-4424-934b-49bcb909441f-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

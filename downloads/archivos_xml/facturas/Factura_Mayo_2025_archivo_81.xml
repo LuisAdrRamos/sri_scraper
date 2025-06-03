@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1305202501019012227100120145030000270367846333311</numeroAutorizacion>
+<fechaAutorizacion>2025-05-13T09:28:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>GRAIMAN CIA. LTDA.</razonSocial>
+        <nombreComercial>GRAIMAN CIA. LTDA.</nombreComercial>
+        <ruc>0190122271001</ruc>
+        <claveAcceso>1305202501019012227100120145030000270367846333311</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>014</estab>
+        <ptoEmi>503</ptoEmi>
+        <secuencial>000027036</secuencial>
+        <dirMatriz>PANAMERICANA NORTE KM 4.5</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/05/2025</fechaEmision>
+        <dirEstablecimiento>Sebastian Moreno OE1-53 - y Ave. Galo Plaza   PICHINCHA QUITO EC</dirEstablecimiento>
+        <contribuyenteEspecial>3257</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ORTEGA PAREDES RUDTH ELENA</razonSocialComprador>
+        <identificacionComprador>1711063675001</identificacionComprador>
+        <direccionComprador>AV.MARISCAL SUCRE N62-268 Y-GRA-3, PICHINCHA, QUITO, Ecuador</direccionComprador>
+        <totalSinImpuestos>65.23</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>65.23</baseImponible>
+                <valor>9.78</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <importeTotal>75.01</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>75.01</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>9004061</codigoPrincipal>
+            <codigoAuxiliar>9004061</codigoAuxiliar>
+            <descripcion>MOS. GLASS GRAY 30 X 30 (11 UNID)</descripcion>
+            <cantidad>11.000000</cantidad>
+            <precioUnitario>5.930000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>65.23</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>65.23</baseImponible>
+                    <valor>9.78</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="ID_FACTURA">8032340</campoAdicional>
+        <campoAdicional nombre="FECHA_VENCIMIENTO">13/05/25</campoAdicional>
+        <campoAdicional nombre="CONDICION_PAGO">CONTADO</campoAdicional>
+        <campoAdicional nombre="MONEDA">USD</campoAdicional>
+        <campoAdicional nombre="REFERENCIA">6200679</campoAdicional>
+        <campoAdicional nombre="PESO_NETO">5.5 KG</campoAdicional>
+        <campoAdicional nombre="PESO_BRUTO">5.5 KG</campoAdicional>
+        <campoAdicional nombre="NRO_PEDIDO">CPQ-733943</campoAdicional>
+        <campoAdicional nombre="ORDEN_COMPRA">477029447</campoAdicional>
+        <campoAdicional nombre="leyenda_GC">Gran Contribuyente- NAC-GCFOIOC21-00001099-E</campoAdicional>
+        <campoAdicional nombre="MAIL">hidroelectric2010@hotmail.com;</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature896506246"><ds:SignedInfo Id="SignedInfoDoc"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedProperties32" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zJWNmWuFchwl2diA8IMx0pFcjug=</ds:DigestValue></ds:Reference><ds:Reference Id="Cert142" URI="#Certificate"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ugbDFdpC0eydCuJp6JvAIdKi0OQ=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference274" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m9m6tXm8c2q6Mp8pYX0bL0X2dGw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>q6Q4Sg4y93zPwA29dW2MWiAsJ5cnVAvrnrMFYnLSbH6Lnt3WUXrrneLuhYzi8+aDXTnPbPHDfW7WRPpbzm80gGZNIag8ofIdnNhRBV7dgYOlNbCBWfPhcHMUpmokG6YwNwWp4mJIn85sU6sYbPhaZRT5D81DoOrnSGP/VFsgMAd4WMqVSNNQvp6gRXM4irYCurSCvlfWaZF8FWDaGsAFRxRTwHstrNzi9PR9OczhfKjEYqoVXJwpfuZHtPn/LMF5VvECvZ59N6eGB7euf9IwOi/koMtXCOgrdVWbE3/V5DnW4l8u/89hqVA40JWRqpSRNop/+GX0gFULLaghMGQwnA==</ds:SignatureValue><ds:KeyInfo Id="Certificate"><ds:X509Data><ds:X509Certificate>MIIL7DCCCdSgAwIBAgIEZCarrTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA2MTcxNjU4MzNaFw0yNTA2MTcxNjU4MzNaMIGdMSYwJAYDVQQDDB1KRU5OWSBBTEVYQU5EUkEgQ0FCUkVSQSBQUkFETzEVMBMGA1UEBRMMMTcwNjIxMTIwODMxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALHso0RemMZHRb1Y87euaaWWy3iLl1QBn161o3gd/bolo4t8V1V1joCBR0IxGLGY7ZKmxbZ7NWfUJFDHBYHzHhTuT7W1EJjL4kcoaPYuvkEKbwz0hWAPKXX8u+Mb5AonHgivAfAm2E1m1yAaWGNsSLdrFuXPsMN2s2QkcB7l2vpxUp638UjoPeGR3rdiyWswMV24t/Gfj8S/J5ls5qySdZdwEgbsCeSQdShSPR/YVZDtczMCRaGnGHpEGAA8ibxQbWSZ3ITEJY/UONVq9/oSQQA+13IotRgVO2itryf0tKic1cI/YaiVBX+7IqchoXagLmdXiDOfXEvM2TSoe8GaBfsCAwEAAaOCBzQwggcwMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMB8GA1UdEQQYMBaBFGFjYWJyZXJhQGdyYWltYW4uY29tMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFKaDrb67jhHYqmCET8KSGp4bmupXMCsGA1UdEAQkMCKADzIwMjEwNjE3MTY1ODMzWoEPMjAyNTA2MTcxNjU4MzNaMAsGA1UdDwQEAwIF4DAZBgorBgEEAYKmcgMFBAsMCUNPTlRBRE9SQTAaBgorBgEEAYKmcgMBBAwMCjAxMDMwOTg1NTQwFgYKKwYBBAGCpnIDCQQIDAZDVUVOQ0EwEQYKKwYBBAGCpnIDIgQDDAEuMCYGCisGAQQBgqZyAwcEGAwWUEFOQU1FUklDQU5BIE5PUlRFIFMgTjAfBgorBgEEAYKmcgMCBBEMD0pFTk5ZIEFMRVhBTkRSQTAfBgorBgEEAYKmcgMgBBEMDzAwMTA4MDAwMDAwODc0OTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdDQUJSRVJBMCIGCisGAQQBgqZyAwoEFAwSR1JBSU1BTiBDSUEuIExUREEuMB0GCisGAQQBgqZyAwsEDwwNMDE5MDEyMjI3MTAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBUGCisGAQQBgqZyAwQEBwwFUFJBRE8wGwYKKwYBBAGCpnIDCAQNDAs1OTM3MzcwMDg3MDANBgkqhkiG9w0BAQsFAAOCAgEAmQgNpySPnCgcuF+p5Vl//t3S1iWcdWm8DtQjeyDCaByLaYg6khihE9BR7n2XWwcLe0a6UwK9jJ903B3TZm7zTkTkuXuuWnYsyBgD9x9uJtMk3Xalzaa6+N3n2MROiXRoxpSkyx5I5GPthJ0JegVLixXsJBmuACs1UlYSRkx+yK4tOs+OGe88n6s6EZqZXGuru+qigK7syo4NbDLk8fil3AVg+iCrwGpC9KtP7LksilHFhNe+mvrjrLQQxK3AAKbd1FQExqyyEC8UVA7MTwp4V+dNOjWoGrLu7RzCIXoXbHM+1qeIWPgCdWDIMPNF1lYPjgRzfqWHrfJSJL3d6zx4EB0ptV72I6YRlvrb6/LwSVNN+JtQOeWpHXrYhbZFNfRlmUPrStBE49kFFNPnJbwcUotovT5iwplN0zp4YZp5w/K+RZyKH87QGxT930bHEB8apDDK9ABZOWr4reM1ONj4vUqARqgUwfYuITndkkXWeetzcEQCrNcLLrCbbwEgnVLlaRZK9EOMiW61gwxnAJqz9rXkz5csAv/1IzqwViSw+aJw1EzY5gTO+RCd2o6F/TXWRNwjtEtZ4Sb2ewbQ7N6IhhrA7t1iCTkclxxVEtHtmEeQBDKIOTEN2uiTvAF3MivBQKvU/EckQ8GvFb8aEzJ7e7TJtXghJvrmEB3UuAD0cZw=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>seyjRF6YxkdFvVjzt65ppZbLeIuXVAGfXrWjeB39uiWji3xXVXWOgIFHQjEYsZjtkqbFtns1Z9QkUMcFgfMeFO5PtbUQmMviRyho9i6+QQpvDPSFYA8pdfy74xvkCiceCK8B8CbYTWbXIBpYY2xIt2sW5c+ww3azZCRwHuXa+nFSnrfxSOg94ZHet2LJazAxXbi38Z+PxL8nmWzmrJJ1l3ASBuwJ5JB1KFI9H9hVkO1zMwJFoacYekQYADyJvFBtZJnchMQlj9Q41Wr3+hJBAD7Xcii1GBU7aK2vJ/S0qJzVwj9hqJUFf7sipyGhdqAuZ1eIM59cS8zZNKh7wZoF+w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature896506246-Object"><etsi:QualifyingProperties Target="#Signature896506246"><etsi:SignedProperties Id="SignedProperties"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-13T09:28:41</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>qPdi6oN2wrxYGOsJBMrNrST9yxo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1680255917</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference274"><etsi:Description>Comprobante SRI by QuindeFee</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,7 +1,10 @@
 from auth.login import login_SRI
 from scraper.navigate import navegar_comprobantes
 from scraper.downloader import automatizar_y_descargar
-import os
+
+from processor.proceso_facturas_xml import generar_archivo_detalles_productos
+from processor.proceso_retencion_xml import generar_archivo_detalles_retenciones
+from processor.proceso_creditos_xml import generar_archivo_detalles_notas_credito
 
 def descargar_comprobantes(pagina):
     try:
@@ -20,8 +23,16 @@ def main():
     try:
         print("Iniciando sesión en el SRI...")
         login_SRI(descargar_comprobantes)
+        
+        print("Procesando los archivos de facturas")
+        generar_archivo_detalles_productos()
+        
+        print("Procesando los archivos de retencion")
+        generar_archivo_detalles_retenciones()
+        
+        print("Procesando los archivos de credito")
+        generar_archivo_detalles_notas_credito()
     except Exception as e:
         print(f"Error en main: {e}")
 
-if __name__ == "__main__":
-    main()
+main()
